@@ -8,13 +8,7 @@
 	list-style:none;
 	height: 160px;
 }
-.navbar-fixed-top, .navbar-fixed-bottom {
-position: fixed;
-right: 0;
-left: 0;
-z-index: 1030;
-margin-bottom: 0;
-}
+
 
 
 .menu
