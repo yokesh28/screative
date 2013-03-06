@@ -9,6 +9,13 @@
 <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
   <link href="css/bootstrap-responsive.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet" media="screen">
+
+ <!--Images Effects-->
+<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:700,400italic' rel='stylesheet' type='text/css' />
+        
+        <link rel="stylesheet" type="text/css" href="css/effects.css" />
+        <script src="js/modernizr.custom.97074.js"></script>
+        <noscript><link rel="stylesheet" type="text/css" href="css/noJS.css"/></noscript>
 </head>
 <body>
 
@@ -38,9 +45,13 @@
 
 <div class="rollover row-fluid">
 
-  <ul class="roll ">
+  <ul  id="da-thumbs" class="da-thumbs roll" >
  
-    <li>  <img src="img/images/80-1.png" height="160px" width="160px">  </li>
+    <li>
+						<a href="http://dribbble.com/shots/505046-Menu">
+                          <img src="img/images/80-1.png" height="160px" width="160px">  
+                       <div><span>Menu by Simon Jensen</span></div>
+						</a></li>
     <li>  <img src="img/images/80-2.png" height="160px" width="160px"> </li>
     <li>  <img src="img/images/80-3.png" height="160px"  width="160px">  </li>
     <li>  <img src="img/images/80-4.png" height="160px" width="160px">  </li>
@@ -61,10 +72,18 @@
     <li>  <img src="img/images/80-18.png" height="160px" width="160px">  </li>
   
   </ul>
- 
+
 </div></div>
 <script src="http://twitter.github.com/bootstrap/assets/js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script> 
 <script src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/jquery.hoverdir.js"></script>	
+		<script type="text/javascript">
+			$(function() {
+			
+				$(' #da-thumbs > li ').each( function() { $(this).hoverdir(); } );
+
+			});
+		</script>
 </body>
 </html>
