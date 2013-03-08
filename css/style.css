@@ -25,6 +25,9 @@ padding:0px !important;
 	line-height: 85px;
 	border-left: 1px solid #e8e9eb;
 }
+.menu li:hover{
+	border-right: 1px solid #FDBA3B;
+}
 .menu li a {
 	color:black;
 	text-transform: uppercase;
