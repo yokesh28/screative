@@ -194,6 +194,62 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 .button li
 {margin:10px;list-style: none;
 }
+<<<<<<< HEAD
+
+
+.ui-tabs.ui-tabs-vertical {
+    padding: 0;
+    width: 42em;
+}
+.ui-tabs.ui-tabs-vertical .ui-widget-header {
+    border: none;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav {
+    float: left;
+    width: 10em;
+   
+   
+   
+   
+   
+   
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li {
+    clear: left;
+    width: 100%;
+   
+   
+   
+   
+    right: -2px;
+    z-index: 2;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li a {
+    display: block;
+    width: 100%;
+    padding: 0.6em 1em;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li a:hover {
+    cursor: pointer;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active {
+    margin-bottom: 0.2em;
+    padding-bottom: 0;
+    border-right: 1px solid white;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li:last-child {
+    margin-bottom: 10px;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-panel {
+    float: left;
+    width: 28em;
+   
+   
+    border-radius: 0;
+    position: relative;
+    left: -1px;
+}
+
 .navbar
 {
 	box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
@@ -204,3 +260,4 @@ overflow: visible !important;
 position: relative;
 z-index: 100;
 }
+

@@ -14,6 +14,7 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya+SC:700,400italic' rel='stylesheet' type='text/css' />
 <link rel="stylesheet" type="text/css" href="css/effects.css" />
 <script src="js/modernizr.custom.97074.js"></script>
+
 <noscript>
 <link rel="stylesheet" type="text/css" href="css/noJS.css"/>
 </noscript>
@@ -37,28 +38,52 @@
 				</div>
 		</div>
 		<br clear="all">
-		<div class="rollover row-fluid">
-				<h1>Services</h1>
-			<div class="row">
-						<div class="span3 bs-docs-sidebar">
-								<ul class="nav nav-list bs-docs-sidenav affix">
-										<li class="active"><a href="#typography"><i class="icon-chevron-right"></i> button1</a></li>
-										<li class=""><a href="#code"><i class="icon-chevron-right"></i>  button1</a></li>
-										<li class=""><a href="#tables"><i class="icon-chevron-right"></i>  button1</a></li>
-										<li class=""><a href="#forms"><i class="icon-chevron-right"></i>  button1</a></li>
-										<li class=""><a href="#buttons"><i class="icon-chevron-right"></i>  button1</a></li>
-										<li class=""><a href="#images"><i class="icon-chevron-right"></i>  button1</a></li>
-										<li class=""><a href="#icons"><i class="icon-chevron-right"></i>  button1</a></li>
-								</ul>
-						</div>
-						<div class="span9"> 
-								
-								
-						</div>
+		
+										
 				</div>
-				
-		</div>
+		
+
+
+
+
+<div class="rollover row-fluid">
+				<h1>Services</h1>
+			
+						
+								
+<div id="tabs">
+   <ul>
+        <li>
+            <a href="#a">Tab A</a>
+        </li>
+        <li>
+            <a href="#b">Tab B</a>
+        </li>
+        <li>
+            <a href="#c">Tab C</a>
+        </li>
+        <li>
+            <a href="#d">Tab D</a>
+        </li>
+    </ul>
+    <div id="a">
+        Content of A
+    </div>
+    <div id="b">
+        Content of B
+    </div>
+    <div id="c">
+        Content of C
+    </div>
+    <div id="d">
+        Content of D
+    </div>
+
 </div>
+</div>
+
+
+
 <footer class="footer">
       <div class="container">
       <ul>
@@ -79,12 +104,19 @@
 		<script src="js/bootstrap.min.js"></script> 
 		<script src="js/bootstrap.js"></script> 
 		<script type="text/javascript" src="js/jquery.hoverdir.js"></script> 
+		
+<script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
 		<script type="text/javascript">
 			$(function() {
 			
 				$(' #da-thumbs > li:nth-child(odd)').each( function() { $(this).hoverdir(); } );
 
 			});
+			$('#tabs')
+		    .tabs()
+		    .addClass('ui-tabs-vertical ui-helper-clearfix');
+
 		</script> 
 
 </body>
