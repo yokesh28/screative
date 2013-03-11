@@ -184,7 +184,7 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 	margin-bottom:0px !important;
 }
 #download-bootstrap h1 p1{text-color:orange;}
-.footer{margin:757px 390px 0px 0px;}
+
 .container ul
 {list-style:none;}
 #footer .right
@@ -194,7 +194,7 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 .button li
 {margin:10px;list-style: none;
 }
-<<<<<<< HEAD
+
 
 
 .ui-tabs.ui-tabs-vertical {
@@ -260,4 +260,11 @@ overflow: visible !important;
 position: relative;
 z-index: 100;
 }
-
+.footer_text
+{
+	padding: 10px 0px;
+}
+.footer
+{
+	margin: 18px 0px;
+}
