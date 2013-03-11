@@ -49,22 +49,18 @@ font-weight: 500;
 	margin-bottom: 20px;
 }
 .header {
-	position: fixed;
-	width: 96%;
+
 	top: 0%;
 	z-index: 99;
-		box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
--webkit-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
--moz-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
+	
 }
 .rollover
 {
 position: relative;
-top: 178px;
+width: 98%;
+
 }
-.container {
-	float:right;
-}
+
 .btn-navbar span{
 	color:#000000;
 	
@@ -197,6 +193,7 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 .button li
 {margin:10px;list-style: none;
 }
+<<<<<<< HEAD
 
 
 .ui-tabs.ui-tabs-vertical {
@@ -252,5 +249,14 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
     left: -1px;
 }
 
+.navbar
+{
+	box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-moz-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
 
+overflow: visible !important;
+position: relative;
+z-index: 100;
+}
 
