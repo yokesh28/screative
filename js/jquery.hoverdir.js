@@ -21,7 +21,7 @@
 
 	// the options
 	$.HoverDir.defaults = {
-		speed : 300,
+		speed : 1000,
 		easing : 'ease',
 		hoverDelay : 0,
 		inverse : false

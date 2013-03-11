@@ -1,5 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
+body{
+	overflow-x: hidden;
+}
 .main {
 	
 }
@@ -13,7 +16,8 @@
 	height: 160px;
 	
 }
-.opacity li img{background-color:#30f; color:#fff; -moz-opacity:0.4; -webkit-opacity:0.2;}
+.opacity li{background-color:#30f; color:#fff; -moz-opacity:0.4; -webkit-opacity:0.2;}
+.rollover {right:10%;left:0%;}
 .menu {
 	border: none;
 padding:0px !important;
@@ -65,71 +69,131 @@ top: 88px;;
 	color:#000000;
 	
 }
-
-.related img{position:absolute;top:36%;left:8%;}
-.related1{background: #262932;
-display: block;
-margin:278px 0px 0px 80px;
-width: 200px;
-height: 45px;
+.related p
+{
+top:12%;
+left:9%;
+font-family:calibri;
+position:absolute;	
+width: 184px;
+color: white;
+padding: 28px;
+text-transform:uppercase;
+background:#F77B08;text-align:justify;
+font-size:16px;
+zoom: 1;
+box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+}
+.related1 p
+{top:26%;font-family:calibri;
+left:10%;
+width:250px;
+color: black;
+padding:28px;
+background:white;text-align:justify;
+font-size:12px;
 position:absolute;
-font-size:14px;
-font-weight:700;color:white;
-}
-.block p{ text-align:center;}
-.related2 {
-	width:200px;
-	background:red;
-	height:151px;
-	position:absolute;
-	font-size:14px;
-	color:white;
-	margin:195px 0px 0px 280px;
-	text-align:center;}
-	
-	.related3{background: #262932;
-display: block;
-margin:1px 0px 0px 390px;
-width: 200px;
-height: 45px;
+zoom: 1;
+box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);}
+.related2 p
+{
+top:14%;
+left:33%;font-family:calibri;
+width: 290px;
+color:white ;
+padding: 28px;
+background:#F77B08;
+font-size:16px;
+text-align:justify;
 position:absolute;
-font-size:14px;text-align:center;
-font-weight:700;color:white;
-}
-
-
-.related4{background: white;
-display: block;
-margin:47px 0px 0px 482px;
-width: 300px;
-height: 445px;
+zoom: 1;
+box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);}
+.related3 p
+{top:28%;
+left:36%;
+width: 236px;
+padding: 28px;
+text-align:justify;
+background:white;
+font-size:12px;font-family:calibri;
 position:absolute;
-font-size:14px;
-font-weight:700;color:black;
-}
-.related5 img{position:absolute;top:37%;left:52%; height:1500px; width:300px;}
-.link
-{ 
-width: 100%;
-text-align: center;
-top:64%;
-color:white;
-right:30%;
-position: absolute;
-}
+zoom: 1;
+box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);}
+.related4 p
+{top:70%;text-transform:uppercase;
+left:33%;
+width: 431px;
+color: white;
+padding:18px;
+background:#F77B08;font-family:calibri;
+font-size:16px;text-align:justify;
+position:absolute;
+zoom: 1;
+box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);}
+.related5 p
+{top:13%;
+left:58%;
+width: 392px;
+padding:28px;
+background:white;font-family:calibri;
+font-size:12px;text-align:justify;
+position:absolute;
+zoom: 1;
+box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 10px 9px 0px 0px rgba(0, 0, 0, 0.15);}
+.related6 span
+{color:#F77B08;font-size:16px;}
+.related3 span
+{color:#F77B08;font-size:16px;}
+.related5 span
+{color:#F77B08;font-size:16px;}
+.related6 p
+{top:81%;
+left:47%;
+width: 307px;
+color: black;
+padding: 28px;
+background:white;
+font-size:12px;font-family:calibri;
+text-align:justify;
+position:absolute;
+zoom: 1;
+box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);}
+.related7 p
+{
+top:57%;
+left:67%;
+width: 362px;
+color:black;
+padding: 28px;
+background:white;font-family:calibri;
+font-size:12px;text-align:justify;
+position:absolute;
+zoom: 1;
+box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);}
+.related7 span{color:#F77B08;font-size:16px;}
 
-.link1
-{ 
-width: 100%;
-text-align: center;
-top:65%;
-color:white;
-left:16%;
-position: absolute;
-}
 		
-
+.right {float:right;}
 .navbar
 {
 	margin-bottom:0px !important;
+}
+#download-bootstrap h1 p1{text-color:orange;}
+.footer{margin:757px 390px 0px 0px;}
+.container ul
+{list-style:none;}
+#footer .right
+{
+	margin-right: 78px;
+}
+.button li
+{margin:10px;list-style: none;
 }
