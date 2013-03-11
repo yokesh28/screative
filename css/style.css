@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	overflow-x: hidden;
+
 }
 .main {
 	
@@ -59,8 +59,8 @@ font-weight: 500;
 }
 .rollover
 {
-	position: absolute;
-top: 88px;;
+position: relative;
+top: 178px;
 }
 .container {
 	float:right;
