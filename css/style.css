@@ -3,7 +3,14 @@
 body {
 	
 }
+<<<<<<< HEAD
 
+=======
+ul li
+{
+	list-style: none;
+}
+>>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
 .main {
 	
 }
@@ -260,7 +267,59 @@ body {
 }
 
 .ui-tabs.ui-tabs-vertical .ui-widget-header {
-	border: none;
+    border: none;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav {
+    float: left;
+    width: 10em;
+   list-style:none;
+   
+   
+   
+   
+   
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li {
+    clear: left;
+    width: 100%;
+   
+   
+   
+   
+    right: -2px;
+    z-index: 2;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li a {
+    display: block;
+    width: 100%;
+    padding: 0.6em 1em;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li a:hover {
+    cursor: pointer;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active {
+    margin-bottom: 0.2em;
+    padding-bottom: 0;
+   
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-nav li:last-child {
+    margin-bottom: 10px;
+}
+.ui-tabs.ui-tabs-vertical .ui-tabs-panel {
+    float: left;
+    width: 16em;
+   font-size:13px;
+   
+    border-radius: 0;
+    position: relative;
+    left: -1px;
+}
+
+.navbar
+{
+	box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-moz-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
 }
 
 .ui-tabs.ui-tabs-vertical .ui-tabs-nav {
@@ -324,3 +383,12 @@ body {
 	background: url(../img/images/background.png) no-repeat;
 	min-height: 641px;
 }
+=======
+
+#a li{list-style:none;}
+.services
+{margin:6px 55px;}
+
+.services p{width:257px;}
+
+>>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
