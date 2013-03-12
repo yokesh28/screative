@@ -106,7 +106,7 @@ ul li
 }
 
 .related1 div {
-	top: 24%;
+	bottom: -140px;
 	font-family: calibri;
 	left: 1%;
 	width: 250px;
@@ -141,7 +141,7 @@ overflow: hidden;
 }
 
 .related3 p {
-	top: 28%;
+	bottom: -240px;
 	right: 39%;
 	width: 236px;
 	padding: 28px;
@@ -156,7 +156,7 @@ overflow: hidden;
 }
 
 .related4 p {
-	bottom: 0%;
+	bottom: -100px;
 	text-transform: uppercase;
 	left: 5%;
 	width: 431px;
@@ -203,7 +203,7 @@ overflow: hidden;
 }
 
 .related6 p {
-	bottom: 10%;
+	bottom:-200px;
 	right: 35%;
 	width: 307px;
 	color: black;
@@ -219,7 +219,7 @@ overflow: hidden;
 }
 
 .related7 p {
-	bottom: 0%;
+	bottom: -100px;
 	right: 0%;
 	width: 362px;
 	color: black;
