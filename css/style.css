@@ -3,6 +3,10 @@
 body{
 
 }
+ul li
+{
+	list-style: none;
+}
 .main {
 	
 }
@@ -194,7 +198,7 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 .button li
 {margin:10px;list-style: none;
 }
-<<<<<<< HEAD
+
 
 
 .ui-tabs.ui-tabs-vertical {
@@ -207,7 +211,7 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 .ui-tabs.ui-tabs-vertical .ui-tabs-nav {
     float: left;
     width: 10em;
-   
+   list-style:none;
    
    
    
@@ -235,15 +239,15 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 .ui-tabs.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active {
     margin-bottom: 0.2em;
     padding-bottom: 0;
-    border-right: 1px solid white;
+   
 }
 .ui-tabs.ui-tabs-vertical .ui-tabs-nav li:last-child {
     margin-bottom: 10px;
 }
 .ui-tabs.ui-tabs-vertical .ui-tabs-panel {
     float: left;
-    width: 28em;
-   
+    width: 16em;
+   font-size:13px;
    
     border-radius: 0;
     position: relative;
@@ -260,4 +264,8 @@ overflow: visible !important;
 position: relative;
 z-index: 100;
 }
+#a li{list-style:none;}
+.services
+{margin:6px 55px;}
 
+.services p{width:257px;}
