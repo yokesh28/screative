@@ -188,7 +188,7 @@ box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 	margin-bottom:0px !important;
 }
 #download-bootstrap h1 p1{text-color:orange;}
-.footer{margin:757px 390px 0px 0px;}
+
 .container ul
 {list-style:none;}
 #footer .right
@@ -264,8 +264,10 @@ overflow: visible !important;
 position: relative;
 z-index: 100;
 }
+
 #a li{list-style:none;}
 .services
 {margin:6px 55px;}
 
 .services p{width:257px;}
+
