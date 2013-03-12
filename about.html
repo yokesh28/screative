@@ -19,6 +19,29 @@
 <noscript>
 	<link rel="stylesheet" type="text/css" href="css/noJS.css" />
 </noscript>
+<script src="http://twitter.github.com/bootstrap/assets/js/jquery.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$("#about_us").delay(200).animate({
+		
+			opacity : 1
+		}, 500);
+		
+		$(".related2 p").delay(300).animate({
+			"bottom" : "524px",
+			opacity : 1
+		}, 500);
+		
+		$(".related p").delay(400).animate({
+			"bottom" : "468px",
+			opacity : 1
+		}, 500);
+		$(".related5 p").delay(450).animate({
+			"bottom" : "228px",
+			opacity : 1
+		}, 500);
+	});
+</script>
 </head>
 <body>
 	<div class="main container-fluid ">
@@ -32,9 +55,9 @@
 							data-target=".nav-collapse"> <span>Main Menu</span>
 						</a>
 						<ul class="roll1 nav-collapse collapse">
-							<li class="span2"><a href="index.html">Home</a></li>
-							<li class="span2"><a href="about.html">About Us</a></li>
-							<li class="span2"><a href="service.html">Services</a></li>
+							<li class="span2"><a href="./index.html">Home</a></li>
+							<li class="span2"><a href="./about.html">About Us</a></li>
+							<li class="span2"><a href="./inner.html">Services</a></li>
 							<li class="span2"><a href="">Portfolio</a></li>
 							<li class="span2"><a href="">Contact Us</a></li>
 						</ul>
@@ -43,11 +66,11 @@
 			</div>
 		</div>
 
-		<div class="rollover row-fluid opacity inner_page ">
-
+		<div  class="rollover row-fluid opacity  " >
+			<div id="about_us" style="opacity:0" class="inner_page">
 			<div class="row-fluid">
 
-				<div class="related">
+				<div class="related" style="opactiy:0">
 
 					<p class="span3">
 						<b> &ldquo;Design is not just a business,it&rsquo;s a
@@ -56,22 +79,24 @@
 				</div>
 
 				<div class="related1">
-					<p class="span3">
+					<div class="span3">
 						We create interactivity for web and the physical world.<br>
 						From experiential storytelling projects to digital services to
 						physical-digital contraptions &#45;we do it all. our goal has been
 						to use digital technology to create experiences with a deeper
-						impact. Our teams are made up of multi-talented creatives,
-						technologist and producers, passionately curious about using
-						technology in new ways. We love doing things that haven &rsquo;t
-						been done before and we can offer a unique way to bridge the gap
-						between content and technology, between narrative and interactive
-						experience.
-					</p>
+						impact.
+
+						<p style="display: none;">Our teams are made up of
+							multi-talented creatives, technologist and producers,
+							passionately curious about using technology in new ways. We love
+							doing things that haven &rsquo;t been done before and we can
+							offer a unique way to bridge the gap between content and
+							technology, between narrative and interactive experience.</p>
+					</div>
 				</div>
 
 
-			
+
 				<div class="related2">
 					<p class="span5">
 						<b>WE LOVE WHAT WE DO AND WE DO IT WITH STYLE, PRECISION AND
@@ -95,7 +120,7 @@
 					</p>
 				</div>
 
-	<div class="related5">
+				<div class="related5">
 					<p class="span5">
 						<span><b>HOW WE THINK</b></span><br>it's important to be both
 						good looking & clever. Let us explain. Everything we make looks
@@ -141,6 +166,7 @@
 
 
 		</div>
+		</div>
 	</div>
 	<footer class="footer">
 		<div class="container">
@@ -160,15 +186,30 @@
 	</footer>
 
 
-	<script src="http://twitter.github.com/bootstrap/assets/js/jquery.js"></script>
+
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/jquery.hoverdir.js"></script>
 	<script type="text/javascript">
 		$(function() {
+			$("#nav_box").delay(200).animate({
+				"right" : "70px",
+				opacity : 1
+			}, 500);
 
 			$(' #da-thumbs > li:nth-child(odd)').each(function() {
 				$(this).hoverdir();
+			});
+
+			$('.related1 div').mouseover(function() {
+
+				$('.related1 div p').slideDown("slow");
+
+			});
+
+			$('.related1 div').mouseleave(function() {
+				$('.related1 div p').slideUp("slow");
+
 			});
 
 		});

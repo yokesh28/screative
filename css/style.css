@@ -89,7 +89,7 @@ ul li
 }
 
 .related p {
-	top: 12%;
+	bottom: -38%;
 	left: 0%;
 	font-family: calibri;
 	position: absolute;
@@ -105,7 +105,7 @@ ul li
 	-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 }
 
-.related1 p {
+.related1 div {
 	top: 24%;
 	font-family: calibri;
 	left: 1%;
@@ -119,10 +119,12 @@ ul li
 	zoom: 1;
 	box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 	-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+
+overflow: hidden;
 }
 
 .related2 p {
-	top: 2%;
+	bottom: 2%;
 	left: 28%;
 	font-family: calibri;
 	width: 290px;
@@ -171,7 +173,7 @@ ul li
 }
 
 .related5 p {
-	top: 14%;
+	bottom: -20%;
 	right: 0;
 	width: 392px;
 	padding: 28px;
