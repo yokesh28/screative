@@ -37,6 +37,7 @@
 <noscript>
 	<link rel="stylesheet" type="text/css" href="css/noJS.css" />
 </noscript>
+
 </head>
 
 <body>
@@ -57,7 +58,7 @@
 							<li class="span2"><a href="about.html">About Us</a></li>
 							<li class="span2"><a href="service.html">Services</a></li>
 							<li class="span2"><a href="">Portfolio</a></li>
-							<li class="span2"><a href="">Contact Us</a></li>
+							<li class="span2"><a href="contact.html">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -330,6 +331,9 @@
 
 		<script type="text/javascript">
 			$(function() {
+				
+				jQuery('.icon1').trigger('click');
+			
 
 				jQuery(' #da-thumbs > li:nth-child(odd)').each(function() {
 					$(this).hoverdir();
