@@ -106,9 +106,9 @@ ul li
 }
 
 .related1 p {
-	top: 26%;
+	top: 24%;
 	font-family: calibri;
-	left: 2%;
+	left: 1%;
 	width: 250px;
 	color: black;
 	padding: 28px;
@@ -135,11 +135,12 @@ ul li
 	zoom: 1;
 	box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 	-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+	z-index: 1;
 }
 
 .related3 p {
 	top: 28%;
-	left: 33%;
+	right: 39%;
 	width: 236px;
 	padding: 28px;
 	text-align: justify;
@@ -170,8 +171,8 @@ ul li
 }
 
 .related5 p {
-	top: 4%;
-	left: 58%;
+	top: 14%;
+	right: 0;
 	width: 392px;
 	padding: 28px;
 	background: white;
@@ -200,7 +201,7 @@ ul li
 }
 
 .related6 p {
-	bottom: 12%;
+	bottom: 10%;
 	right: 35%;
 	width: 307px;
 	color: black;
@@ -216,7 +217,7 @@ ul li
 }
 
 .related7 p {
-	top: 57%;
+	bottom: 0%;
 	right: 0%;
 	width: 362px;
 	color: black;
