@@ -396,3 +396,7 @@ overflow: hidden;
 .services p{width:257px;}
 
 .ei-slider-large li{}
+.roll1 li:hover
+{
+	cursor: pointer;
+}
