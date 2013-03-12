@@ -142,7 +142,7 @@ overflow: hidden;
 
 .related3 p {
 	bottom: -240px;
-	right: 39%;
+	right: 40%;
 	width: 236px;
 	padding: 28px;
 	text-align: justify;
@@ -153,6 +153,7 @@ overflow: hidden;
 	zoom: 1;
 	box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 	-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
+	z-index: 1;
 }
 
 .related4 p {
