@@ -316,7 +316,7 @@ footer {
 .ei-slider-large li {
 	position: absolute;
 	top: 10px;
-	width:1037px;
+	width:1447px;
 	left: 410px;
 	overflow: hidden;
 }
@@ -460,7 +460,7 @@ footer {
 
 .ei-title {
 	width: 199px;
-	
+	height:100%;
 	position: absolute;
 	left: 144px;
 	top:0px;
@@ -614,7 +614,7 @@ footer {
 }
 
 .slide6-6 {
-	background: url(../img/services/16.png)}
+	background: url(../img/services/16.png) no-repeat left;}
 
 .slide6-7 {
 	background: url(../img/services/17.png) no-repeat left;
