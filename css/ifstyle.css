@@ -309,14 +309,15 @@ footer {
 .ei-slider-large {
 	height: 100%;
 	width: 100%;
-	position: relative;
+	
 	overflow: hidden;
 }
 
 .ei-slider-large li {
 	position: absolute;
-	top: 0px;
-	left: 0px;
+	top: 10px;
+	width:1037px;
+	left: 410px;
 	overflow: hidden;
 }
 
@@ -459,10 +460,10 @@ footer {
 
 .ei-title {
 	width: 199px;
-	height: 100%;
+	
 	position: absolute;
-	left: 381px;
-	top:-30px;
+	left: 144px;
+	top:0px;
 	background-color: rgba(222, 225, 222, 0.9);
 }
 
@@ -672,9 +673,9 @@ footer {
 }
 
 .content {
-	width: 199px;
-	height: 100%;
-	left: 199px;
+	width: 224px;
+	
+	left: -80px;
 	top: 0px;
 	position: absolute;
 	background: #ddd;

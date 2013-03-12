@@ -386,7 +386,7 @@ overflow: hidden;
 	background: url(../img/images/background.png) no-repeat;
 	min-height: 641px;
 }
-=======
+
 
 #a li{list-style:none;}
 .services
@@ -394,4 +394,4 @@ overflow: hidden;
 
 .services p{width:257px;}
 
->>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
+.ei-slider-large li{}
