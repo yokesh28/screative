@@ -388,21 +388,7 @@ overflow: hidden;
 	min-height: 641px;
 }
 
-.span3
-{position: absolute;
-top: 62%;
-left: 7%;color:white;
-background: #F77B08;padding:10px;}
 
-.span2 p{background:white;
-position:absolute;
-top:140%;
-left:25%;padding:10px;}
-
-.span4{position: absolute;
-top: 62%;color:white;
-left: 20%;
-background: #F77B08;padding:10px;}
 
 #a li{list-style:none;}
 .services
