@@ -478,14 +478,14 @@ and design solutions to your needs.
 					<div class="related5">
 						<p class="span5">
 							<span><b>WHY WORK WITH US
-</b></span><br>“We enjoy the finer details of a project, 
+</b></span><br>&ldquo;We enjoy the finer details of a project, 
 considering every stage of its journey
 from planning to completion. Our projects not only 
 look great, they use the right tools that work for
 you and with your success comes ours. 
 We make sure to apply the same level of thought, 
 care and attention to every project 
-as if it were our own.”
+as if it were our own.&rdquo;
 
 
 						</p>
@@ -496,11 +496,11 @@ as if it were our own.”
 						<p class="span4">
 							<span><b>BEAUTY IS NOT ENOUGH
 </b></span><br>We love beautiful things, but when it comes to
-design we keep it with one of Alfa Romeo’s claims:
-La belezza non basta’ – Beauty is not enough!
-And we get inspired by Sir Norman Foster’s motto 
-‘Form follows function’. For us real beauty is not just  
-a nice shell, it’s as much internal as it is external. 
+design we keep it with one of Alfa Romeo&rsquo;s claims:
+La belezza non basta&rsquo; &ndash; Beauty is not enough!
+And we get inspired by Sir Norman Foster&rsquo;s motto 
+&lsquo;Form follows function&rsquo;. For us real beauty is not just  
+a nice shell, it&rsquo;s as much internal as it is external. 
 
 						</p>
 					</div>
@@ -511,7 +511,7 @@ a nice shell, it’s as much internal as it is external.
 							Whether your dream is to conquer the world with a 
 budget to match or your budget is more modest, we 
 always listen to your needs to come up with a solution 
-that’s right for you - within your budget.
+that&rsquo;s right for you - within your budget.
 						</p>
 					</div>
 
@@ -548,7 +548,7 @@ margin-left: 94px;" >
 		
 			</div>
 			<footer class="footer">
-		<div class="container">
+		
 			<ul>
 				<li style="float: left; width: 50px;"><img
 					src="img/images/smallbox.png">
@@ -556,10 +556,10 @@ margin-left: 94px;" >
 				
 				
 				</li>
-				<li class="footer_text"><span class="span4">S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
+				<li class="footer_text"><span class="span3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
 						POLICY</span> <span class="span2">TERMS OF USE</span> <img
-					class="right" style="margin-right: 10px" src="img/images/fb.png"> <img
-					class="right" style="margin-right: 10px" src="img/images/tw.png">
+					class="right" style="margin-right: 73px" src="img/images/fb.png"> <img
+					class="right" style="margin-right: -52px" src="img/images/tw.png">
 				
 				
 				
