@@ -10,13 +10,30 @@
 <link href="css/bootstrap-responsive.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet" media="screen">
 
+
+<link rel="stylesheet" type="text/css" href="css/ifstyle.css">
+<link rel="stylesheet" href="css/ifss.css" media="screen" />
+<link rel="stylesheet" href="css/iffolio.css" />
+
+
+
+
 <!--Images Effects-->
 <link
 	href='http://fonts.googleapis.com/css?family=Alegreya+SC:700,400italic'
 	rel='stylesheet' type='text/css' />
 <link rel="stylesheet" type="text/css" href="css/effects.css" />
 <script src="js/modernizr.custom.97074.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Roboto:500' rel='stylesheet' type='text/css'>
+
+
+<!--Images Effects-->
+<link
+	href='http://fonts.googleapis.com/css?family=Alegreya+SC:700,400italic'
+	rel='stylesheet' type='text/css' />
+<link rel="stylesheet" type="text/css" href="css/effects.css" />
+<script src="js/modernizr.custom.97074.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Roboto:500'
+	rel='stylesheet' type='text/css'>
 <noscript>
 	<link rel="stylesheet" type="text/css" href="css/noJS.css" />
 </noscript>
@@ -37,11 +54,14 @@
 						<ul class="roll1 nav-collapse collapse">
 
 
-							<li class="span2" onclick="return changePage('home');"><a href="#">Home</a></li>
-							<li class="span2" onclick="return changePage('aboutus');"><a href="#">About
-									Us</a></li>
-							<li class="span2"><a href="service.html">Services</a></li>
-							<li class="span2" onclick="return changePage('portfolio');"><a href="#">Portfolio</a></li>
+							<li class="span2" onclick="return changePage('home');"><a
+								href="#">Home</a></li>
+							<li class="span2" onclick="return changePage('aboutus');"><a
+								href="#">About Us</a></li>
+							<li class="span2" onclick="return changePage('services');"><a
+								href="#">Services</a></li>
+							<li class="span2" onclick="return changePage('portfolio');"><a
+								href="#">Portfolio</a></li>
 							<li class="span2"><a href="contact.html">Contact Us</a></li>
 						</ul>
 					</div>
@@ -50,168 +70,168 @@
 		</div>
 
 
-		<div id="page" >
-
-
-	
-
-		</div>
+		<div id="page"></div>
 	</div>
 
 
-	
-	<script src="http://twitter.github.com/bootstrap/assets/js/jquery.js"></script>
+
+	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+	<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
+
+
+
+
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/jquery.hoverdir.js"></script>
 	<script type="text/javascript">
-	changePage('home');
-	function changePage(page) {
-		$(".rollover").animate({
-			"bottom" : "800px",
-			opacity : 1
-		}, 300);
-		
-		
-		//jQuery('#page').html('<div id="loading" >Loading...</div>');
-		
-		if (page == "home") {
+		changePage('home');
+		function changePage(page) {
+			$(".rollover").animate({
+				"bottom" : "800px",
+				opacity : 1
+			}, 300);
 
-			$.ajax({'type':'POST',
-				'url':'page.php?page='+page,
-				'cache':false,
-				//'data':jQuery(this).parents("form").serialize(),
-				'success':function(html)
-				{
-					setTimeout(function(){
-						
-						jQuery('#page').replaceWith(html);
-						
-						$(".rollover").animate({
-							"bottom" : "0px",
-							opacity : 1
+			//jQuery('#page').html('<div id="loading" >Loading...</div>');
+
+			if (page == "home") {
+
+				$.ajax({
+					'type' : 'POST',
+					'url' : 'page.php?page=' + page,
+					'cache' : false,
+					//'data':jQuery(this).parents("form").serialize(),
+					'success' : function(html) {
+						setTimeout(function() {
+
+							jQuery('#page').replaceWith(html);
+
+							$(".rollover").animate({
+								"bottom" : "0px",
+								opacity : 1
+							}, 300);
+
+							jQuery(' #da-thumbs > li:nth-child(odd)').each(
+									function() {
+										$(this).hoverdir();
+									});
+
 						}, 300);
-						
-						jQuery(' #da-thumbs > li:nth-child(odd)').each(function() {
-							$(this).hoverdir();
-						});
-						
+
+					}
+				});
+
+			} else if (page == "services") {
+				$.ajax({
+					'type' : 'POST',
+					'url' : 'page.php?page=' + page,
+					'cache' : false,
+					//'data':jQuery(this).parents("form").serialize(),
+					'success' : function(html) {
+						setTimeout(function() {
+
+							jQuery('#page').replaceWith(html);
+
+							$(".rollover").animate({
+								"bottom" : "0px",
+								opacity : 1
+							}, 300);
+
 						}, 300);
-				
-					
-				}
-			});
-			
-		} else if (page == "aboutus") {
-			
-			
-			
-			$.ajax({'type':'POST',
-				'url':'page.php?page='+page,
-				'cache':false,
-				//'data':jQuery(this).parents("form").serialize(),
-				'success':function(html)
-				{
-					setTimeout(function(){
-						
-					
-					jQuery('#page').replaceWith(html);
-					
-					$(".rollover").animate({
-						"bottom" : "0px",
-						opacity : 1
-					}, 500);
-					
-					$(".related2 p").delay(300).animate({
-						"bottom" : "482px",
-						opacity : 1
-					}, 500);
 
-					$(".related p").delay(600).animate({
-						"bottom" : "120px",
-						opacity : 1
-					}, 300);
-					$(".related5 p").delay(450).animate({
-						"bottom" : "300px",
-						"margin-right": "24px",
-						opacity : 1
-					}, 300);
+					}
+				});
+			} else if (page == "aboutus") {
 
-					$(".related1 div").delay(480).animate({
-						"bottom" : "220px",
-						opacity : 1
-					}, 300);
+				$.ajax({
+					'type' : 'POST',
+					'url' : 'page.php?page=' + page,
+					'cache' : false,
+					//'data':jQuery(this).parents("form").serialize(),
+					'success' : function(html) {
+						setTimeout(function() {
 
-					$(".related3 p").delay(500).animate({
-						
-						"bottom": "320px",
-						"margin-right": "15px",
-						opacity : 1
-					}, 300);
+							jQuery('#page').replaceWith(html);
 
-					$(".related4 p").delay(600).animate({
-						"bottom" : "25px",
-						opacity : 1
-					}, 300);
+							$(".rollover").animate({
+								"bottom" : "0px",
+								opacity : 1
+							}, 500);
 
-					$(".related6 p").delay(550).animate({
-						
-						"bottom": "100px",
-						"margin-right": "40px",
-						opacity : 1
-					}, 300);
+							$(".related2 p").delay(300).animate({
+								"bottom" : "482px",
+								opacity : 1
+							}, 500);
 
-					$(".related7 p").delay(600).animate({
-						"bottom" : "0px",
-						"margin-right": "24px",
-					
-						opacity : 1
-					}, 300);
-					
-					}, 300);
-				}
-			});
-			
-			
-			
-		
+							$(".related p").delay(600).animate({
+								"bottom" : "120px",
+								opacity : 1
+							}, 300);
+							$(".related5 p").delay(450).animate({
+								"bottom" : "300px",
+								"margin-right" : "24px",
+								opacity : 1
+							}, 300);
 
+							$(".related1 div").delay(480).animate({
+								"bottom" : "220px",
+								opacity : 1
+							}, 300);
 
-			
+							$(".related3 p").delay(500).animate({
 
-		}
-		else if(page="portfolio")
-			{
-			$.ajax({'type':'POST',
-				'url':'page.php?page='+page,
-				'cache':false,
-				//'data':jQuery(this).parents("form").serialize(),
-				'success':function(html)
-				{
-					setTimeout(function(){
-					jQuery('#page').replaceWith(html);
+								"bottom" : "320px",
+								"margin-right" : "15px",
+								opacity : 1
+							}, 300);
 
-					$(".rollover").animate({
-						"bottom" : "0px",
-						opacity : 1
-					}, 300);
-					}, 300);
-				}
-			});
+							$(".related4 p").delay(600).animate({
+								"bottom" : "25px",
+								opacity : 1
+							}, 300);
+
+							$(".related6 p").delay(550).animate({
+
+								"bottom" : "100px",
+								"margin-right" : "40px",
+								opacity : 1
+							}, 300);
+
+							$(".related7 p").delay(600).animate({
+								"bottom" : "0px",
+								"margin-right" : "24px",
+
+								opacity : 1
+							}, 300);
+
+						}, 300);
+					}
+				});
+
+			} else if (page = "portfolio") {
+				$.ajax({
+					'type' : 'POST',
+					'url' : 'page.php?page=' + page,
+					'cache' : false,
+					//'data':jQuery(this).parents("form").serialize(),
+					'success' : function(html) {
+						setTimeout(function() {
+							jQuery('#page').replaceWith(html);
+
+							$(".rollover").animate({
+								"bottom" : "0px",
+								opacity : 1
+							}, 300);
+						}, 300);
+					}
+				});
 			}
 
-	}
-	
-	
-	
-	
+		}
+
 		$(function() {
 
-		
-			
 		});
-
-		
 	</script>
 </body>
 </html>
