@@ -9,9 +9,13 @@ ul li {
 }
 
 .main {
-	
+	padding:0px;
 }
 
+.navbar
+{
+	padding: 0px 60px;
+}
 .brand {
 	margin: 0px;
 	padding: 23px 20px 23px !important;
