@@ -237,7 +237,190 @@
 
 
 		
-		<?php endif;?> <?php if($_REQUEST['page']=="aboutus"):?>
+		<?php endif;?> 
+		<?php if($_REQUEST['page']=="services"):?>
+		<link rel="stylesheet" type="text/css" href="css/ifstyle.css">
+<link rel="stylesheet" href="css/ifss.css" media="screen" />
+<link rel="stylesheet" href="css/iffolio.css" />
+		
+					<div id="servicios" class="ifpanel" style="margin-left: 0px">
+				<div id="ei-slider" class="ei-slider">
+					<ul class="ei-slider-large">
+
+						<li><img src="img/services/slides/2.jpg">
+							<div class="ei-title">
+								<h2>Web</h2>
+								<div class="slide2-0"></div>
+								<p>Specialized development that integrates and enhances
+									communication, efficiency and producibility of its brand, with
+									tools that allow users digital experience memorable.</p>
+								<div class="slide2-1">
+									<p>3d</p>
+								</div>
+								<div class="slide2-2">
+									<p>Connectivity</p>
+								</div>
+								<div class="slide2-3">
+									<p>Semantics</p>
+								</div>
+								<div class="slide2-4">
+									<p>Media Content</p>
+								</div>
+								<div class="slide2-5">
+									<p>Styles and animation</p>
+								</div>
+								</br>
+								<p>
+									<b>Additional Platforms </b>
+								</p>
+								<div class="slide2-6">
+									<p>Web Management</p>
+								</div>
+								<div class="slide2-7">
+									<p>Ecommerce</p>
+								</div>
+								<div class="slide2-8">
+									<p>Web Development</p>
+								</div>
+							</div></li>
+						<li><img src="img/services/slides/3.jpg">
+							<div class="ei-title">
+								<h2>APPLICATIONS</h2>
+								</br>
+								<div class="slide3-0"></div>
+								</br>
+								<p>Extend the reach of your organization through the
+									development of interactive applications, implementing tools
+									versatile user experience with your brand.</p>
+
+								<div class="slide3-1"></div>
+								<p>Desktop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tablet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile</p>
+							</div></li>
+
+						<li><img src="img/services/slides/5.jpg">
+							<div class="ei-title">
+								<h2>BRANDING</h2>
+								<p>Design drives growth. Design begins with people. So
+									understanding needs, desires and preferences is always our
+									starting point. From the creation of brands, products and
+									services to changing perceptions or inspiring a company, our
+									solutions have a compelling simplicity – revealing potential,
+									initiating possibilities and realizing ambitions.</p>
+								</br>
+
+								<div class="slide5-1">
+									<p>Corporate Identity</p>
+								</div>
+								<div class="slide5-2">
+									<p>Packaging Design</p>
+								</div>
+								<div class="slide5-3">
+									<p>Advertising campaigns</p>
+								</div>
+								<div class="slide5-4">
+									<p>Brochures and Catalogs</p>
+								</div>
+								<div class="slide5-5">
+									<p>Digital Art</p>
+								</div>
+								</p>
+							</div></li>
+						<li><img src="img/services/slides/6.jpg">
+							<div class="ei-title">
+								<h2>Multimedia</h2>
+								<p>Experiences with high content and navigability
+									personalized interaction, aimed at strengthening communication
+									and efficient information structures supplied</p>
+								<div class="slide6-1">
+									<p>Interaction</p>
+								</div>
+								<div class="slide6-2">
+									<p>Visual Pro</p>
+								</div>
+
+								<div class="slide6-5">
+									<p>Statistics</p>
+								</div>
+								<div class="slide6-6">
+									<p>3D Integration</p>
+								</div>
+								<div class="slide6-7">
+									<p>Locution</p>
+								</div>
+								<div class="slide6-8">
+									<p>Animation</p>
+								</div>
+							</div></li>
+						<li><img src="img/services/slides/7.jpg">
+							<div class="ei-title">
+								<h2>3D</h2>
+								<p>From drawings, photographs or sketches design the virtual
+									simulation of your project, adequate 3D images and animations
+									in any format required for projects of Engineering,
+									Architecture and Industrial Design.</p>
+								</br>
+								<div class="slide7-1"></div>
+								<p>
+									• 3D Video </br> • Virtual Tours </br> • Infographics </br> • Corporate Stands
+									</br> • Product Model </br> • Character Design
+
+								</p>
+								<div class="slide7-2"></div>
+							</div></li>
+
+
+						<li><img src="img/services/slides/10.jpg">
+							<div class="ei-title">
+								<h2>DIGITAL MEDIA</h2>
+								</br>
+								<div class="slide10-0"></div>
+								</br>
+								<p>Printing Platform for producing advertising and Packaging
+									material. Thanks to our quality, performance and experience of
+									our trusted providers of recognized companies in this sector.</p>
+								<p>
+									• Off-Set Printing </br> • Digital Printing </br> • Pre Press </br> • Finishes
+
+								</p>
+							</div></li>
+					</ul>
+					<div class="content">
+						<h2>Services</h2>
+						<p>
+							<b>iF</b> es un estudio creativo dedicado a la publicidad
+							corporativa estratégica y la conceptualización interactiva,
+							integrada al desarrollo digital. </br> </br> Nuestros servicios proveen una
+							solución eficaz para el posicionamiento de marca.
+						</p>
+						<ul class="ei-slider-thumbs">
+							<li class="ei-slider-element"></li>
+
+							<li><a href="#"><span class="icon1"></span><span
+									class="bar"></span>Web</a></li>
+							<li><a href="#"><span class="icon2"></span><span
+									class="bar"></span>Applications </a></li>
+
+							<li><a href="#"><span class="icon4"></span><span
+									class="bar"></span>Branding </a></li>
+							<li><a href="#"><span class="icon5"></span><span
+									class="bar"></span>Multimedia</a></li>
+							<li><a href="#"><span class="icon6"></span><span
+									class="bar"></span>3D</a></li>
+
+							<li><a href="#"><span class="icon10"></span><span
+									class="bar"></span>Digital Media </a></li>
+						</ul>
+						</br>
+					</div>
+				</div>
+			</div>
+				<!--iF easing-->
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<!--iF Ei-->
+	<script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+	<script type="text/javascript" src="js/if.slideyonki.js"></script>
+		<?php endif;?>
+		<?php if($_REQUEST['page']=="aboutus"):?>
 							<div id="about_us"  class="inner_page">
 				<div class="row-fluid">
 
@@ -372,7 +555,7 @@ margin-left: 94px;" >
 		
 			<ul>
 				<li style="float: left; width: 50px;"><img
-					src="img/images/smallbox.png">
+					src="img/images/logo1.png">
 				
 				
 				
