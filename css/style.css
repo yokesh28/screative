@@ -9,13 +9,13 @@ ul li {
 }
 
 .main {
-	padding:0px;
+	padding: 0px;
 }
 
-.navbar
-{
+.navbar {
 	padding: 0px 60px;
 }
+
 .brand {
 	margin: 0px;
 	padding: 23px 20px 23px !important;
@@ -34,15 +34,15 @@ ul li {
 	-webkit-opacity: 0.2;
 }
 
-.coming{
+.coming {
 	position: absolute;
-	top:43%;
-	left:30%;
+	top: 43%;
+	left: 30%;
 	background: #F77B08;
-	
-text-align: center;
-color: white;
+	text-align: center;
+	color: white;
 }
+
 .rollover {
 	right: 10%;
 	left: 0%;
@@ -393,24 +393,26 @@ color: white;
 	margin: 18px 0px;
 }
 
-.inner_page
-{
-
+.inner_page {
 	background: url(../img/images/background1.png) no-repeat;
 	min-height: 641px;
 }
 
+#a li {
+	list-style: none;
+}
 
+.services {
+	margin: 6px 55px;
+}
 
-#a li{list-style:none;}
-.services
-{margin:6px 55px;}
+.controls {
+	color: #F77B08;
+}
 
-
-.controls {color:#F77B08;}
-.services p{width:257px;}
-
-
+.services p {
+	width: 257px;
+}
 
 .contact {
 	position: absolute;
@@ -418,14 +420,19 @@ color: white;
 	left: 8%;
 	background: #F77B08;
 	color: white;
-	padding: 22px;float:left;
+	padding: 22px;
+	float: left;
 }
-.c{float:right;position: absolute;
+
+.c {
+	float: right;
+	position: absolute;
 	top: 24%;
 	left: 8%;
 	background: #F77B08;
 	color: white;
-	padding: 22px;}
+	padding: 22px;
+}
 
 .conta {
 	background: url(../images/ss.gif) no-repeat;
@@ -433,23 +440,28 @@ color: white;
 	position: absolute;
 	top: 16%;
 	left: 6%;
-	font-size:18px;
+	font-size: 18px;
 	color: black;
 	padding: 10px;
 }
 
-.conta p{position: absolute;
+.conta p {
+	position: absolute;
 	top: 10%;
-	left: 8%;padding: 10px;}
-	
+	left: 8%;
+	padding: 10px;
+}
 
 .contact1 {
 	position: absolute;
-	top: 14%;
-	left: 21%;
+	bottom: 68%;
+	left: 35%;
 	background: #F77B08;
-	color: white;font-size:19px;
+	color: white;
+	font-size: 19px;
 	padding: 12px;
+	box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 0.15)
 }
 
 #a li {
@@ -464,11 +476,13 @@ color: white;
 	width: 257px;
 }
 
-.align form
-{position: absolute;
-	top: 20%;
-	left: 56%;padding:42px;
-	background:white;}
+.align{
+	position: absolute;
+	bottom: 10%;
+	left: 38%;
+	padding: 42px 28px;
+	background: white;
+}
 
 .roll1 li:hover {
 	cursor: pointer;
@@ -481,4 +495,72 @@ color: white;
 	background: orange;
 	text-align: center;
 	font-weight: bold;
+}
+
+.coffee {
+	position: absolute;
+	left: 4%;
+	top: 26%;
+}
+
+.top {
+	position: relative;
+	width: 280px;
+	height: 210px;
+	background: #F77B08;
+	padding: 50px 10px;
+	color: white;
+}
+
+.top .text1 {
+	position: absolute;
+	top: 50px;
+	left: 20px;
+}
+
+.top .text2 {
+	position: absolute;
+	bottom: 50px;
+	right: 20px;
+	line-height: 24px;
+}
+
+.let_us {
+	background: url("../images/ss.gif") no-repeat;
+	position: absolute;
+	top: 108px;
+	height: 75px;
+	width: 238px;
+	left: 14%;
+	color: black;
+	font-weight: bold;
+	padding: 16px 38px;
+font-size: 20px;
+}
+.align form label
+{
+	width:60px;
+	float: left;
+	color: #9e9e9e;
+}
+.align form input
+{
+	border: 1px solid #e2e2e2;
+}
+.align form input.btn
+{
+	float:right;
+	background: #30998b;
+border: none;
+-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 1px 0 0;
+-moz-box-shadow: rgba(0, 0, 0, 0.2) 0 1px 0 0;
+box-shadow: rgba(0, 0, 0, 0.2) 0 1px 0 0;
+border-bottom-color: #333;
+border: 1px solid #6cbcb4;
+border-radius: 0px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 3px;
+color: white;
+text-shadow: #333 1px 0;
+cursor: pointer;
 }
