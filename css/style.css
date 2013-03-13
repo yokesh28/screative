@@ -396,8 +396,9 @@ overflow: hidden;
 	min-height: 641px;
 }
 
-
-
+.contact{position:absolute;top:62%;left:9%;background:#F77B08;color:white;padding:10px;}
+.conta{position:absolute;top:165%;left:13%;background:white;color:black;padding:10px;}
+.contact1{position:absolute;top:77%;left:21%;background:#F77B08;color:white;padding:10px;}
 #a li{list-style:none;}
 .services
 {margin:6px 55px;}
