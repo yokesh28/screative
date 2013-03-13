@@ -37,9 +37,10 @@ ul li
 	position: absolute;
 	top:43%;
 	left:30%;
-	background: white;
-	width: 442px;
+	background: #F77B08;
+	
 text-align: center;
+color: white;
 }
 .rollover {
 	right: 10%;
@@ -392,7 +393,7 @@ overflow: hidden;
 }
 .inner_page
 {
-	background: url(../img/images/background.png) no-repeat;
+	background: url(../img/images/background1.png) no-repeat;
 	min-height: 641px;
 }
 
