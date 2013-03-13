@@ -239,6 +239,10 @@
 		
 		<?php endif;?> 
 		<?php if($_REQUEST['page']=="services"):?>
+		<link rel="stylesheet" type="text/css" href="css/ifstyle.css">
+<link rel="stylesheet" href="css/ifss.css" media="screen" />
+<link rel="stylesheet" href="css/iffolio.css" />
+		
 					<div id="servicios" class="ifpanel" style="margin-left: 0px">
 				<div id="ei-slider" class="ei-slider">
 					<ul class="ei-slider-large">
