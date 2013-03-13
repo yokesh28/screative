@@ -13,7 +13,7 @@
 	position: absolute;
 }
 
-* {
+* {  
 	margin: 0;
 	padding: 0;
 }
@@ -317,7 +317,7 @@ footer {
 	position: absolute;
 	top: 10px;
 	width:1447px;
-	left: 410px;
+
 	overflow: hidden;
 }
 
