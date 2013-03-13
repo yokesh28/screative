@@ -59,7 +59,7 @@
 								href="#">Services</a></li>
 							<li class="span2" onclick="return changePage('portfolio');"><a
 								href="#">Portfolio</a></li>
-							<li class="span2"><a href="contact.html">Contact Us</a></li>
+							<li class="span2" onclick="return changePage('contact')"><a href="#">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -102,6 +102,7 @@
 						setTimeout(function() {
 
 							jQuery('#page').replaceWith(html);
+							
 
 							$(".rollover").animate({
 								"bottom" : "0px",
@@ -205,7 +206,7 @@
 					}
 				});
 
-			} else if (page = "portfolio") {
+			} else if (page == "portfolio") {
 				$.ajax({
 					'type' : 'POST',
 					'url' : 'page.php?page=' + page,
@@ -223,7 +224,8 @@
 					}
 				});
 			}
-			else if (page = "contact") {
+			else if (page == "contact") {
+				alert(page);
 				$.ajax({
 					'type' : 'POST',
 					'url' : 'page.php?page=' + page,

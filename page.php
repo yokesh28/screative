@@ -546,9 +546,82 @@ margin-left: 94px;" >
 			</div>
 		</div>
 			<?php endif;?>
-			
-			
-			
+			<?php if($_REQUEST['page']=="contact"):?>
+						<div id="contact_us" style="opacity: 1;" class="inner_page">
+
+
+
+
+
+
+
+				<div class="coffee">
+					<div class="top">
+
+						<div class="span5 text1">
+							<h1>Coffee, Tea or juice</h1>
+						</div>
+
+
+						<div class="span5 text2">
+							and discuss what s-creative can do<br> to make your
+							bussiness more profitable.
+						</div>
+
+					</div>
+				</div>
+				<div class="let_us ">
+				Let us Buy you a
+				</div>
+
+				<div class="align span3">
+					<form>
+						<div class="control-group">
+							<label class="control-label span4">Name</label>
+
+							<div class="controls " >
+								<input type="text" class="span8">
+
+							</div>
+						</div>
+
+						<div class="control-group">
+							<label class="span4" >Mobile</label>
+							<div class="controls">
+								<input type="text" class="span8">
+
+							</div>
+						</div>
+
+						<div class="control-group">
+							<label class="span4">Email</label>
+							<div class="controls">
+								<input type="text" class="span8">
+
+							</div>
+						</div>
+
+						<div class="control-group">
+							<label class="span8">Post Enquiry</label>
+							<div class="controls">
+								<textarea rows="3" class="span8 offset4"></textarea>
+							</div>
+							<input type="submit" class="btn" value="Submit">
+						</div>
+					</form>
+				</div>
+
+
+				<div class="contact1 span2">
+				
+						<b>Enquiry</b>
+				
+				</div>
+
+
+
+			</div>
+			<?php endif;?>
 		
 			</div>
 			<footer class="footer">
