@@ -33,6 +33,14 @@ ul li
 	-webkit-opacity: 0.2;
 }
 
+.coming{
+	position: absolute;
+	top:43%;
+	left:30%;
+	background: white;
+	width: 442px;
+text-align: center;
+}
 .rollover {
 	right: 10%;
 	left: 0%;
