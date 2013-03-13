@@ -213,61 +213,25 @@
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
-					src="img/images/80-1.png" height="160px" width="160px">
+			
+				<li><a href="#"> <img
+					src="img/images/80-3.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
-			</a> <li><a href="#"> <img
-					src="img/images/80-11.png" height="160px" width="160px">
-							<div>
-								<span>S - CREATIVE</span>
-							</div>
-			
-			
-			
 			</a>
-			
-			
-			
 			</li>
-					<li><a href="#"> <img
-					src="img/images/80-1.png" height="160px" width="160px">
-							<div>
-								<span>S - CREATIVE</span>
-							</div>
-					</a>
-			
-			
-			
-			</li>
-					<li><a href="#"> <img
+			<li><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
-							<div>
-								<span>S - CREATIVE</span>
-							</div>
-			
-			
-			
+					<div>
+						<span>S - CREATIVE</span>
+					</div>
 			</a>
-			
-			
-			
 			</li>
-					<li><a href="#"> <img
-					src="img/images/80-6.png" height="160px" width="160px">
-							<div>
-								<span>S - CREATIVE</span>
-							</div>
+		
 			
 			
-			
-			</a>
-			
-			
-			
-			</li>
-					</li>
+		
 				</ul>
 			</div>
 
