@@ -9,9 +9,13 @@ ul li {
 }
 
 .main {
-	
+	padding:0px;
 }
 
+.navbar
+{
+	padding: 0px 60px;
+}
 .brand {
 	margin: 0px;
 	padding: 23px 20px 23px !important;
@@ -385,21 +389,13 @@ color: white;
 
 .inner_page
 {
-<<<<<<< HEAD
+
 	background: url(../img/images/background.png) no-repeat;
 	min-height: 641px;
 }
 
-.contact{position:absolute;top:14%;left:5%;background:#F77B08;color:white;padding:10px;}
-.conta {position:absolute;top:39%;left:11%;color:black;padding:10px;}
-.conta  img{position:absolute;top:-291%;left:-22%;}
-.conta  p{position:absolute;top:-197%;left:-4%;}
-.contact1{position:absolute;font-size:20px;top:7%;left:19%;background:#F77B08;color:white;padding:16px;}
-.align form{position: absolute;
-top: 10%;
-left: 52%;
-background: white;
-padding: 40px;}
+
+
 #a li{list-style:none;}
 .services
 {margin:6px 55px;}
@@ -408,16 +404,12 @@ padding: 40px;}
 .controls {color:#F77B08;}
 .services p{width:257px;}
 
-	background: url(../img/images/background1.png) no-repeat;
 
-
-	min-height: 641px;
-}
 
 .contact {
 	position: absolute;
-	top: 62%;
-	left: 9%;
+	top: 11%;
+	left: 6%;
 	background: #F77B08;
 	color: white;
 	padding: 10px;
@@ -425,13 +417,22 @@ padding: 40px;}
 
 .conta {
 	position: absolute;
-	top: 165%;
-	left: 13%;
+	top: 11%;
+	left: 5%;
 	background: white;
 	color: black;
 	padding: 10px;
 }
 
+.conta p{position: absolute;
+	top: 165%;
+	left: 13%;padding: 10px;}
+	
+.conta img{position: absolute;
+	top: 165%;
+	left: 13%;
+	padding: 10px;
+}
 .contact1 {
 	position: absolute;
 	top: 77%;

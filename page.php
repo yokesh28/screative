@@ -3,225 +3,225 @@
 	<?php if($_REQUEST['page']=="home"):?>
 	<div id="home_page">
 		<ul id="da-thumbs" class="da-thumbs roll">
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-1.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-2.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-3.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-5.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-6.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-7.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-8.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-9.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-10.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-11.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-12.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-13.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-14.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-15.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-16.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-8.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-17.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-18.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-3.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-5.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-8.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-9.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-11.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-6.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-13.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-15.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-2.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-17.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			<li><a href="#"> <img
 					src="img/images/80-1.png" height="160px" width="160px">
 					<div>
-						<span>Menu by Simon Jensen</span>
+						<span>S - CREATIVE</span>
 					</div>
-			</a> <li><a href="http://dribbble.com/shots/505046-Menu"> <img
+			</a> <li><a href="#"> <img
 					src="img/images/80-11.png" height="160px" width="160px">
 							<div>
-								<span>Menu by Simon Jensen</span>
+								<span>S - CREATIVE</span>
 							</div>
 			
 			
@@ -231,20 +231,20 @@
 			
 			
 			</li>
-					<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					<li><a href="#"> <img
 					src="img/images/80-1.png" height="160px" width="160px">
 							<div>
-								<span>Menu by Simon Jensen</span>
+								<span>S - CREATIVE</span>
 							</div>
 					</a>
 			
 			
 			
 			</li>
-					<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					<li><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
 							<div>
-								<span>Menu by Simon Jensen</span>
+								<span>S - CREATIVE</span>
 							</div>
 			
 			
@@ -254,10 +254,10 @@
 			
 			
 			</li>
-					<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					<li><a href="#"> <img
 					src="img/images/80-6.png" height="160px" width="160px">
 							<div>
-								<span>Menu by Simon Jensen</span>
+								<span>S - CREATIVE</span>
 							</div>
 			
 			
@@ -386,7 +386,22 @@
 
 			</div>
 			<?php endif;?>
-			
+			<?php if($_REQUEST['page']=="portfolio"):?>
+				<div class="rollover row-fluid">
+			<div id="about_us"  class="inner_page">
+
+
+				<div class="coming">
+						<h1  style="font-size: 34.5px; padding-right: 100px;
+margin-left: 94px;" >
+							COMING SOON !</h1>
+						
+					</div>
+
+
+			</div>
+		</div>
+			<?php endif;?>
 			
 			
 			
@@ -401,8 +416,7 @@
 				
 				
 				</li>
-				<li class="footer_text"><span class="span4">DIFFERENCE
-						UNITES US,INC.COPYRIGHT 2012</span> <span class="span2">PRIVACY
+				<li class="footer_text"><span class="span4">S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
 						POLICY</span> <span class="span2">TERMS OF USE</span> <img
 					class="right" style="margin-right: 10px" src="img/images/fb.png"> <img
 					class="right" style="margin-right: 10px" src="img/images/tw.png">
