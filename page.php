@@ -1,12 +1,287 @@
+<div id="page" >
+<div class="rollover row-fluid " style="bottom: -500px">
+	<?php if($_REQUEST['page']=="home"):?>
+	<div id="home_page">
+		<ul id="da-thumbs" class="da-thumbs roll">
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-1.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-2.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-3.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-4.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-5.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-6.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-7.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-8.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-9.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-10.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-11.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-12.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-13.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-14.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-15.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-16.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-8.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-17.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-18.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-3.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-5.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-8.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-9.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-11.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-6.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-13.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-4.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-15.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-2.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-17.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a>
+			</li>
+			<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-1.png" height="160px" width="160px">
+					<div>
+						<span>Menu by Simon Jensen</span>
+					</div>
+			</a> <li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-11.png" height="160px" width="160px">
+							<div>
+								<span>Menu by Simon Jensen</span>
+							</div>
+			
+			
+			
+			</a>
+			
+			
+			
+			</li>
+					<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-1.png" height="160px" width="160px">
+							<div>
+								<span>Menu by Simon Jensen</span>
+							</div>
+					</a>
+			
+			
+			
+			</li>
+					<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-4.png" height="160px" width="160px">
+							<div>
+								<span>Menu by Simon Jensen</span>
+							</div>
+			
+			
+			
+			</a>
+			
+			
+			
+			</li>
+					<li><a href="http://dribbble.com/shots/505046-Menu"> <img
+					src="img/images/80-6.png" height="160px" width="160px">
+							<div>
+								<span>Menu by Simon Jensen</span>
+							</div>
+			
+			
+			
+			</a>
+			
+			
+			
+			</li>
+					</li>
+				</ul>
+			</div>
 
-			<div id="about_us"  class="inner_page">
-				<div class="row-fluid">
 
-					<div class="related" style="opactiy: 0">
+		
+		<?php endif;?> <?php if($_REQUEST['page']=="aboutus"):?>
+				<div id="about_us" class="inner_page">
+					<div class="row-fluid">
 
-						<p class="span3">
-							<b> &ldquo;Design is not just a business,it&rsquo;s a
-								passion&rdquo;</b>
+						<div class="related" style="opactiy: 0">
+
+							<p class="span3">
+								<b> &ldquo;Design is not just a business,it&rsquo;s a
+									passion&rdquo;</b>
 						</p>
 					</div>
 
@@ -37,7 +312,11 @@
 					</div>
 					<div class="related3">
 						<p class="span3">
-							<span><b>WHO WE ARE?</b></span><br> shill-creativ studio
+							<span><b>WHO WE ARE?</b>
+								
+								
+								
+								</span><br> shill-creativ studio
 							also realizes self-initiated projects, mainly in the art and
 							culture field. These self-promotional websites and creatives
 							provide a platform for progress and innovation, enhancing the
@@ -54,7 +333,11 @@
 
 					<div class="related5">
 						<p class="span5">
-							<span><b>HOW WE THINK</b></span><br>it's important to be
+							<span><b>HOW WE THINK</b>
+								
+								
+								
+								</span><br>it's important to be
 							both good looking & clever. Let us explain. Everything we make
 							looks good. That’s why you engage an agency like ours; you want
 							your communications to look good. And rightly so. But honestly,
@@ -75,14 +358,22 @@
 					<div class="related6">
 
 						<p class="span4">
-							<span><b>HOW WE WORK</b></span><br>We are a team of creative
+							<span><b>HOW WE WORK</b>
+								
+								
+								
+								</span><br>We are a team of creative
 							professionals working together, with you, to turn your ideas into
 							an adventure.
 						</p>
 					</div>
 					<div class="related7">
 						<p class="span5">
-							<span><b>OUR FRIENDS</b></span><br>We don&rsquo;t rely on
+							<span><b>OUR FRIENDS</b>
+								
+								
+								
+								</span><br>We don&rsquo;t rely on
 							sales calls or stuffy networking, our work comes from
 							word-of-mouth. It &rsquo;s said that you &rsquo;re only as good
 							as your last job.
@@ -94,3 +385,35 @@
 
 
 			</div>
+			<?php endif;?>
+			
+			
+			
+			
+		
+			</div>
+			<footer class="footer">
+		<div class="container">
+			<ul>
+				<li style="float: left; width: 50px;"><img
+					src="img/images/smallbox.png">
+				
+				
+				
+				</li>
+				<li class="footer_text"><span class="span4">DIFFERENCE
+						UNITES US,INC.COPYRIGHT 2012</span> <span class="span2">PRIVACY
+						POLICY</span> <span class="span2">TERMS OF USE</span> <img
+					class="right" style="margin-right: 10px" src="img/images/fb.png"> <img
+					class="right" style="margin-right: 10px" src="img/images/tw.png">
+				
+				
+				
+				</li>
+
+			</ul>
+
+
+		</div>
+	</footer>
+	</div>
