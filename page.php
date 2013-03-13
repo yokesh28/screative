@@ -617,7 +617,11 @@ margin-left: 94px;" >
 						<b>Enquiry</b>
 				
 				</div>
-
+<div class="contact5">
+				
+			<img src="img/contact.png">
+				
+				</div>
 
 
 			</div>
