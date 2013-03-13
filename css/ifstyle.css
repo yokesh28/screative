@@ -462,7 +462,7 @@ footer {
 	width: 199px;
 	height:100%;
 	position: absolute;
-	left: 144px;
+	left: 244px;
 	top:0px;
 	background-color: rgba(222, 225, 222, 0.9);
 }
@@ -677,7 +677,7 @@ text-align: justify;
 .content {
 	width: 224px;
 	
-	left: -80px;
+	left: 18px;
 	top: 0px;
 	position: absolute;
 	background: white;
