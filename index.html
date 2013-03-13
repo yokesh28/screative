@@ -37,11 +37,11 @@
 						<ul class="roll1 nav-collapse collapse">
 
 
-							<li class="span2"><a onclick="return changePage('home');">Home</a></li>
-							<li class="span2"><a onclick="return changePage('aboutus');">About
+							<li class="span2" onclick="return changePage('home');"><a href="#">Home</a></li>
+							<li class="span2" onclick="return changePage('aboutus');"><a href="#">About
 									Us</a></li>
 							<li class="span2"><a href="service.html">Services</a></li>
-							<li class="span2"><a href="portfolio.html">Portfolio</a></li>
+							<li class="span2" onclick="return changePage('portfolio');"><a href="#">Portfolio</a></li>
 							<li class="span2"><a href="contact.html">Contact Us</a></li>
 						</ul>
 					</div>
@@ -67,28 +67,41 @@
 	<script type="text/javascript">
 	changePage('home');
 	function changePage(page) {
-		jQuery('#page').html('<div id="loading" >Loading...</div>');
+		$(".rollover").animate({
+			"bottom" : "800px",
+			opacity : 1
+		}, 300);
+		
+		
+		//jQuery('#page').html('<div id="loading" >Loading...</div>');
 		
 		if (page == "home") {
-			
+
 			$.ajax({'type':'POST',
 				'url':'page.php?page='+page,
 				'cache':false,
 				//'data':jQuery(this).parents("form").serialize(),
 				'success':function(html)
 				{
-					jQuery('#page').replaceWith(html);
+					setTimeout(function(){
+						
+						jQuery('#page').replaceWith(html);
+						
+						$(".rollover").animate({
+							"bottom" : "0px",
+							opacity : 1
+						}, 300);
+						
+						jQuery(' #da-thumbs > li:nth-child(odd)').each(function() {
+							$(this).hoverdir();
+						});
+						
+						}, 300);
+				
 					
-					$(".rollover").animate({
-						"bottom" : "0px",
-						opacity : 1
-					}, 500);
-					
-					jQuery(' #da-thumbs > li:nth-child(odd)').each(function() {
-						$(this).hoverdir();
-					});
 				}
 			});
+			
 		} else if (page == "aboutus") {
 			
 			
@@ -99,6 +112,9 @@
 				//'data':jQuery(this).parents("form").serialize(),
 				'success':function(html)
 				{
+					setTimeout(function(){
+						
+					
 					jQuery('#page').replaceWith(html);
 					
 					$(".rollover").animate({
@@ -154,6 +170,7 @@
 						$('.related1 div p').slideUp("slow");
 
 					});
+					},300);
 				}
 			});
 			
@@ -165,6 +182,25 @@
 			
 
 		}
+		else if(page="portfolio")
+			{
+			$.ajax({'type':'POST',
+				'url':'page.php?page='+page,
+				'cache':false,
+				//'data':jQuery(this).parents("form").serialize(),
+				'success':function(html)
+				{
+					setTimeout(function(){
+					jQuery('#page').replaceWith(html);
+
+					$(".rollover").animate({
+						"bottom" : "0px",
+						opacity : 1
+					}, 300);
+					}, 300);
+				}
+			});
+			}
 
 	}
 	
