@@ -231,7 +231,7 @@ footer {
 }
 
 ::selection {
-	background: #fc0;
+	background:  #2F7EC1;
 	color: #000;
 	text-shadow: none;
 }
@@ -402,7 +402,7 @@ footer {
 }
 
 .ei-slider-thumbs li a:active {
-	border: 1px solid #ffc200;
+	border: 1px solid  #2F7EC1;
 }
 
 .ei-slider-thumbs li a span.bar {
