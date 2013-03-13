@@ -471,6 +471,14 @@ ul li {
 -webkit-box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 0.15)
 }
 
+.contact5
+{position: absolute;
+	top: 22%;
+	left: 68%;
+	background: #2F7EC1;
+	padding: 76px;
+	zoom:0.5;}
+
 #a li {
 	list-style: none;
 }
