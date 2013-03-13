@@ -63,7 +63,7 @@ ul li {
 }
 
 .menu li:hover {
-	border-right: 1px solid #FDBA3B;
+	border-right: 1px solid #2F7EC1;
 }
 
 .menu li a {
@@ -75,7 +75,7 @@ ul li {
 
 .menu li:hover a {
 	text-decoration: none;
-	color: #FDBA3B;
+	color:#2F7EC1;
 }
 
 .logo {
