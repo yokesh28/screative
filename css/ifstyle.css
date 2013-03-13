@@ -142,7 +142,7 @@ nav a span.bar {
 }
 
 h1 {
-	color: #F77B08;
+	color: white;
 	margin-top: 73px;
 	margin: 12px 0px 0px -117px; font-size : 16px;
 	opacity: 0.5;
@@ -231,7 +231,7 @@ footer {
 }
 
 ::selection {
-	background: #fc0;
+	background:  #2F7EC1;
 	color: #000;
 	text-shadow: none;
 }
@@ -402,7 +402,7 @@ footer {
 }
 
 .ei-slider-thumbs li a:active {
-	border: 1px solid #ffc200;
+	border: 1px solid  #2F7EC1;
 }
 
 .ei-slider-thumbs li a span.bar {
@@ -691,7 +691,7 @@ text-align: justify;
 	font-size: 22px;
 	letter-spacing: -.05em;
 	padding: 17px 22px 0px 22px;
-	color: #ffc200;
+	color: #2F7EC1;
 	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
 }
 
