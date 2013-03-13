@@ -463,7 +463,7 @@ footer {
 	height:100%;
 	position: absolute;
 	left: 244px;
-	top:0px;
+	top:-32px;
 	background-color: rgba(222, 225, 222, 0.9);
 }
 
@@ -676,9 +676,9 @@ text-align: justify;
 
 .content {
 	width: 224px;
-	
+	height:588px;
 	left: 18px;
-	top: 0px;
+	top: -23px;
 	position: absolute;
 	background: white;
 	-webkit-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .1);
