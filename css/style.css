@@ -455,13 +455,21 @@ ul li {
 .contact1 {
 	position: absolute;
 	bottom: 68%;
-	left: 35%;
+	left: 30%;
 	background: #F77B08;
 	color: white;
 	font-size: 19px;
 	padding: 12px;
 	box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 0.15);
 -webkit-box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 0.15)
+}
+
+.contact5 {
+	background: #2F7EC1;
+	position: absolute;
+	bottom: 18%;
+	left: 61%;
+	padding:71px;
 }
 
 #a li {
@@ -479,7 +487,7 @@ ul li {
 .align{
 	position: absolute;
 	bottom: 10%;
-	left: 38%;
+	left: 33%;
 	padding: 42px 28px;
 	background: white;
 }
@@ -528,10 +536,10 @@ ul li {
 .let_us {
 	background: url("../images/ss.gif") no-repeat;
 	position: absolute;
-	top: 108px;
+	top: 113px;
 	height: 75px;
 	width: 238px;
-	left: 14%;
+	left: 10%;
 	color: black;
 	font-weight: bold;
 	padding: 16px 38px;
