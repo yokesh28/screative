@@ -408,38 +408,42 @@ color: white;
 
 .contact {
 	position: absolute;
-	top: 11%;
-	left: 6%;
+	top: 24%;
+	left: 8%;
 	background: #F77B08;
 	color: white;
-	padding: 10px;
+	padding: 22px;float:left;
 }
+.c{float:right;position: absolute;
+	top: 24%;
+	left: 8%;
+	background: #F77B08;
+	color: white;
+	padding: 22px;}
 
 .conta {
+	background: url(../images/ss.gif) no-repeat;
+	height: 86px;
 	position: absolute;
-	top: 11%;
-	left: 5%;
-	background: white;
+	top: 16%;
+	left: 6%;
+	font-size:18px;
 	color: black;
 	padding: 10px;
 }
 
 .conta p{position: absolute;
-	top: 165%;
-	left: 13%;padding: 10px;}
+	top: 10%;
+	left: 8%;padding: 10px;}
 	
-.conta img{position: absolute;
-	top: 165%;
-	left: 13%;
-	padding: 10px;
-}
+
 .contact1 {
 	position: absolute;
-	top: 77%;
+	top: 14%;
 	left: 21%;
 	background: #F77B08;
-	color: white;
-	padding: 10px;
+	color: white;font-size:19px;
+	padding: 12px;
 }
 
 #a li {
@@ -454,9 +458,11 @@ color: white;
 	width: 257px;
 }
 
-.ei-slider-large li {
-	
-}
+.align form
+{position: absolute;
+	top: 20%;
+	left: 56%;padding:42px;
+	background:white;}
 
 .roll1 li:hover {
 	cursor: pointer;
