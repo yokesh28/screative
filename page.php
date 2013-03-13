@@ -372,7 +372,7 @@ margin-left: 94px;" >
 		
 			</div>
 			<footer class="footer">
-		<div class="container">
+		
 			<ul>
 				<li style="float: left; width: 50px;"><img
 					src="img/images/smallbox.png">
@@ -380,10 +380,10 @@ margin-left: 94px;" >
 				
 				
 				</li>
-				<li class="footer_text"><span class="span4">S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
+				<li class="footer_text"><span class="span3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
 						POLICY</span> <span class="span2">TERMS OF USE</span> <img
-					class="right" style="margin-right: 10px" src="img/images/fb.png"> <img
-					class="right" style="margin-right: 10px" src="img/images/tw.png">
+					class="right" style="margin-right: 73px" src="img/images/fb.png"> <img
+					class="right" style="margin-right: -52px" src="img/images/tw.png">
 				
 				
 				
