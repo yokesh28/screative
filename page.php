@@ -555,7 +555,7 @@ margin-left: 94px;" >
 		
 			<ul>
 				<li style="float: left; width: 50px;"><img
-					src="img/images/smallbox.png">
+					src="img/images/logo1.png">
 				
 				
 				
