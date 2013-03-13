@@ -678,7 +678,7 @@ footer {
 	left: -80px;
 	top: 0px;
 	position: absolute;
-	background: #ddd;
+	background: white;
 	-webkit-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .1);
 	-moz-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .1);
 	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .1);
