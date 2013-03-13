@@ -38,7 +38,7 @@ ul li {
 	position: absolute;
 	top: 43%;
 	left: 30%;
-	background: #F77B08;
+	background: #2F7EC1;
 	text-align: center;
 	color: white;
 }
@@ -107,7 +107,7 @@ ul li {
 	color: white;
 	padding: 28px;
 	text-transform: uppercase;
-	background: #F77B08;
+	background: #2F7EC1;
 	text-align: justify;
 	font-size: 16px;
 	zoom: 1;
@@ -139,7 +139,7 @@ ul li {
 	width: 290px;
 	color: white;
 	padding: 28px;
-	background: #F77B08;
+	background: #2F7EC1;
 	font-size: 16px;
 	text-align: justify;
 	position: absolute;
@@ -172,7 +172,7 @@ ul li {
 	width: 431px;
 	color: white;
 	padding: 18px;
-	background: #F77B08;
+	background:#2F7EC1;
 	font-family: calibri;
 	font-size: 16px;
 	text-align: justify;
@@ -198,17 +198,17 @@ ul li {
 }
 
 .related6 span {
-	color: #F77B08;
+	color: #2F7EC1;
 	font-size: 16px;
 }
 
 .related3 span {
-	color: #F77B08;
+	color: #2F7EC1;
 	font-size: 16px;
 }
 
 .related5 span {
-	color: #F77B08;
+	color: #2F7EC1;
 	font-size: 16px;
 }
 
@@ -245,7 +245,7 @@ ul li {
 }
 
 .related7 span {
-	color: #F77B08;
+	color: #2F7EC1;
 	font-size: 16px;
 }
 
@@ -450,7 +450,7 @@ ul li {
 	position: absolute;
 	bottom: 68%;
 	left: 35%;
-	background: #F77B08;
+	background: #2F7EC1;
 	color: white;
 	font-size: 19px;
 	padding: 12px;
@@ -501,7 +501,7 @@ ul li {
 	position: relative;
 	width: 280px;
 	height: 210px;
-	background: #F77B08;
+	background: #2F7EC1;
 	padding: 50px 10px;
 	color: white;
 }
