@@ -9,13 +9,13 @@ ul li {
 }
 
 .main {
-	padding:0px;
+	padding: 0px;
 }
 
-.navbar
-{
+.navbar {
 	padding: 0px 60px;
 }
+
 .brand {
 	margin: 0px;
 	padding: 23px 20px 23px !important;
@@ -34,15 +34,15 @@ ul li {
 	-webkit-opacity: 0.2;
 }
 
-.coming{
+.coming {
 	position: absolute;
-	top:43%;
-	left:30%;
+	top: 43%;
+	left: 30%;
 	background: #F77B08;
-	
-text-align: center;
-color: white;
+	text-align: center;
+	color: white;
 }
+
 .rollover {
 	right: 10%;
 	left: 0%;
@@ -387,24 +387,26 @@ color: white;
 	margin: 18px 0px;
 }
 
-.inner_page
-{
-
+.inner_page {
 	background: url(../img/images/background1.png) no-repeat;
 	min-height: 641px;
 }
 
+#a li {
+	list-style: none;
+}
 
+.services {
+	margin: 6px 55px;
+}
 
-#a li{list-style:none;}
-.services
-{margin:6px 55px;}
+.controls {
+	color: #F77B08;
+}
 
-
-.controls {color:#F77B08;}
-.services p{width:257px;}
-
-
+.services p {
+	width: 257px;
+}
 
 .contact {
 	position: absolute;
@@ -412,14 +414,19 @@ color: white;
 	left: 8%;
 	background: #F77B08;
 	color: white;
-	padding: 22px;float:left;
+	padding: 22px;
+	float: left;
 }
-.c{float:right;position: absolute;
+
+.c {
+	float: right;
+	position: absolute;
 	top: 24%;
 	left: 8%;
 	background: #F77B08;
 	color: white;
-	padding: 22px;}
+	padding: 22px;
+}
 
 .conta {
 	background: url(../images/ss.gif) no-repeat;
@@ -427,22 +434,25 @@ color: white;
 	position: absolute;
 	top: 16%;
 	left: 6%;
-	font-size:18px;
+	font-size: 18px;
 	color: black;
 	padding: 10px;
 }
 
-.conta p{position: absolute;
+.conta p {
+	position: absolute;
 	top: 10%;
-	left: 8%;padding: 10px;}
-	
+	left: 8%;
+	padding: 10px;
+}
 
 .contact1 {
 	position: absolute;
 	top: 14%;
 	left: 21%;
 	background: #F77B08;
-	color: white;font-size:19px;
+	color: white;
+	font-size: 19px;
 	padding: 12px;
 }
 
@@ -458,11 +468,13 @@ color: white;
 	width: 257px;
 }
 
-.align form
-{position: absolute;
-	top: 20%;
-	left: 56%;padding:42px;
-	background:white;}
+.align{
+	position: absolute;
+	top: 18%;
+	left: 56%;
+	padding: 42px;
+	background: white;
+}
 
 .roll1 li:hover {
 	cursor: pointer;
@@ -475,4 +487,45 @@ color: white;
 	background: orange;
 	text-align: center;
 	font-weight: bold;
+}
+
+.coffee {
+	position: absolute;
+	left: 4%;
+	top: 26%;
+}
+
+.top {
+	position: relative;
+	width: 280px;
+	height: 210px;
+	background: #F77B08;
+	padding: 50px 10px;
+	color: white;
+}
+
+.top .text1 {
+	position: absolute;
+	top: 50px;
+	left: 20px;
+}
+
+.top .text2 {
+	position: absolute;
+	bottom: 50px;
+	right: 20px;
+	line-height: 24px;
+}
+
+.let_us {
+	background: url("../images/ss.gif") no-repeat;
+	position: absolute;
+	top: 108px;
+	height: 75px;
+	width: 238px;
+	left: 14%;
+	color: black;
+	font-weight: bold;
+	padding: 16px 38px;
+font-size: 20px;
 }
