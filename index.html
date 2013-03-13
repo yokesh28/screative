@@ -223,6 +223,24 @@
 					}
 				});
 			}
+			else if (page = "contact") {
+				$.ajax({
+					'type' : 'POST',
+					'url' : 'page.php?page=' + page,
+					'cache' : false,
+					//'data':jQuery(this).parents("form").serialize(),
+					'success' : function(html) {
+						setTimeout(function() {
+							jQuery('#page').replaceWith(html);
+
+							$(".rollover").animate({
+								"bottom" : "0px",
+								opacity : 1
+							}, 300);
+						}, 300);
+					}
+				});
+			}
 
 		}
 
