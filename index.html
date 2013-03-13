@@ -2,8 +2,11 @@
 <html>
 <head>
 <title>S-Creative</title>
+
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
 
 <!-- Bootstrap -->
 <link href="css/bootstrap.css" rel="stylesheet" media="screen">
@@ -207,6 +210,24 @@
 				});
 
 			} else if (page = "portfolio") {
+				$.ajax({
+					'type' : 'POST',
+					'url' : 'page.php?page=' + page,
+					'cache' : false,
+					//'data':jQuery(this).parents("form").serialize(),
+					'success' : function(html) {
+						setTimeout(function() {
+							jQuery('#page').replaceWith(html);
+
+							$(".rollover").animate({
+								"bottom" : "0px",
+								opacity : 1
+							}, 300);
+						}, 300);
+					}
+				});
+			}
+			else if (page = "contact") {
 				$.ajax({
 					'type' : 'POST',
 					'url' : 'page.php?page=' + page,
