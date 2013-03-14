@@ -3,7 +3,7 @@
 	<?php if($_REQUEST['page']=="home"):?>
 	<div id="home_page" class="">
 		<ul id="da-thumbs" class="da-thumbs roll span12 ">
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-1.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -17,7 +17,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-3.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -31,7 +31,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-5.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -45,7 +45,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-7.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -66,7 +66,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-10.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -80,7 +80,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-12.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -94,7 +94,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-14.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -108,14 +108,14 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-16.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-8.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -129,7 +129,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-18.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -143,7 +143,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-5.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -157,7 +157,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-9.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -178,7 +178,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-13.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -192,7 +192,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-15.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -206,7 +206,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-17.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -221,7 +221,7 @@
 					</div>
 			</a>
 			</li>
-			<li class=""><a href="#"> <img
+			<li class="hover"><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
