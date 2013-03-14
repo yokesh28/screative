@@ -690,18 +690,13 @@ $.ajax({
 	cache : false,
 	data : $('#enquiry_form').serialize(),
 	success : function(json) {
-		try {
+	
 			var obj = jQuery.parseJSON(json);
 			alert(obj);
 
-		} catch (e) {
-			alert('Exception while request..');
-		}
+	
 	},
-	error : function() {
-		alert('Error while request..');
-		return false;
-	}
+	
 });
 
 return false;
