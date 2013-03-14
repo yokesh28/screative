@@ -681,19 +681,19 @@ text-align: justify;
 .content h2 {
 	font-size: 22px;
 	letter-spacing: -.05em;
-	padding: 17px 22px 0px 22px;
+	padding: 17px 0px 0px 3px;
 	color: #2F7EC1;
 	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
 }
 
 .content p {
 	font-size: 11px;
-	padding: 0px 22px 0px 22px;
+	padding-right:11px;
 	line-height: 14px;
 	color: #555;
 	text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.3);
 	display: inline-block;
-	margin: 3px 0px;
+	margin: 2px 9px;
      text-align: justify;
 }
 
