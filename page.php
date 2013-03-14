@@ -388,9 +388,9 @@
 						<h2>Services</h2>
 						<p>
 							<b>iF</b> es un estudio creativo dedicado a la publicidad
-							corporativa estratégica y la conceptualización interactiva,
+							corporativa estrategica y la conceptualizacion interactiva,
 							integrada al desarrollo digital. </br> </br> Nuestros servicios proveen una
-							solución eficaz para el posicionamiento de marca.
+							solucion eficaz para el posicionamiento de marca.
 						</p>
 						<ul class="ei-slider-thumbs">
 							<li class="ei-slider-element"></li>
@@ -529,6 +529,18 @@ that&rsquo;s right for you - within your budget.
 
 
 			</div>
+			<script type="text/javascript">
+			$('.related1 div').mouseover(function() {
+
+				$('.related1 div p').slideDown("slow");
+
+			});
+
+			$('.related1 div').mouseleave(function() {
+				$('.related1 div p').slideUp("slow");
+
+			});
+			</script>
 			<?php endif;?>
 			<?php if($_REQUEST['page']=="portfolio"):?>
 				<div class="rollover row-fluid">
@@ -617,8 +629,20 @@ margin-left: 94px;" >
 				
 				</div>
 <div class="contact5">
-				
-			<img src="img/contact.png">
+			
+				<img src="img/contact.gif">
+				<ul>
+				<li><p>Mohamed Ibrahim A.</p></li>
+				<li><p>Director</p></li>
+				<li><p>+91 9894500189</p></li>
+				<li><p>mi@shill.in</p></li>
+				<li><p>www.shill.in</p></li>
+				<li><p>13/2D, Brookebond layout,</p></li>
+				<li><p>krishnaswamy Mudhaliar Road,</p></li>
+                 <li><p>Coimbatore-641002</p></li>	
+                 </ul>	
+			
+			
 				
 				</div>
 

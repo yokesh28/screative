@@ -123,8 +123,17 @@
 
 <div class="contact5">
 				
-			<img src="img/contact.png">
-				
+			<img src="img/services/images/contact.gif">
+				<ul>
+				<li><p>Mohamed Ibrahim A.</p></li>
+				<li><p>Director</p></li>
+				<li><p>+91 9894500189</p></li>
+				<li><p>mi@shill.in</p></li>
+				<li><p>www.shill.in</p></li>
+				<li><p>13/2D, Brookebond layout,</p></li>
+				<li><p>krishnaswamy Mudhaliar Road,</p></li>
+                 <li><p>Coimbatore-641002</p></li>	
+                 </ul>			
 				</div>
 
 
@@ -141,10 +150,17 @@
 	<script type="text/javascript" src="js/jquery.hoverdir.js"></script>
 	<script type="text/javascript">
 		$(function() {
+			$('.related1 div').mouseover(function() {
 
-			$(' #da-thumbs > li:nth-child(odd)').each(function() {
-				$(this).hoverdir();
+				$('.related1 div p').slideDown("slow");
+
 			});
+
+			$('.related1 div').mouseleave(function() {
+				$('.related1 div p').slideUp("slow");
+
+			});
+
 
 		});
 	</script>
