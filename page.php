@@ -1,212 +1,212 @@
 <div id="page" >
 <div class="rollover row-fluid " style="bottom: -500px">
 	<?php if($_REQUEST['page']=="home"):?>
-	<div id="home_page">
-		<ul id="da-thumbs" class="da-thumbs roll">
-			<li><a href="#"> <img
+	<div id="home_page" class="">
+		<ul id="da-thumbs" class="da-thumbs roll span12 ">
+			<li class=""><a href="#"> <img
 					src="img/images/80-1.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-2.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-3.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-5.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-6.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-7.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-8.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-9.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-10.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-11.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-12.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-13.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-14.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-15.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-16.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-8.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-17.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-18.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""> <a href="#"> <img
 					src="img/images/80-3.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-5.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-8.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-9.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-11.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
-					src="img/images/80-6.png" height="160px" width="160px">
+			<li class=""><a href="#"> <img
+				 	src="img/images/80-6.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-13.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-15.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-2.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-17.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -214,14 +214,14 @@
 			</a>
 			</li>
 			
-				<li><a href="#"> <img
+				<li class=""><a href="#"> <img
 					src="img/images/80-3.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
 					</div>
 			</a>
 			</li>
-			<li><a href="#"> <img
+			<li class=""><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
 					<div>
 						<span>S - CREATIVE</span>
@@ -543,7 +543,7 @@ that&rsquo;s right for you - within your budget.
 			</script>
 			<?php endif;?>
 			<?php if($_REQUEST['page']=="portfolio"):?>
-				<div class="rollover row-fluid">
+				
 			<div id="about_us"  class="inner_page">
 
 
@@ -556,7 +556,7 @@ margin-left: 94px;" >
 
 
 			</div>
-		</div>
+		
 			<?php endif;?>
 			<?php if($_REQUEST['page']=="contact"):?>
 						<div id="contact_us" style="opacity: 1;" class="inner_page">
