@@ -84,10 +84,11 @@
 	<script type="text/javascript">
 		changePage('home');
 		function changePage(page) {
+			
 			$(".rollover").animate({
 				"bottom" : "800px",
 				opacity : 1
-			}, 300);
+			}, 50);
 
 			//jQuery('#page').html('<div id="loading" >Loading...</div>');
 
@@ -150,7 +151,7 @@
 						setTimeout(function() {
 
 							jQuery('#page').replaceWith(html);
-
+							
 							$(".rollover").animate({
 								"bottom" : "0px",
 								opacity : 1
@@ -216,7 +217,7 @@
 						setTimeout(function() {
 							jQuery('#page').replaceWith(html);
 
-							$(".rollover").animate({
+							$(".rollover").delay(300).animate({
 								"bottom" : "0px",
 								opacity : 1
 							}, 300); 
@@ -239,6 +240,37 @@
 								"bottom" : "0px",
 								opacity : 1
 							}, 300);
+							
+							$(".coffee").delay(200).animate({
+								"bottom" : "25%",
+								opacity : 1
+							}, 200);
+							
+							$(".align").delay(200).animate({
+								"bottom" : "10%",
+								opacity : 1
+							}, 200);
+							
+							
+							$(".contact5").delay(200).animate({
+								"bottom" : "16%",
+								opacity : 1
+							}, 200);
+							
+							$(".let_us").delay(300).animate({
+								"bottom" : "66%",
+								opacity : 1
+							}, 200);
+							
+							$(".contact1").delay(300).animate({
+								"bottom" : "68%",
+								opacity : 1
+							}, 200);
+							
+							
+							
+							
+							
 						}, 300);
 					}
 				});

@@ -461,7 +461,7 @@ ul li {
 
 .contact1 {
 	position: absolute;
-	bottom: 68%;
+	bottom: -25%;
 	left: 35%;
 	background: #2F7EC1;
 	color: white;
@@ -472,8 +472,9 @@ ul li {
 }
 
 .contact5
-{position: absolute;
-	top: 22%;
+{
+	position: absolute;
+	bottom: -25%;
 	left: 68%;
 	background: #2F7EC1;
 	padding: 76px;
@@ -493,7 +494,7 @@ ul li {
 
 .align{
 	position: absolute;
-	bottom: 10%;
+	bottom: -25%;
 	left: 38%;
 	padding: 42px 28px;
 	background: white;
@@ -515,7 +516,7 @@ ul li {
 .coffee {
 	position: absolute;
 	left: 4%;
-	top: 26%;
+	bottom: -50%;
 }
 
 .top {
@@ -543,7 +544,7 @@ ul li {
 .let_us {
 	background: url("../images/ss.gif") no-repeat;
 	position: absolute;
-	top: 108px;
+	bottom: -25%;
 	height: 75px;
 	width: 238px;
 	left: 14%;

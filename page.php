@@ -529,6 +529,18 @@ that&rsquo;s right for you - within your budget.
 
 
 			</div>
+			<script type="text/javascript">
+			$('.related1 div').mouseover(function() {
+
+				$('.related1 div p').slideDown("slow");
+
+			});
+
+			$('.related1 div').mouseleave(function() {
+				$('.related1 div p').slideUp("slow");
+
+			});
+			</script>
 			<?php endif;?>
 			<?php if($_REQUEST['page']=="portfolio"):?>
 				<div class="rollover row-fluid">

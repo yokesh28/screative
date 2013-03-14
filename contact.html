@@ -141,10 +141,17 @@
 	<script type="text/javascript" src="js/jquery.hoverdir.js"></script>
 	<script type="text/javascript">
 		$(function() {
+			$('.related1 div').mouseover(function() {
 
-			$(' #da-thumbs > li:nth-child(odd)').each(function() {
-				$(this).hoverdir();
+				$('.related1 div p').slideDown("slow");
+
 			});
+
+			$('.related1 div').mouseleave(function() {
+				$('.related1 div p').slideUp("slow");
+
+			});
+
 
 		});
 	</script>

@@ -34,7 +34,7 @@ body {
 }
 
 header {
-	background: #ffc200;
+	
 	width: 201px;
 	height: 100%;
 	min-height: 525px;
@@ -298,7 +298,7 @@ footer {
 	font-size: 11px;
 	top: 0px;
 	left: 0px;
-	background-color: #ffc200;
+	
 	color: #fff;
 }
 
