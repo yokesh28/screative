@@ -400,6 +400,7 @@ ul li {
 .footer {
 
 	margin: 0px 0px;
+	background: white;
 
 }
 
@@ -599,10 +600,10 @@ footer ul {
 	background: url("../img/294.gif") no-repeat;
 	min-height: 670px;
 
-background-position: 573px 300px;
+background-position: 545px 300px;
 }
 .background{
 		background: url(../img/images/background1.jpg) no-repeat;
 	
-	background-size: 100% 110%;
+	background-size: 100% 93%;
 }
