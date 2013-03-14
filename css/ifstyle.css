@@ -204,16 +204,7 @@ input:focus,textarea:focus {
 	outline: thin dotted \9;
 }
 
-footer {
-	width: 25px;
-	height: 25px;
-	position: fixed;
-	right: 2px;
-	bottom: 2px;
-	background: url(../../img/ui/if-footer.png) no-repeat center;
-	opacity: 0.7;
-	z-index: 1000
-}
+.footer{margin: 679px 0px;}
 
 ::-moz-selection {
 	background: #fc0;
