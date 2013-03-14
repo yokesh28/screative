@@ -183,10 +183,10 @@
 					imgDim	= _self._getImageDim( $img.attr('src') );
 					
 				$img.css({
-					width		:'100%',
-					height		: '1090px',
+					width		:'57.8%',
+					height		: '664px',
 					marginLeft	: '444px',
-					marginTop	: imgDim.top
+					marginTop	: '0px',
 				});
 				
 			});

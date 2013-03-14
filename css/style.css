@@ -100,6 +100,7 @@ ul li {
 .rollover {
 	min-width: 960px;
 	max-width: 1280px;
+	height: 678px;
 	margin: 88px auto 0px auto;
 	position: relative;
 }
@@ -399,13 +400,13 @@ ul li {
 .footer {
 
 	margin: 0px 0px;
+	background: white;
 
 }
 
 .inner_page {
-	background: url(../img/images/background1.jpg) no-repeat;
 	min-height: 641px;
-	background-size: 100% 110%;
+
 }
 
 #a li {
@@ -591,4 +592,18 @@ color: white;
 
 footer ul {
 	padding: 20px 40px;
+}
+
+
+#page
+{
+	background: url("../img/294.gif") no-repeat;
+	min-height: 670px;
+
+background-position: 545px 300px;
+}
+.background{
+		background: url(../img/images/background1.jpg) no-repeat;
+	
+	background-size: 100% 93%;
 }
