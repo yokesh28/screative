@@ -100,6 +100,7 @@ ul li {
 .rollover {
 	min-width: 960px;
 	max-width: 1280px;
+	height: 678px;
 	margin: 88px auto 0px auto;
 	position: relative;
 }
