@@ -575,20 +575,19 @@ margin-left: 94px;" >
 				</div>
 
 				<div class="align span3">
-					<form>
+					<form name="enquiryform" id="enquiry_form" onSubmit="return validateForm();">
 						<div class="control-group">
 							<label class="control-label span4">Name</label>
-
+ 
 							<div class="controls " >
-								<input type="text" class="span8">
-
+								<input type="text" class="span8" name="name">
 							</div>
 						</div>
 
 						<div class="control-group">
 							<label class="span4" >Mobile</label>
 							<div class="controls">
-								<input type="text" class="span8">
+								<input type="text" class="span8" name="mobile">
 
 							</div>
 						</div>
@@ -596,7 +595,7 @@ margin-left: 94px;" >
 						<div class="control-group">
 							<label class="span4">Email</label>
 							<div class="controls">
-								<input type="text" class="span8">
+								<input type="text" class="span8" name="email">
 
 							</div>
 						</div>
@@ -604,9 +603,9 @@ margin-left: 94px;" >
 						<div class="control-group">
 							<label class="span8">Post Enquiry</label>
 							<div class="controls">
-								<textarea rows="3" class="span8 offset4"></textarea>
+								<textarea rows="3" class="span8 offset4" name="enquiry"></textarea>
 							</div>
-							<input type="submit" class="btn" value="Submit">
+							<input type="submit" name="submit"   class="btn" value="Submit">
 						</div>
 					</form>
 				</div>
@@ -625,9 +624,84 @@ margin-left: 94px;" >
 
 
 			</div>
+			<script type="text/javascript">
+function validateForm()
+{
+
+var enquiryname=document.forms["enquiryform"]["name"].value;
+var enquirynumber = document.forms["enquiryform"]["mobile"].value;
+var enquiryemail=document.forms["enquiryform"]["email"].value;
+var atpos=enquiryemail.indexOf("@");
+var dotpos=enquiryemail.lastIndexOf(".");
+if (enquiryname==null || enquiryname=="")
+  {
+  alert(" Name must be filled out");
+  return false;
+  }
+else if (enquirynumber==null || enquirynumber=="")
+ {
+	 alert("MobileNo must be filled out");
+	 return false;
+ }       
+
+else if(isNaN(enquirynumber)|| enquirynumber.indexOf(" ")!=-1)
+{
+         			alert("Enter numeric value");
+		return false;
+           }
+else if (enquirynumber.length > 10 || enquirynumber.length < 10 )
+		{
+           			alert("enter 10 characters"); 
+			return false;
+     			 }
+else if (atpos<1 || dotpos<atpos+2 || dotpos+2>=enquiryemail.length)
+{
+	  alert("Not a valid e-mail address");
+	  return false;
+	  }
+  
+$.ajax({
+	type : "post",
+	url : "mail.php",
+	cache : false,
+	data : $('#enquiry_form').serialize(),
+	success : function(json) {
+		try {
+			var obj = jQuery.parseJSON(json);
+			alert(obj);
+
+		} catch (e) {
+			alert('Exception while request..');
+		}
+	},
+	error : function() {
+		alert('Error while request..');
+		return false;
+	}
+});
+
+return false;
+
+
+
+
+
+
+
+
+
+
+
+
+}
+</script>
 			<?php endif;?>
 		
 			</div>
+			
+			
+			
+			
 			<footer class="footer">
 		
 			<ul>
@@ -651,4 +725,8 @@ margin-left: 94px;" >
 
 		</div>
 	</footer>
+	
+	
 	</div>
+	
+	
