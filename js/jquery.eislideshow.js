@@ -184,9 +184,9 @@
 					
 				$img.css({
 					width		:'57.8%',
-					height		: '1090px',
+					height		: '729px',
 					marginLeft	: '444px',
-					marginTop	: imgDim.top
+					marginTop	: '0px',
 				});
 				
 			});
