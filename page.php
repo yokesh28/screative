@@ -361,8 +361,8 @@
 								</br>
 								<div class="slide7-1"></div>
 								<p>
-									• 3D Video </br> • Virtual Tours </br> • Infographics </br> • Corporate Stands
-									</br> • Product Model </br> • Character Design
+									&#9679;	 3D Video </br>&#9679;	 Virtual Tours </br> &#9679;	Infographics </br> &#9679;	Corporate Stands
+									</br>&#9679;	Product Model </br> &#9679;	 Character Design
 
 								</p>
 								<div class="slide7-2"></div>
@@ -379,7 +379,7 @@
 									material. Thanks to our quality, performance and experience of
 									our trusted providers of recognized companies in this sector.</p>
 								<p>
-									• Off-Set Printing </br> • Digital Printing </br> • Pre Press </br> • Finishes
+									&#9679;	 Off-Set Printing </br> &#9679;	 Digital Printing </br>&#9679;	Pre Press </br>&#9679;	Finishes
 
 								</p>
 							</div></li>
