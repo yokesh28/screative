@@ -455,7 +455,7 @@
 						<p class="span5" 
 ">
 							<b>WE ARE HERE TO SOLVE YOUR BRAND, COMMUNICATIONS  
-AND MARKETING ISSUES. WE DON’T LIKE LAZY DESIGN,  
+AND MARKETING ISSUES. WE DON&rsquo;T LIKE LAZY DESIGN,  
 WE WORK PASSIONATELY  TO DELIVER DESIGN SOLUTIONS 
 THAT NOT ONLY WORK BUT  LOOK GREAT AS WELL.
  </b>
@@ -737,8 +737,8 @@ return false;
 				</li>
 				<li class="footer_text"><span class="span3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
 						POLICY</span> <span class="span2">TERMS OF USE</span> <img
-					class="right" style="margin-right: 73px" src="img/images/fb.png"> <img
-					class="right" style="margin-right: -52px" src="img/images/tw.png">
+					class="right" style="margin-right: 73px" src="images/fb.png"> <img
+					class="right" style="margin-right: -52px" src="images/tw.png">
 				
 				
 				
