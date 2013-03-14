@@ -1,20 +1,24 @@
 <?php
-require_once 'lib/swift_required.php';
 
-// Using smtp
-//$transport = Swift_SmtpTransport::newInstance('my_smtp_host.com', 25)
-// Using Gmail
- $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, "ssl") 
-  ->setUsername('annamalai@shill.in') // or your gmail username
-  ->setPassword('annamalaisekar'); // or your gmail password
+$header="from: $_REQUEST[name] <$_REQUEST[email]>";
 
-$mailer = Swift_Mailer::newInstance($transport);
+$mobile ="$_REQUEST[mobile]";
 
-$message = Swift_Message::newInstance('Wonderful Subject')
-  ->setFrom(array('annamalai@shill.in' => 'annamalai'))
-  ->setTo(array('annamalai.cs@gmail.com'))
-  ->attach(Swift_Attachment::fromPath('doc.pdf'))
-  ->setBody('Here is the message itself');
 
-$result = $mailer->send($message);
+
+$enquiry="$_REQUEST[enquiry]";
+
+// Enter your email address
+$to ='annamalai.cs@gmail.com';
+$send_contact=mail($to,$mobile,$enquiry,$header);
+
+// Check, if message sent to your email
+// display message "We've recived your information"
+if($send_contact){
+	echo "We've recived your contact information";
+}
+else {
+	echo "ERROR";
+}
 ?>
+
