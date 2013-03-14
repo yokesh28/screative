@@ -403,9 +403,8 @@ ul li {
 }
 
 .inner_page {
-	background: url(../img/images/background1.jpg) no-repeat;
 	min-height: 641px;
-	background-size: 100% 110%;
+
 }
 
 #a li {
@@ -591,4 +590,18 @@ color: white;
 
 footer ul {
 	padding: 20px 40px;
+}
+
+
+#page
+{
+	background: url("../img/294.gif") no-repeat;
+	min-height: 670px;
+
+background-position: 573px 300px;
+}
+.background{
+		background: url(../img/images/background1.jpg) no-repeat;
+	
+	background-size: 100% 110%;
 }
