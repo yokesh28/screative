@@ -397,8 +397,9 @@ ul li {
 }
 
 .footer {
-	
+
 	margin: 0px 0px;
+
 }
 
 .inner_page {
@@ -464,7 +465,7 @@ ul li {
 .contact1 {
 	position: absolute;
 	bottom: -25%;
-	left: 35%;
+	left: 32%;
 	background: #2F7EC1;
 	color: white;
 	font-size: 19px;
@@ -482,6 +483,11 @@ ul li {
 	zoom: 0.5;
 }
 
+.contact5 li{font-size: 31px;
+top: 35%;
+margin: 35px;
+color: white;
+}
 #a li {
 	list-style: none;
 }
@@ -497,7 +503,7 @@ ul li {
 .align {
 	position: absolute;
 	bottom: -25%;
-	left: 38%;
+	left: 35%;
 	padding: 42px 28px;
 	background: white;
 }
