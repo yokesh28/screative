@@ -10,10 +10,14 @@ ul li {
 
 .main {
 	padding: 0px;
+	min-width: 960px;
+	max-width: 1280px;
+	margin: 0 auto;
 }
 
 .navbar {
-	padding: 0px 60px;
+	padding: 0px 0px;
+	margin-left: 0px !important;
 }
 
 .brand {
@@ -24,7 +28,8 @@ ul li {
 .roll li {
 	float: left;
 	list-style: none;
-	height: 160px;
+	margin: 0px !important;
+	padding: 0px !important;
 }
 
 .opacity li {
@@ -93,10 +98,10 @@ ul li {
 }
 
 .rollover {
+	min-width: 960px;
+	max-width: 1280px;
+	margin: 88px auto 0px auto;
 	position: relative;
-	width: 95.6%;
-	margin: 0 auto;
-	margin-top: 88px;
 }
 
 .btn-navbar span {
@@ -382,6 +387,9 @@ ul li {
 	overflow: visible !important;
 	position: relative;
 	z-index: 100;
+	min-width: 960px;
+	max-width: 1280px;
+	margin: 0 auto;
 }
 
 .footer_text {
@@ -389,15 +397,15 @@ ul li {
 }
 
 .footer {
-	box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
-	-webkit-box-shadow: 4px -7px 0px 0px rgba(0, 0, 0, 0.15);
-	-moz-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
-	margin: 9px 0px;
+
+	margin: 0px 0px;
+
 }
 
 .inner_page {
-	background: url(../img/images/background1.png) no-repeat;
+	background: url(../img/images/background1.jpg) no-repeat;
 	min-height: 641px;
+	background-size: 100% 110%;
 }
 
 #a li {

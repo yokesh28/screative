@@ -20,6 +20,7 @@
 
 html {
 	overflow:hidden;
+	
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 }
@@ -34,7 +35,7 @@ body {
 }
 
 header {
-	
+overflow:hidden;	
 
 }
 
@@ -300,16 +301,16 @@ footer {
 .ei-slider-large {
 	height: 100%;
 	width: 100%;
+	overflow:hidden;
 	
-	overflow: hidden;
 }
 
 .ei-slider-large li {
 	position: absolute;
 	top: 10px;
 	width:1447px;
-
-	overflow: hidden;
+      
+	overflow:hidden;
 }
 
 .ei-slider-large li img {
