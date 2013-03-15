@@ -120,7 +120,7 @@ ul li {
 	text-transform: uppercase;
 	background: #2F7EC1;
 	text-align: justify;
-	font-size: 15px;
+	font-size: 13px;
 	zoom: 1;
 	box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 	-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
@@ -135,7 +135,7 @@ ul li {
 	padding: 28px;
 	background: white;
 	text-align: justify;
-	font-size: 13px;
+	font-size: 11px;
 	position: absolute;
 	zoom: 1;
 	box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
@@ -151,7 +151,7 @@ ul li {
 	color: white;
 	padding: 28px;
 	background: #2F7EC1;
-	font-size: 15px;
+	font-size: 13px;
 	text-align: justify;
 	position: absolute;
 	zoom: 1;
@@ -167,7 +167,7 @@ ul li {
 	padding: 28px;
 	text-align: justify;
 	background: white;
-	font-size: 13px;
+	font-size: 11px;
 	
 	position: absolute;
 	zoom: 1;
@@ -185,7 +185,7 @@ ul li {
 	padding: 18px;
 	background: #2F7EC1;
 	
-	font-size: 15px;
+	font-size: 13px;
 	text-align: justify;
 	position: absolute;
 	zoom: 1;
@@ -200,7 +200,7 @@ ul li {
 	padding: 28px;
 	background: white;
 	
-	font-size: 13px;
+	font-size: 11px;
 	text-align: justify;
 	position: absolute;
 	zoom: 1;
@@ -210,17 +210,17 @@ ul li {
 
 .related6 span {
 	color: #2F7EC1;
-	font-size: 15px;
+	font-size: 13px;
 }
 
 .related3 span {
 	color: #2F7EC1;
-	font-size: 15px;
+	font-size: 13px;
 }
 
 .related5 span {
 	color: #2F7EC1;
-	font-size: 15px;
+	font-size: 13px;
 }
 
 .related6 p {
@@ -230,7 +230,7 @@ ul li {
 	color: black;
 	padding: 28px;
 	background: white;
-	font-size: 13px;
+	font-size: 11px;
 	
 	text-align: justify;
 	position: absolute;
@@ -247,7 +247,7 @@ ul li {
 	padding: 28px;
 	background: white;
 	
-	font-size: 13px;
+	font-size: 11px;
 	text-align: justify;
 	position: absolute;
 	zoom: 1;
@@ -257,7 +257,7 @@ ul li {
 
 .related7 span {
 	color: #2F7EC1;
-	font-size: 15px;
+	font-size: 13px;
 }
 
 .right {
