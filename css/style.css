@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Marvel', sans-serif;
 }
 
 ul li {
@@ -74,8 +74,8 @@ ul li {
 .menu li a {
 	color: black;
 	text-transform: uppercase;
-	font-size: 12px;
-	font-weight: 500;
+	font-size: 14px;
+
 }
 
 .menu li:hover a {
@@ -398,15 +398,12 @@ ul li {
 }
 
 .footer {
-
 	margin: 0px 0px;
 	background: white;
-
 }
 
 .inner_page {
 	min-height: 641px;
-
 }
 
 #a li {
@@ -484,11 +481,13 @@ ul li {
 	zoom: 0.5;
 }
 
-.contact5 li{font-size: 31px;
-top: 35%;
-margin: 35px;
-color: white;
+.contact5 li {
+	font-size: 31px;
+	top: 35%;
+	margin: 35px;
+	color: white;
 }
+
 #a li {
 	list-style: none;
 }
@@ -530,11 +529,11 @@ color: white;
 
 .top {
 	position: relative;
-	width: 280px;
-	height: 210px;
+	width: 363px; height : 321px;
 	background: #2F7EC1;
 	padding: 50px 10px;
 	color: white;
+	height: 321px;
 }
 
 .top .text1 {
@@ -556,7 +555,7 @@ color: white;
 	bottom: -25%;
 	height: 75px;
 	width: 238px;
-	left: 14%;
+	left: 22%;
 	color: black;
 	font-weight: bold;
 	padding: 16px 38px;
@@ -591,19 +590,24 @@ color: white;
 }
 
 footer ul {
-	padding: 20px 40px;
+	padding: 20px 3px;
 }
 
-
-#page
-{
+#page {
 	background: url("../img/294.gif") no-repeat;
 	min-height: 670px;
-
-background-position: 545px 300px;
+	background-position: 545px 300px;
 }
-.background{
-		background: url(../img/images/background1.jpg) no-repeat;
-	
+
+.background {
+	background: url(../img/images/background1.jpg) no-repeat;
 	background-size: 100% 93%;
+}
+
+.top h1 {
+	font-size: 78px;
+	line-height: 62px;
+}
+.brand{
+	cursor: pointer;
 }

@@ -29,8 +29,9 @@
 	rel='stylesheet' type='text/css' />
 <link rel="stylesheet" type="text/css" href="css/effects.css" />
 <script src="js/modernizr.custom.97074.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Roboto:500'
-	rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Marvel:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
 <noscript>
 	<link rel="stylesheet" type="text/css" href="css/noJS.css" />
 </noscript>
@@ -42,7 +43,7 @@
 		<div class="header">
 			<div class="navbar">
 				<div class="menu navbar-inner">
-					<a class="brand" href="#"><img src="img/logo.png"
+					<a class="brand" onclick="return changePage('home');"><img src="img/logo.png"
 						height="200px" width="200px"></a>
 					<div class="right row">
 						<a class="btn btn-navbar" data-toggle="collapse"
@@ -266,7 +267,7 @@
 							}, 200);
 							
 							$(".let_us").delay(300).animate({
-								"bottom" : "66%",
+								"bottom" : "76%",
 								opacity : 1
 							}, 200);
 							
