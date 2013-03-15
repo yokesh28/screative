@@ -184,7 +184,7 @@
 					
 				$img.css({
 					width		:'57.8%',
-					height		: '664px',
+					height		: '648px',
 					marginLeft	: '444px',
 					marginTop	: '0px',
 				});
