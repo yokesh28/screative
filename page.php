@@ -618,6 +618,8 @@ margin-left: 94px;" >
 								<textarea rows="3" class="span8 offset4" name="enquiry"></textarea>
 							</div>
 							<input type="submit" name="submit"   class="btn" value="Submit">
+							
+							<span id="response"></span>
 						</div>
 					</form>
 				</div>
@@ -690,8 +692,8 @@ $.ajax({
 	cache : false,
 	data : $('#enquiry_form').serialize(),
 	success : function(json) {
-	
-			console.log(json);
+			$('#response').html(json);
+		
 
 	
 	},
