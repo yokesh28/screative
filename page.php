@@ -732,8 +732,8 @@ return false;
 				</li>
 				<li class="footer_text"><span class="span3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
 						POLICY</span> <span class="span2">TERMS OF USE</span> <img
-					class="right" style="margin-right: 73px" src="images/fb.png"> <img
-					class="right" style="margin-right: -52px" src="images/tw.png">
+					class="right" style="margin-right: 73px" src="images/f.png"> <img
+					class="right" style="margin-right: -52px" src="images/t.png">
 				
 				
 				
