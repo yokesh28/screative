@@ -691,8 +691,7 @@ $.ajax({
 	data : $('#enquiry_form').serialize(),
 	success : function(json) {
 	
-			var obj = jQuery.parseJSON(json);
-			alert(obj);
+			console.log(json);
 
 	
 	},
