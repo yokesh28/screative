@@ -304,7 +304,7 @@
 									understanding needs, desires and preferences is always our
 									starting point. From the creation of brands, products and
 									services to changing perceptions or inspiring a company, our
-									solutions have a compelling simplicity&oline;revealing potential,
+									solutions have a compelling simplicity&#45;revealing potential,
 									initiating possibilities and realizing ambitions.</p>
 								</br>
 
