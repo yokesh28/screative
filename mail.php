@@ -27,7 +27,7 @@ $message = '<html><body>';
 			
 			// Enter your email address
 			$to ='annamalai.cs@gmail.com';
-			$send_contact=mail($to,$mobile,$message,$enquiry,$header);
+			$send_contact=mail($to,$mobile,$message,$header);
 			
 			// Check, if message sent to your email
 			// display message "We've recived your information"
