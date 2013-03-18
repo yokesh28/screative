@@ -615,17 +615,17 @@ footer ul {
 .scroll{}
 
 #about_us p:HOVER{
-	background: #2fc1bb;
+	background:#6699FF;
 	color: black;
 	cursor: pointer;
 }
 #about_us p:HOVER span{
-	background: #2fc1bb;
+	background: #6699FF;
 	color: black;
 	cursor: pointer;
 }
 #about_us .related1 div:hover{
-	background: #2fc1bb;
+	background: #6699FF;
 	color: black;
 	cursor: pointer;
 }
