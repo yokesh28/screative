@@ -196,17 +196,19 @@ ul li {
 .related5 p {
 	bottom: -20%;
 	right: 0;
-	width: 392px;
+	width: 311px;
 	padding: 28px;
 	background: white;
+	color:#2F7EC1;
+	font-size: 13px;
 	
-	font-size: 11px;
-	text-align: justify;
 	position: absolute;
 	zoom: 1;
 	box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.15);
 	-webkit-box-shadow: 10px 9px 0px 0px rgba(0, 0, 0, 0.15);
 }
+
+.related5 span{text-align: justify; color:black;font-size:11px;}
 
 .related6 span {
 	color: #2F7EC1;
@@ -218,10 +220,6 @@ ul li {
 	font-size: 13px;
 }
 
-.related5 span {
-	color: #2F7EC1;
-	font-size: 13px;
-}
 
 .related6 p {
 	bottom: -200px;
@@ -614,3 +612,4 @@ footer ul {
 	cursor: pointer;
 
 }
+.scroll{}
