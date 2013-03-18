@@ -613,3 +613,9 @@ footer ul {
 
 }
 .scroll{}
+
+#about_us p:HOVER{
+	background: #2fc1bb;
+	color: white;
+	cursor: pointer;
+}
