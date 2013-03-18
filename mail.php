@@ -14,7 +14,12 @@ $send_contact=mail($to,$mobile,$message,$enquiry,$header);
 
 // Check, if message sent to your email
 // display message "We've recived your information"
-
+if($send_contact){
+	echo "We've recived your contact information";
+}
+else {
+	echo "ERROR";
+}
 
 
 $message = '<html><body>';
@@ -32,12 +37,7 @@ $message = '<html><body>';
 
 			
 			
-			if($send_contact){
-				echo "We've recived your contact information";
-			}
-			else {
-				echo "ERROR";
-			}	
+			
 			
 			
 			
