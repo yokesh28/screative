@@ -532,9 +532,14 @@ and design solutions to your needs.
 					</div>
 
 					<div class="related5">
-						<p class="span5">
-							<span><b>WHY WORK WITH US
-</b></span><br>&ldquo;We enjoy the finer details of a project, 
+						
+						
+        
+						
+						
+						
+					<p class="scroll"><b>WHY WORK WITH US</b><br>
+<span style="display: none;">&ldquo;We enjoy the finer details of a project, 
 considering every stage of its journey
 from planning to completion. Our projects not only 
 look great, they use the right tools that work for
@@ -542,7 +547,7 @@ you and with your success comes ours.
 We make sure to apply the same level of thought, 
 care and attention to every project 
 as if it were our own.&rdquo;
-
+</span>
 
 						</p>
 					</div>
@@ -590,6 +595,19 @@ that&rsquo;s right for you - within your budget.
 
 			$('.related1 div').mouseleave(function() {
 				$('.related1 div p').slideUp("slow");
+
+			});
+			</script>
+			
+			<script type="text/javascript">
+			$('.related5 p').mouseover(function() {
+
+				$('.related5 p span').slideDown("slow");
+
+			});
+
+			$('.related5 p').mouseleave(function() {
+				$('.related5 p span').slideUp("slow");
 
 			});
 			</script>
@@ -784,9 +802,11 @@ return false;
 				
 				</li>
 				<li class="footer_text"><span class="span3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
-						POLICY</span>  <img
-					class="right" style="margin-right: 78px" src="images/f.png"> <img
-					class="right" style="margin-right: -79px" src="images/t.png">
+						POLICY</span>  
+			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/f.png"></a>
+								
+			<a	href="https://www.twitter.com/"><img class="right" style="margin-right: -79px" src="images/t.png"></a>
+					
 				
 				
 				
