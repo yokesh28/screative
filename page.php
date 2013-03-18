@@ -22,7 +22,7 @@ FOR GREAT CLIENTS</span>
 			<li class="hover"><a href="#"> <img
 					src="img/images/80-3.png" height="160px" width="160px">
 					<div>
-						<span>REALISING OUR CLIENTS 
+						<span>REALISING OUR CLIENTSâ€©
 AMBITIONS</span>
 					</div>
 			</a>
@@ -91,7 +91,7 @@ WIDE RANGE OF INDUSTRIES</span>
 			<li class="hover"><a href="#"> <img
 					src="img/images/80-10.png" height="160px" width="160px">
 					<div>
-						<span>WORKING WITH THE WORLD’S
+						<span>WORKING WITH THE WORLDâ€™S
 LEADING BRANDS</span>
 					</div>
 			</a>
@@ -107,7 +107,7 @@ LEADING BRANDS</span>
 					src="img/images/80-12.png" height="160px" width="160px">
 					<div>
 						<span>DESIGN  IS NOT  
-JUST A  BUSINESS,  IT’S A  PASSION”</span>
+JUST A  BUSINESS,  ITâ€™S A  PASSIONâ€�</span>
 					</div>
 			</a>
 			</li>
@@ -188,7 +188,7 @@ LATEST TECHNOLOGY
 			<li class="hover"><a href="#"> <img
 					src="img/images/80-5.png" height="160px" width="160px">
 					<div>
-						<span>REALISING OUR CLIENTS 
+						<span>REALISING OUR CLIENTSâ€©
 AMBITIONS
 						</span>
 					</div>
@@ -205,7 +205,7 @@ AMBITIONS
 					src="img/images/80-9.png" height="160px" width="160px">
 					<div>
 						<span>DESIGN  IS NOT  
-JUST A  BUSINESS,  IT’S A  PASSION”</span>
+JUST A  BUSINESS,  ITâ€™S A  PASSIONâ€�</span>
 					</div>
 			</a>
 			</li>
@@ -241,7 +241,7 @@ FOR GREAT CLIENTS</span>
 			<li class="hover"><a href="#"> <img
 					src="img/images/80-15.png" height="160px" width="160px">
 					<div>
-						<span>WORKING WITH THE WORLD’S
+						<span>WORKING WITH THE WORLDâ€™S
 LEADING BRANDS
 						</span>
 					</div>
@@ -273,7 +273,7 @@ WIDE RANGE OF INDUSTRIES</span>
 			<li class="hover"><a href="#"> <img
 					src="img/images/80-4.png" height="160px" width="160px">
 					<div>
-						<span>	REALISING OUR CLIENTS 
+						<span>	REALISING OUR CLIENTSâ€©
 AMBITIONS</span>
 					</div>
 			</a>
@@ -704,11 +704,10 @@ margin-left: 94px;" >
 			
 				<img src="img/contact.gif">
 				<ul>
-				<li><p>Mohamed Ibrahim A.</p></li>
-				<li><p>Director</p></li>
-				<li><p>+91 9894500189</p></li>
-				<li><p>mi@shill.in</p></li>
-				<li><p>www.shill.in</p></li>
+				
+				<li><img src="images/1.png">&nbsp;&nbsp;+91 9894500189</li>
+				<li><img src="images/2.png">&nbsp;&nbsp;mi@shill.in</li>
+				<li><img src="images/3.png">&nbsp;&nbsp;www.shill.in</li>
 				<li><p>13/2D, Brookebond layout,</p></li>
 				<li><p>krishnaswamy Mudhaliar Road,</p></li>
                  <li><p>Coimbatore-641002</p></li>	
