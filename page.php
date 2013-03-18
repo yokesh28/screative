@@ -413,8 +413,8 @@ AMBITIONS</span>
 								</br>
 								<div class="slide7-1"></div>
 								<p>
-									&#9679;	 3D Video </br>&#9679;	 Virtual Tours </br> &#9679;	Infographics </br> &#9679;	Corporate Stands
-									</br>&#9679;	Product Model </br> &#9679;	 Character Design
+									<img src="images/15.png" style="width: 20px;height: 20px;">	 3D Video </br><img src="images/16.png" style="width: 20px;height: 20px;">	 Virtual Tours </br> <img src="images/17.png" style="width: 20px;height: 20px;">	Infographics </br> <img src="images/18.png" style="width: 20px;height: 20px;">	Corporate Stands
+									</br><img src="images/19.png" style="width: 20px;height: 20px;">Product Model </br> <img src="images/20.png" style="width: 20px;height: 20px;">	 Character Design
 
 								</p>
 								<div class="slide7-2"></div>
@@ -431,7 +431,7 @@ AMBITIONS</span>
 									material. Thanks to our quality, performance and experience of
 									our trusted providers of recognized companies in this sector.</p>
 								<p>
-									&#9679;	 Off-Set Printing </br> &#9679;	 Digital Printing </br>&#9679;	Pre Press </br>&#9679;	Finishes
+									<img src="images/11.png" style="width: 20px;height: 20px;"> Off-Set Printing </br><img src="images/12.png" style="width: 20px;height: 20px;">	 Digital Printing </br>	<img src="images/13.png" style="width: 20px;height: 20px;">Pre Press </br>	<img src="images/14.png" style="width: 20px;height: 20px;">Finishes
 
 								</p>
 							</div></li>
