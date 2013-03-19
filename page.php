@@ -624,14 +624,14 @@ margin-left: 94px;" >
 				<div class="coffee">
 					<div class="top">
 
-						<div class="span5 text1">
-							<h1>Coffee, Tea or juice</h1>
+						<div class="span12 text1">
+							<h1>COFFEE, TEA OR JUICE</h1>
 						</div>
 
 
 						<div class="span5 text2">
-							and discuss what s-creative can do<br> to make your
-							bussiness more profitable.
+							<i>and discuss what<br> s-creative can do<br> to make your<br>
+							bussiness better and more profitable.</i>
 						</div>
 
 					</div>
