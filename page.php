@@ -62,7 +62,7 @@ FOR GREAT CLIENTS</span>
 			<li class=""><a href="#"> <img
 					src="img/images/20.png" height="160px" width="160px">
 					<div>
-						<span>S&ndash;CREATIVE</span>
+						<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
 					</div>
 			</a>
 			</li>
@@ -99,7 +99,8 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 			<li class="hover"><a href="#"> <img
 					src="img/images/14.png" height="160px" width="160px">
 					<div>
-						<span>S&ndash;CREATIVE</span>
+						<span>WE DELIVER GREAT WORK
+FOR GREAT CLIENTS</span>
 					</div>
 			</a>
 			</li>
@@ -114,17 +115,14 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 			<li class="hover"><a href="#"> <img
 					src="img/images/17.png" height="160px" width="160px">
 					<div>
-						<span>DESIGNING
-A GREAT
-USER
-EXPERIENCE</span>
+						<span>DESIGNING  A GREAT USER EXPERIENCE</span>
 					</div>
 			</a>
 			</li>
 			<li class=""><a href="#"> <img
 					src="img/images/35.png" height="160px" width="160px">
 					<div>
-						<span>S&ndash;CREATIVE</span>
+						<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
 					</div>
 			</a>
 			</li>
@@ -154,8 +152,7 @@ AMBITIONS</span>
 			<li class=""><a href="#"> <img
 					src="img/images/22.png" height="160px" width="160px">
 					<div>
-						<span>REALISING OUR CLIENTS 
-AMBITIONS
+						<span>REALISING OUR CLIENTS AMBITIONS
 						</span>
 					</div>
 			</a>
@@ -164,8 +161,7 @@ AMBITIONS
 			<li class="hover"><a href="#"> <img
 					src="img/images/23.png" height="160px" width="160px">
 					<div>
-						<span>&ldquo;DESIGN  IS NOT  
-JUST A  BUSINESS,  IT&rsquo;s A  PASSION&rdquo;</span>
+						<span>&ldquo;DESIGN  IS NOT   JUST A  BUSINESS,  IT&rsquo;s A  PASSION&rdquo;</span>
 					</div>
 			</a>
 			</li>
@@ -179,52 +175,49 @@ JUST A  BUSINESS,  IT&rsquo;s A  PASSION&rdquo;</span>
 			<li class="hover"><a href="#"> <img
 				 	src="img/images/25.png" height="160px" width="160px">
 					<div>
-						<span>S&ndash;CREATIVE</span>
+						<span>HARNESSING THE LATEST TECHNOLOGY</span>
 					</div>
 			</a>
 			</li>
 			<li class=""><a href="#"> <img
 					src="img/images/26.png" height="160px" width="160px">
 					<div>
-						<span>WE DELIVER GREAT WORK
-FOR GREAT CLIENTS</span>
+						<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
 					</div>
 			</a>
 			</li>
 			<li class="hover"><a href="#"> <img
 					src="img/images/27.png" height="160px" width="160px">
 					<div>
-						<span>	REALISING OUR CLIENTS 
-AMBITIONS</span>
+						<span>	REALISING OUR CLIENTS AMBITIONS</span>
 					</div>
 			</a>
 			</li>
 			<li class=""><a href="#"> <img
 					src="img/images/36.png" height="160px" width="160px">
 					<div>
-						<span>S&ndash;CREATIVE</span>
+						<span>TURNING IDEAS INTO REALITY</span>
 					</div>
 			</a>
 			</li>
 			<li class="hover"><a href="#"> <img
 					src="img/images/16.png" height="160px" width="160px">
 					<div>
-						<span>TURNING IDEAS INTO REALITY</span>
+						<span>REALISING OUR CLIENTS  AMBITIONS</span>
 					</div>
 			</a>
 			</li>
 			<li class=""><a href="#"> <img
 					src="img/images/29.png" height="160px" width="160px">
 					<div>
-						<span>S&ndash;CREATIVE</span>
+						<span>HARNESSING THE LATEST TECHNOLOGY</span>
 					</div>
 			</a>
 			</li>
 			<li class="hover"><a href="#"> <img
 					src="img/images/30.png" height="160px" width="160px">
 					<div>
-						<span>WORKING ACROSS A 
-WIDE RANGE OF INDUSTRIES</span>
+						<span>WORKING ACROSS A  WIDE RANGE OF INDUSTRIES</span>
 					</div>
 			</a>
 			</li>
@@ -232,15 +225,14 @@ WIDE RANGE OF INDUSTRIES</span>
 				<li class=""><a href="#"> <img
 					src="img/images/31.png" height="160px" width="160px">
 					<div>
-						<span>S&ndash;CREATIVE</span>
+						<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
 					</div>
 			</a>
 			</li>
 			<li class="hover"><a href="#"> <img
 					src="img/images/32.png" height="160px" width="160px">
 					<div>
-						<span>	REALISING OUR CLIENTS 
-AMBITIONS</span>
+						<span>	REALISING OUR CLIENTS AMBITIONS</span>
 					</div>
 			</a>
 			</li>
