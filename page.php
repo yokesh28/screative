@@ -439,10 +439,11 @@ AMBITIONS</span>
 					<div class="content">
 						<h2>Services</h2>
 						<p>
-							<b>iF</b> es un estudio creativo dedicado a la publicidad
-							corporativa estrategica y la conceptualizacion interactiva,
-							integrada al desarrollo digital. </br> </br> Nuestros servicios proveen una
-							solucion eficaz para el posicionamiento de marca.
+						
+						   <b> S- Creative</b> is a creative studio dedicated to strategic corporate advertising and interactive conceptualization, integrated digital development.</br> </br> 
+Our services provide an effective solution for brand positioning.
+						
+							
 						</p>
 						<ul class="ei-slider-thumbs">
 							<li class="ei-slider-element"></li>
