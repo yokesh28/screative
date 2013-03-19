@@ -203,7 +203,7 @@ AMBITIONS</span>
 			<li class="hover"><a href="#"> <img
 					src="img/images/16.png" height="160px" width="160px">
 					<div>
-						<span>REALISING OUR CLIENTS  AMBITIONS</span>
+						<span>DESIGNING  A GREAT USER EXPERIENCE</span>
 					</div>
 			</a>
 			</li>
