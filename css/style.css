@@ -531,9 +531,9 @@ ul li {
 	position: relative;
 	width: 363px; height : 321px;
 	background: #2F7EC1;
-	padding: 50px 10px;
+	padding: 50px 20px;
 	color: white;
-	height: 321px;
+	height: 280px;
 }
 
 .top .text1 {
@@ -544,8 +544,8 @@ ul li {
 
 .top .text2 {
 	position: absolute;
-	bottom: 50px;
-	right: 20px;
+	bottom: 78px;
+	right: 0px;
 	line-height: 24px;
 }
 
@@ -605,7 +605,7 @@ footer ul {
 }
 
 .top h1 {
-	font-size: 78px;
+	font-size: 68px;
 	line-height: 62px;
 }
 .brand{
