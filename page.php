@@ -194,7 +194,8 @@ FOR GREAT CLIENTS</span>
 			<li class="hover"><a href="#"> <img
 					src="img/images/27.png" height="160px" width="160px">
 					<div>
-						<span>S&ndash;CREATIVE</span>
+						<span>	REALISING OUR CLIENTS 
+AMBITIONS</span>
 					</div>
 			</a>
 			</li>
