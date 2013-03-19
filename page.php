@@ -60,7 +60,7 @@ FOR GREAT CLIENTS</span>
 			</a>
 			</li>
 			<li class=""><a href="#"> <img
-					src="img/images/9.png" height="160px" width="160px">
+					src="img/images/20.png" height="160px" width="160px">
 					<div>
 						<span>S&ndash;CREATIVE</span>
 					</div>
@@ -110,13 +110,7 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 					</div>
 			</a>
 			</li>
-			<li class="hover"><a href="#"> <img
-					src="img/images/16.png" height="160px" width="160px">
-					<div>
-						<span>TURNING IDEAS INTO REALITY</span>
-					</div>
-			</a>
-			</li>
+			
 			<li class=""><a href="#"> <img
 					src="img/images/17.png" height="160px" width="160px">
 					<div>
@@ -143,7 +137,7 @@ AMBITIONS</span>
 			</a>
 			</li>
 			<li class="hover"><a href="#"> <img
-					src="img/images/20.png" height="160px" width="160px">
+					src="img/images/9.png" height="160px" width="160px">
 					<div>
 						<span>TURNING IDEAS INTO REALITY</span>
 					</div>
@@ -208,6 +202,13 @@ FOR GREAT CLIENTS</span>
 					src="img/images/36.png" height="160px" width="160px">
 					<div>
 						<span>S&ndash;CREATIVE</span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/16.png" height="160px" width="160px">
+					<div>
+						<span>TURNING IDEAS INTO REALITY</span>
 					</div>
 			</a>
 			</li>
