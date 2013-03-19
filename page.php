@@ -402,8 +402,8 @@ AMBITIONS</span>
 								</br>
 								<div class="slide7-1"></div>
 								<p>
-									<img src="images/15.png" style="width: 20px;height: 20px;">	 3D Video </br><img src="images/16.png" style="width: 20px;height: 20px;">	 Virtual Tours </br> <img src="images/17.png" style="width: 20px;height: 20px;">	Infographics </br> <img src="images/18.png" style="width: 20px;height: 20px;">	Corporate Stands
-									</br><img src="images/19.png" style="width: 20px;height: 20px;">Product Model </br> <img src="images/20.png" style="width: 20px;height: 20px;">	 Character Design
+									<img src="images/15.png" style="width: 20px;height: 20px;">	 3D Video </br></br><img src="images/16.png" style="width: 20px;height: 20px;">	 Virtual Tours </br></br> <img src="images/17.png" style="width: 20px;height: 20px;">	Infographics </br></br> <img src="images/18.png" style="width: 20px;height: 20px;">	Corporate Stands
+									</br></br><img src="images/19.png" style="width: 20px;height: 20px;">Product Model </br> </br><img src="images/20.png" style="width: 20px;height: 20px;">	 Character Design
 
 								</p>
 								<div class="slide7-2"></div>
@@ -420,7 +420,7 @@ AMBITIONS</span>
 									material. Thanks to our quality, performance and experience of
 									our trusted providers of recognized companies in this sector.</p>
 								<p>
-									<img src="images/11.png" style="width: 20px;height: 20px;"> Off-Set Printing </br><img src="images/12.png" style="width: 20px;height: 20px;">	 Digital Printing </br>	<img src="images/13.png" style="width: 20px;height: 20px;">Pre Press </br>	<img src="images/14.png" style="width: 20px;height: 20px;">Finishes
+									<img src="images/11.png" style="width: 20px;height: 20px;"> Off-Set Printing </br></br><img src="images/12.png" style="width: 20px;height: 20px;">	 Digital Printing </br></br>	<img src="images/13.png" style="width: 20px;height: 20px;">Pre Press </br></br>	<img src="images/14.png" style="width: 20px;height: 20px;">Finishes
 
 								</p>
 							</div></li>
