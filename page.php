@@ -411,7 +411,7 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 								<p>
 									<img src="images/11.png" style="width: 20px;height: 20px;"> Off-Set Printing </br></br>
 									<img src="images/12.png" style="width: 20px;height: 20px;">	 Digital Printing </br></br>
-										<img src="images/13.png" style="width: 20px;height: 20px;">  sPre Press </br></br>
+										<img src="images/13.png" style="width: 20px;height: 20px;">  Pre Press </br></br>
 											<img src="images/14.png" style="width: 20px;height: 20px;">  Finishes
 
 								</p>
