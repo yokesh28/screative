@@ -1,209 +1,243 @@
-<div id="page">
-	<div class="rollover row-fluid " style="bottom: -500px">
-		<?php if($_REQUEST['page']=="home"):?>
-		<div id="home_page" class="">
-			<ul id="da-thumbs" class="da-thumbs roll span12 ">
-				<li class="hover"><a href="#"> <img src="img/images/80-1.png"
-						height="160px" width="160px">
-						<div>
-							<span> WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/80-2.png"
-						height="160px" width="160px">
-						<div>
-							<span>TURNING IDEAS INTO REALITY</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/4.png"
-						height="160px" width="160px">
-						<div>
-							<span>REALISING OUR CLIENTS AMBITIONS</span>
-						</div>
-				</a></li>
 
-				<li class=""><a href="#"> <img src="img/images/5.png" height="160px"
-						width="160px">
-						<div>
-							<span>S&ndash;CREATIVE</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/6.png"
-						height="160px" width="160px">
-						<div>
-							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/7.png" height="160px"
-						width="160px">
-						<div>
-							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/34.png"
-						height="160px" width="160px">
-						<div>
-							<span>TURNING IDEAS INTO REALITY </span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/20.png"
-						height="160px" width="160px">
-						<div>
-							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/10.png"
-						height="160px" width="160px">
-						<div>
-							<span>WORKING TOGETHER TO CREATE MEANINGFUL EXPERIENCES</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/11.png"
-						height="160px" width="160px">
-						<div>
-							<span>WORKING WITH THE WORLD&rsquo; LEADING BRANDS</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/12.png"
-						height="160px" width="160px">
-						<div>
-							<span>HARNESSING THE LATEST TECHNOLOGY</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/13.png"
-						height="160px" width="160px">
-						<div>
-							<span>&ldquo;DESIGN IS NOT JUST A BUSINESS&sbquo; IT&rsquo;s A
-								PASSION&rdquo;</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/14.png"
-						height="160px" width="160px">
-						<div>
-							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/15.png"
-						height="160px" width="160px">
-						<div>
-							<span>WORKING TOGETHER TO CREATE MEANINGFUL EXPERIENCES</span>
-						</div>
-				</a></li>
-
-				<li class="hover"><a href="#"> <img src="img/images/17.png"
-						height="160px" width="160px">
-						<div>
-							<span>DESIGNING A GREAT USER EXPERIENCE</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/35.png"
-						height="160px" width="160px">
-						<div>
-							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/19.png"
-						height="160px" width="160px">
-						<div>
-							<span>REALISING OUR CLIENTS AMBITIONS</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/9.png" height="160px"
-						width="160px">
-						<div>
-							<span>TURNING IDEAS INTO REALITY</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/21.png"
-						height="160px" width="160px">
-						<div>
-							<span>HARNESSING THE LATEST TECHNOLOGY</span>
-						</div>
-				</a></li>
-
-				<li class=""><a href="#"> <img src="img/images/22.png"
-						height="160px" width="160px">
-						<div>
-							<span>REALISING OUR CLIENTS AMBITIONS </span>
-						</div>
-				</a></li>
-
-				<li class="hover"><a href="#"> <img src="img/images/23.png"
-						height="160px" width="160px">
-						<div>
-							<span>&ldquo;DESIGN IS NOT JUST A BUSINESS, IT&rsquo;s A
-								PASSION&rdquo;</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/24.png"
-						height="160px" width="160px">
-						<div>
-							<span>TURNING IDEAS INTO REALITY</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/25.png"
-						height="160px" width="160px">
-						<div>
-							<span>HARNESSING THE LATEST TECHNOLOGY</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/26.png"
-						height="160px" width="160px">
-						<div>
-							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/27.png"
-						height="160px" width="160px">
-						<div>
-							<span> REALISING OUR CLIENTS AMBITIONS</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/36.png"
-						height="160px" width="160px">
-						<div>
-							<span>TURNING IDEAS INTO REALITY</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/16.png"
-						height="160px" width="160px">
-						<div>
-							<span>REALISING OUR CLIENTS AMBITIONS</span>
-						</div>
-				</a></li>
-				<li class=""><a href="#"> <img src="img/images/29.png"
-						height="160px" width="160px">
-						<div>
-							<span>HARNESSING THE LATEST TECHNOLOGY</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/30.png"
-						height="160px" width="160px">
-						<div>
-							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
-						</div>
-				</a></li>
-
-				<li class=""><a href="#"> <img src="img/images/31.png"
-						height="160px" width="160px">
-						<div>
-							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
-						</div>
-				</a></li>
-				<li class="hover"><a href="#"> <img src="img/images/32.png"
-						height="160px" width="160px">
-						<div>
-							<span> REALISING OUR CLIENTS AMBITIONS</span>
-						</div>
-				</a></li>
-
-				<li class=""><a href="#"> <img src="img/images/33.png"
-						height="160px" width="160px">
-						<div>
-							<span>WORKING TOGETHER TO CREATE MEANINGFUL EXPERIENCES</span>
-						</div>
-				</a></li>
-				<!--   <li class="hover"><a href="#"> <img
+<div id="page" >
+<div class="rollover row-fluid " style="bottom: -500px">
+	<?php if($_REQUEST['page']=="home"):?>
+	<div id="home_page" class="">
+		<ul id="da-thumbs" class="da-thumbs roll span12 ">
+			<li class="hover"><a href="#"> <img
+					src="img/images/80-1.png" height="160px" width="160px">
+					<div>
+						<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/80-2.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/4.png" height="160px" width="160px">
+					<div>
+						<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
+					</div>
+			</a>
+			</li>
+			
+       <li class=""><a href="#"> <img
+					src="img/images/5.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/6.png" height="160px" width="160px">
+					<div>
+						<span>REALISING OUR CLIENTS  AMBITIONS</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/7.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/34.png" height="160px" width="160px">
+					<div>
+						<span>TURNING IDEAS INTO REALITY</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/20.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/10.png" height="160px" width="160px">
+					<div>
+						<span>WORKING WITH THE WORLD&rsquo;LEADING BRANDS</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/11.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/12.png" height="160px" width="160px">
+					<div>
+						<span>TURNING IDEAS INTO REALITY</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/13.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/14.png" height="160px" width="160px">
+					<div>
+						<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES  </span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/15.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			
+			<li class="hover"><a href="#"> <img
+					src="img/images/17.png" height="160px" width="160px">
+					<div>
+						<span>&ldquo;DESIGN  IS NOT  
+JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/35.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/19.png" height="160px" width="160px">
+					<div>
+						<span>HARNESSING THE LATEST TECHNOLOGY </span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/9.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"> <a href="#"> <img
+					src="img/images/21.png" height="160px" width="160px">
+					<div>
+						<span>WORKING WITH THE WORLD&rsquo;LEADING BRANDS</span>
+					</div>
+			</a>
+			</li>
+			
+			<li class=""><a href="#"> <img
+					src="img/images/22.png" height="160px" width="160px">
+					<div>
+						<span>
+						</span>
+					</div>
+			</a>
+			</li>
+			
+			<li class="hover"><a href="#"> <img
+					src="img/images/23.png" height="160px" width="160px">
+					<div>
+						<span>&ldquo;DESIGN  IS NOT   JUST A  BUSINESS,  IT&rsquo;s A  PASSION&rdquo;</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/24.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+				 	src="img/images/25.png" height="160px" width="160px">
+					<div>
+						<span>HARNESSING THE LATEST TECHNOLOGY</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/26.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/27.png" height="160px" width="160px">
+					<div>
+						<span>TURNING IDEAS INTO REALITY</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/36.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/16.png" height="160px" width="160px">
+					<div>
+						<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
+					</div>
+			</a>
+			</li>
+			<li class=""><a href="#"> <img
+					src="img/images/29.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/30.png" height="160px" width="160px">
+					<div>
+						<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
+					</div>
+			</a>
+			</li>
+			
+				<li class=""><a href="#"> <img
+					src="img/images/31.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+			<li class="hover"><a href="#"> <img
+					src="img/images/32.png" height="160px" width="160px">
+					<div>
+						<span>REALISING OUR CLIENTS  AMBITIONS</span>
+					</div>
+			</a>
+			</li>
+	
+            <li class=""><a href="#"> <img
+					src="img/images/33.png" height="160px" width="160px">
+					<div>
+						<span></span>
+					</div>
+			</a>
+			</li>
+           <!--   <li class="hover"><a href="#"> <img
+>>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
 					src="img/images/34.png" height="160px" width="160px">
 					<div>
 						<span>S&ndash;CREATIVE</span>
@@ -408,15 +442,109 @@
 					<h2>Services</h2>
 					<p>
 
+<<<<<<< HEAD
 						<b> S- Creative</b> is a creative studio dedicated to strategic
 						corporate advertising and interactive conceptualization,
 						integrated digital development.</br> </br> Our services provide an
 						effective solution for brand positioning.
+=======
+						<li><img src="img/services/slides/5.jpg">
+							<div class="ei-title">
+								<h2>BRANDING</h2>
+								<p>Design drives growth. Design begins with people. So
+									understanding needs, desires and preferences is always our
+									starting point. From the creation of brands, products and
+									services to changing perceptions or inspiring a company, our
+									solutions have a compelling simplicity&#45;revealing potential,
+									initiating possibilities and realizing ambitions.</p>
+								</br>
+
+								<div class="slide5-1">
+									<p>Corporate Identity</p>
+								</div>
+								<div class="slide5-2">
+									<p>Packaging Design</p>
+								</div>
+								<div class="slide5-3">
+									<p>Advertising campaigns</p>
+								</div>
+								<div class="slide5-4">
+									<p>Brochures and Catalogs</p>
+								</div>
+								<div class="slide5-5">
+									<p>Digital Art</p>
+								</div>
+								</p>
+							</div></li>
+						<li><img src="img/services/slides/6.jpg">
+							<div class="ei-title">
+								<h2>Multimedia</h2>
+								<p>Experiences with high content and navigability
+									personalized interaction, aimed at strengthening communication
+									and efficient information structures supplied</p>
+								<div class="slide6-1">
+									<p>Interaction</p>
+								</div>
+								<div class="slide6-2">
+									<p>Visual Pro</p>
+								</div>
+
+								<div class="slide6-5">
+									<p>Statistics</p>
+								</div>
+								<div class="slide6-6">
+									<p>3D Integration</p>
+								</div>
+								<div class="slide6-7">
+									<p>Locution</p>
+								</div>
+								<div class="slide6-8">
+									<p>Animation</p>
+								</div>
+							</div></li>
+						<li><img src="img/services/slides/7.jpg">
+							<div class="ei-title">
+								<h2>3D</h2>
+								<p>From drawings, photographs or sketches design the virtual
+									simulation of your project, adequate 3D images and animations
+									in any format required for projects of Engineering,
+									Architecture and Industrial Design.</p>
+								</br>
+								<div class="slide7-1"></div>
+								<p>
+									<img src="images/icon/13.png" style="width: 20px;height: 20px;">	 3D Video </br></br>
+									<img src="images/icon/19.png" style="width: 20px;height: 20px;">	 Virtual Tours </br></br>
+									 <img src="images/icon/14.png" style="width: 20px;height: 20px;">  Infographics </br></br> 
+									 <img src="images/icon/16.png" style="width: 20px;height: 20px;">	Corporate Stands</br></br>
+									 <img src="images/icon/17.png" style="width: 20px;height: 20px;">  Product Model </br></br>
+									<img src="images/icon/11.png" style="width: 20px;height: 20px;">	 Character Design
+
+								</p>
+								<div class="slide7-2"></div>
+							</div></li>
+>>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
 
 
+<<<<<<< HEAD
 					</p>
 					<ul class="ei-slider-thumbs">
 						<li class="ei-slider-element"></li>
+=======
+						<li><img src="img/services/slides/10.jpg">
+							<div class="ei-title">
+								<h2>DIGITAL MEDIA</h2>
+								</br>
+								<div class="slide10-0"></div>
+								</br>
+								<p>Printing Platform for producing advertising and Packaging
+									material. Thanks to our quality, performance and experience of
+									our trusted providers of recognized companies in this sector.</p>
+								<p>
+									<img src="images/icon/12.png" style="width: 20px;height: 20px;"> Off-Set Printing </br></br>
+									<img src="images/icon/20.png" style="width: 20px;height: 20px;">	 Digital Printing </br></br>
+										<img src="images/icon/18.png" style="width: 20px;height: 20px;">  Pre Press </br></br>
+											<img src="images/icon/15.png" style="width: 20px;height: 20px;">  Finishes
+>>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
 
 						<li><a href="#"><span class="icon1"></span><span class="bar"></span>Web</a>
 						</li>
