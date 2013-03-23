@@ -40,7 +40,7 @@ display: none !important;
 address
 {
 position: absolute;
-right: 8px;
+left: 8px;
 top:200px;
 padding: 18px;
 width: 200px;
@@ -58,19 +58,17 @@ position: absolute;
 padding: 12px 24px;
 font-size: 20px;
 font-weight: bolder;
-right: 216px;
+left: 216px;
 top: 166px;
 z-index: 1;
 }
 .open{
 
-position: absolute;
 background: #058fcd;
 padding: 10px 20px;
 color: white;
 font-weight: bold;
-top: 64%;
-right: 47%;
+display:inline-block;
 z-index: 99999;
 cursor: pointer;
 
@@ -81,10 +79,7 @@ cursor: pointer;
 	$(function() {
 		$("#mybook").booklet({width:'400px',left:'20px',padding:'0px',pageNumbers: false,pagePadding: 0,hoverWidth:40 });
 		$("#mybook2").booklet({ direction: "RTL",width:'400px',left:'20px',padding:'0px',pageNumbers: false,pagePadding: 0,hoverWidth:40  });
-		
-		$('.open').mouseover(function() {
-			$('.open').hide();
-			});
+	
 		
 	});
 </script>
@@ -93,6 +88,7 @@ cursor: pointer;
 <body>
 
 	<section>
+	
 		<div id="mybook">
 
 			<div title="page" >
@@ -126,10 +122,11 @@ cursor: pointer;
 
 		</div>
 
-		</div>
+
+		
 	</section>
+	
 	<div class="add">Address</div>
-	<div class="open">Catch Me</div>
 	<address>
 	13/2D Brookebond Layout,
 	Krishnaswamy Mudhaliar Rd,
