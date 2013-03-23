@@ -1,6 +1,6 @@
 <?php
 
-$to = 'annamalai.cs@gmail.com';
+$to = 'mi@s-creative.me';
 
 $subject = 'Received mail information';
 

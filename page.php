@@ -522,14 +522,11 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 								</p>
 								<div class="slide7-2"></div>
 							</div></li>
->>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
 
-
-<<<<<<< HEAD
 					</p>
 					<ul class="ei-slider-thumbs">
 						<li class="ei-slider-element"></li>
-=======
+
 						<li><img src="img/services/slides/10.jpg">
 							<div class="ei-title">
 								<h2>DIGITAL MEDIA</h2>
@@ -544,7 +541,7 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 									<img src="images/icon/20.png" style="width: 20px;height: 20px;">	 Digital Printing </br></br>
 										<img src="images/icon/18.png" style="width: 20px;height: 20px;">  Pre Press </br></br>
 											<img src="images/icon/15.png" style="width: 20px;height: 20px;">  Finishes
->>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
+
 
 						<li><a href="#"><span class="icon1"></span><span class="bar"></span>Web</a>
 						</li>
