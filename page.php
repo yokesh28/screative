@@ -602,7 +602,7 @@ that&rsquo;s right for you - within your budget.
 				<div class="coming">
 						<h1  style="font-size: 34.5px; padding-right: 100px;
 margin-left: 94px;" >
-							COMING SOON !</h1>
+							We do great works<br>for great clients<br> come<br>get your brands<br>noticed</h1>
 						
 					</div>
 
@@ -779,10 +779,10 @@ return false;
 				
 				
 
-			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/f.png"></a>
+			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/fb.png"></a>
 
 								
-			<a	href="https://www.twitter.com/"><img class="right" style="margin-right: -79px" src="images/t.png"></a>
+			<a	href="https://www.twitter.com/"><img class="right" style="margin-right: -79px" src="images/tw.png"></a>
 					
 				
 				
