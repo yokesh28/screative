@@ -783,6 +783,9 @@ return false;
 			
 				
 				<div class="footer_text"><span class="span">copyright &#169; 2013. S-Creative. All Right Reserved.</span> 
+				
+				
+				
 				  
 			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/fb.png"></a>
 								
@@ -797,9 +800,7 @@ return false;
 	</footer>
 	
 	
-	</div><br>
-	<br><br>
-	<br>
+	</div>
 	
 	
 	
