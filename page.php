@@ -399,6 +399,10 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 							</div></li>
 
 
+					</p>
+					<ul class="ei-slider-thumbs">
+						<li class="ei-slider-element"></li>
+
 						<li><img src="img/services/slides/10.jpg">
 							<div class="ei-title">
 								<h2>DIGITAL MEDIA</h2>
@@ -413,6 +417,7 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 									<img src="images/icon/20.png" style="width: 20px;height: 20px;">	 Digital Printing </br></br>
 										<img src="images/icon/18.png" style="width: 20px;height: 20px;">  Pre Press </br></br>
 											<img src="images/icon/15.png" style="width: 20px;height: 20px;">  Finishes
+
 
 								</p>
 							</div></li>
@@ -688,8 +693,8 @@ margin-left: 94px;" >
 				<ul>
 				
 				<li><img src="images/1.png">&nbsp;&nbsp;+91 9894500189</li>
-				<li><img src="images/2.png">&nbsp;&nbsp;mi@shill.in</li>
-				<li><img src="images/3.png">&nbsp;&nbsp;www.shill.in</li>
+				<li><img src="images/2.png">&nbsp;&nbsp;mi@s-creative.me</li>
+		
 				<li><p>13/2D, Brookebond layout,</p></li>
 				<li><p>krishnaswamy Mudhaliar Road,</p></li>
                  <li><p>Coimbatore-641002</p></li>	

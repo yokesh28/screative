@@ -617,16 +617,16 @@ footer ul {
 
 #about_us p:HOVER{
 	background:#6699FF;
-	color: black;
+	color: white;
 	cursor: pointer;
 }
 #about_us p:HOVER span{
 	background: #6699FF;
-	color: black;
+	color: white;
 	cursor: pointer;
 }
 #about_us .related1 div:hover{
 	background: #6699FF;
-	color: black;
+	color: white;
 	cursor: pointer;
 }
