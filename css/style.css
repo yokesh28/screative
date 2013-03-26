@@ -41,12 +41,11 @@ ul li {
 
 .coming {
 	position: absolute;
-	top: 34%;
-	left:17%;
+	top: 43%;
+	left: 30%;
 	background: #2F7EC1;
 	text-align: center;
-	color: white;width:864px;
-	font-family: Helvetica, Arial, "sans-serif";
+	color: white;
 }
 
 .rollover {

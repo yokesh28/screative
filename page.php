@@ -399,10 +399,6 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 							</div></li>
 
 
-					</p>
-					<ul class="ei-slider-thumbs">
-						<li class="ei-slider-element"></li>
-
 						<li><img src="img/services/slides/10.jpg">
 							<div class="ei-title">
 								<h2>DIGITAL MEDIA</h2>
@@ -417,7 +413,6 @@ JUST A  BUSINESS&sbquo;  IT&rsquo;s A  PASSION&rdquo;</span>
 									<img src="images/icon/20.png" style="width: 20px;height: 20px;">	 Digital Printing </br></br>
 										<img src="images/icon/18.png" style="width: 20px;height: 20px;">  Pre Press </br></br>
 											<img src="images/icon/15.png" style="width: 20px;height: 20px;">  Finishes
-
 
 								</p>
 							</div></li>
@@ -607,7 +602,7 @@ that&rsquo;s right for you - within your budget.
 				<div class="coming">
 						<h1  style="font-size: 34.5px; padding-right: 100px;
 margin-left: 94px;" >
-							We do great works<br> for great clients<br> come<br> get your brands noticed!</h1>
+							COMING SOON !</h1>
 						
 					</div>
 
@@ -780,26 +775,31 @@ return false;
 			
 			<footer class="footer">
 		
-			
+			<ul>
+				<li style="float: left; width: 50px;"><img
+					src="img/images/logo1.png">
 				
-				<div class="footer_text"><span class="span">copyright &#169; 2013. S-Creative. All Right Reserved.</span> 
-				  
-			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/fb.png"></a>
+				
+				
+				</li>
+				<li class="footer_text"><span class="span3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
+						POLICY</span>  
+			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/f.png"></a>
 								
-			<a	href="https://www.twitter.com/"><img class="right" style="margin-right: -79px" src="images/tw.png"></a>
+			<a	href="https://www.twitter.com/"><img class="right" style="margin-right: -79px" src="images/t.png"></a>
 					
 				
 				
 				
+				</li>
+
+			</ul>
 
 
 		</div>
 	</footer>
 	
 	
-	</div><br>
-	<br><br>
-	<br>
-	
+	</div>
 	
 	
