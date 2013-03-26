@@ -775,19 +775,25 @@ return false;
 			
 			<footer class="footer">
 		
-		
+			<ul>
+				<li style="float: left; width: 50px;"><img
+					src="img/images/logo1.png">
 				
 				
-
+				
+				</li>
+				<li class="footer_text"><span class="span3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S CREATIVE COPYRIGHT 2012</span> <span class="span2">PRIVACY
+						POLICY</span>  
 			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/f.png"></a>
-
 								
 			<a	href="https://www.twitter.com/"><img class="right" style="margin-right: -79px" src="images/t.png"></a>
 					
 				
 				
 				
-	
+				</li>
+
+			</ul>
 
 
 		</div>
@@ -795,6 +801,5 @@ return false;
 	
 	
 	</div>
-
 	
 	
