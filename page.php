@@ -776,7 +776,7 @@ return false;
 			<footer class="footer">
 		<span class="left">Copyright &#169; 2011. S-Creative. All Rights Reserved</span>
 
-			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/fb.png"></a>
+			<a	href="https://www.facebook.com/boxedcreativity"><img class="right" style="margin-right: 78px" src="images/fb.png"></a>
 
 
 								
