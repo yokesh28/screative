@@ -654,9 +654,10 @@ overflow: hidden;
  cursor: pointer;}
 .social .set{
 	float: left;
-	width:28px;
+	width:26px;
 	height: 30px;
-	overflow: hidden;
+overflow: hidden;
+	
 }
 .social .set1{
 

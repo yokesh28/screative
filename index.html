@@ -31,7 +31,8 @@
 <link rel="stylesheet" type="text/css" href="css/effects.css" />
 <script src="js/modernizr.custom.97074.js"></script>
 
-<link href='http://fonts.googleapis.com/css?family=Gabriela' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Gabriela'
+	rel='stylesheet' type='text/css'>
 
 <noscript>
 	<link rel="stylesheet" type="text/css" href="css/noJS.css" />
@@ -76,38 +77,44 @@
 
 		</div>
 
-	
 
-	<footer class="footer">
-		<span class="copy">Copyright &#169; 2011. S-Creative. All
-			Rights Reserved</span>
-		<div class="social">
-			<div class="set">
-				<img src="images/fb.png">
 
-				<div class="fb-like"
-					data-href="https://www.facebook.com/BoxedCreative"
-					data-send="false" data-width="450" data-show-faces="false"
-					layout="button_count"></div>
+		<footer class="footer">
+			<span class="copy">Copyright &#169; 2011. S-Creative. All
+				Rights Reserved</span>
+			<div class="social">
+				<div class="set">
+					<img src="images/fb.png" style="margin-bottom: 24px;">
+
+
+					<iframe
+						src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fboxedcreativity&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=35&amp;appId=267011706731973"
+						scrolling="no" frameborder="0"
+						style="border: none; overflow: hidden; width: 80px; height: 26px;"
+						allowTransparency="true"></iframe>
+
+
+				</div>
+				<div class="set1">
+					<img src="images/tw.png">
+				</div>
+
+
 
 			</div>
-			<div class="set1">
-				<img src="images/tw.png">
-			</div>
-
-
-
-		</div>
 
 
 
 
 
-	</footer>
+		</footer>
 
-</div>
+	</div>
 	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 	<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
+
+
+
 
 
 
@@ -116,19 +123,19 @@
 	<script src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/jquery.hoverdir.js"></script>
 	<script type="text/javascript">
-	
-	
-	$('.set').mouseenter(function() {
-		$(".set").animate({
-			"width" : "145px",
-			opacity : 1
-		}, 300);
+		$('.set').mouseenter(function() {
+
+			$(".set").animate({
+				"width" : "145px",
+				opacity : 1
+			}, 300);
 		});
-	$('.set').mouseleave(function() {
-		$(".set").animate({
-			"width" : "28px",
-			opacity : 1
-		}, 300);
+		$('.set').mouseleave(function() {
+		
+			$(".set").animate({
+				"width" : "28px",
+				opacity : 1
+			}, 300);
 		});
 		changePage('home');
 		function changePage(page) {
