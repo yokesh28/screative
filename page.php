@@ -762,13 +762,20 @@ return false;
 	<footer class="footer">
 		<span class="left">Copyright &#169; 2011. S-Creative. All Rights
 			Reserved</span>
+		<div class="set">
+		<img src="images/fb.png">
+		
 		<div class="fb-like" data-href="https://www.facebook.com/BoxedCreative" data-send="false" data-width="450" data-show-faces="false" layout="button_count"></div>
+		
+		</div>
+		<div class="set1">
+		<img src="images/tw.png">	
+		</div>
+		
 			
-		<a href="https://www.facebook.com/boxedcreativity"><img class="right"
-			style="margin-right: 78px" src="images/fb.png">
-		</a> <a href="https://www.twitter.com/"><img class="right"
-			style="margin-right: -79px" src="images/tw.png">
-		</a>
+		
+			
+		
 
 
 
