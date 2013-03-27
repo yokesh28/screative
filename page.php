@@ -602,7 +602,7 @@
 			<div class="coming">
 				<h1
 					style="font-size: 34.5px; padding-right: 100px; margin-left: 94px;">
-					We do great works<br>for great clients<br> come<br>get your brands<br>noticed
+					&ldquo;We do great works<br>for great clients<br> come<br>get your brands<br>noticed&rdquo;
 				</h1>
 
 			</div>
