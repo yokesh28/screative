@@ -629,9 +629,5 @@ footer ul {
 	color: black;
 	cursor: pointer;
 }
-
-.set img{margin-left:78%;
-		
-		
-		
-}
+.set .fb-like{width: 112px;
+display: inline-block;}
