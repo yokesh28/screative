@@ -589,8 +589,8 @@ ul li {
 	cursor: pointer;
 }
 
-footer ul {
-	padding: 20px 3px;
+footer  {
+
 }
 
 #page {
@@ -630,4 +630,26 @@ footer ul {
 	cursor: pointer;
 }
 .set .fb-like{width: 112px;
-display: inline-block;}
+display: inline-table;
+margin: 3px 0px;}
+.copy{
+	
+	float: left;
+}
+.social{
+	float: right;
+	
+	
+}
+.social img{
+ cursor: pointer;}
+.social .set{
+	float: left;
+	width:28px;
+	height: 30px;
+	overflow: hidden;
+}
+.social .set1{
+
+	display: inline-block;
+}

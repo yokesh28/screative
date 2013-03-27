@@ -8,125 +8,145 @@
 						<div>
 							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/80-2.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/4.png"
 						height="160px" width="160px">
 						<div>
 							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 
 				<li class=""><a href="#"> <img src="img/images/5.png" height="160px"
 						width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/6.png"
 						height="160px" width="160px">
 						<div>
 							<span>REALISING OUR CLIENTS  AMBITIONS</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/7.png" height="160px"
 						width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/34.png"
 						height="160px" width="160px">
 						<div>
 							<span>TURNING IDEAS INTO REALITY</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/20.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/10.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/11.png"
 						height="160px" width="160px">
 						<div>
 							<span>WORKING WITH THE WORLD&rsquo;LEADING BRANDS</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/12.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/13.png"
 						height="160px" width="160px">
 						<div>
 							<span>TURNING IDEAS INTO REALITY</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/14.png"
 						height="160px" width="160px">
 						<div>
 							<span> </span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/15.png"
 						height="160px" width="160px">
 						<div>
 							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 
 				<li class=""><a href="#"> <img src="img/images/17.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/35.png"
 						height="160px" width="160px">
 						<div>
 							<span>&ldquo;DESIGN IS NOT JUST A BUSINESS&sbquo; IT&rsquo;s A
 								PASSION&rdquo;</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/19.png"
 						height="160px" width="160px">
 						<div>
 							<span>HARNESSING THE LATEST TECHNOLOGY </span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/9.png" height="160px"
 						width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/21.png"
 						height="160px" width="160px">
 						<div>
 							<span>WORKING WITH THE WORLD&rsquo;LEADING BRANDS</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 
 				<li class=""><a href="#"> <img src="img/images/22.png"
 						height="160px" width="160px">
 						<div>
 							<span> </span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 
 				<li class="hover"><a href="#"> <img src="img/images/23.png"
 						height="160px" width="160px">
@@ -134,75 +154,87 @@
 							<span>&ldquo;DESIGN IS NOT JUST A BUSINESS, IT&rsquo;s A
 								PASSION&rdquo;</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/24.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/25.png"
 						height="160px" width="160px">
 						<div>
 							<span>HARNESSING THE LATEST TECHNOLOGY</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/26.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/27.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/36.png"
 						height="160px" width="160px">
 						<div>
 							<span>TURNING IDEAS INTO REALITY</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/16.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class="hover"><a href="#"> <img src="img/images/29.png"
 						height="160px" width="160px">
 						<div>
 							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/30.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 
 				<li class="hover"><a href="#"> <img src="img/images/31.png"
 						height="160px" width="160px">
 						<div>
 							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<li class=""><a href="#"> <img src="img/images/32.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 
 				<li class="hover"><a href="#"> <img src="img/images/33.png"
 						height="160px" width="160px">
 						<div>
 							<span>REALISING OUR CLIENTS  AMBITIONS</span>
 						</div>
-				</a></li>
+				</a>
+				</li>
 				<!--   <li class="hover"><a href="#"> <img
 					src="img/images/34.png" height="160px" width="160px">
 					<div>
@@ -276,8 +308,7 @@
 							<div class="slide2-8">
 								<p>Web Development</p>
 							</div>
-						</div>
-					</li>
+						</div></li>
 					<li><img src="img/services/slides/3.jpg">
 						<div class="ei-title">
 							<h2>APPLICATIONS</h2>
@@ -290,8 +321,7 @@
 
 							<div class="slide3-1"></div>
 							<p>Desktop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tablet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile</p>
-						</div>
-					</li>
+						</div></li>
 
 					<li><img src="img/services/slides/5.jpg">
 						<div class="ei-title">
@@ -320,8 +350,7 @@
 								<p>Digital Art</p>
 							</div>
 							</p>
-						</div>
-					</li>
+						</div></li>
 					<li><img src="img/services/slides/6.jpg">
 						<div class="ei-title">
 							<h2>Multimedia</h2>
@@ -347,8 +376,7 @@
 							<div class="slide6-8">
 								<p>Animation</p>
 							</div>
-						</div>
-					</li>
+						</div></li>
 					<li><img src="img/services/slides/7.jpg">
 						<div class="ei-title">
 							<h2>3D</h2>
@@ -360,22 +388,18 @@
 							<div class="slide7-1"></div>
 							<p>
 								<img src="images/icon/13.png" style="width: 20px; height: 20px;">
-								3D Video </br>
-								</br> <img src="images/icon/19.png"
-									style="width: 20px; height: 20px;"> Virtual Tours </br>
-								</br> <img src="images/icon/14.png"
-									style="width: 20px; height: 20px;"> Infographics </br>
-								</br> <img src="images/icon/16.png"
-									style="width: 20px; height: 20px;"> Corporate Stands</br>
-								</br> <img src="images/icon/17.png"
-									style="width: 20px; height: 20px;"> Product Model </br>
-								</br> <img src="images/icon/11.png"
+								3D Video </br> </br> <img src="images/icon/19.png"
+									style="width: 20px; height: 20px;"> Virtual Tours </br> </br> <img
+									src="images/icon/14.png" style="width: 20px; height: 20px;">
+								Infographics </br> </br> <img src="images/icon/16.png"
+									style="width: 20px; height: 20px;"> Corporate Stands</br> </br>
+								<img src="images/icon/17.png" style="width: 20px; height: 20px;">
+								Product Model </br> </br> <img src="images/icon/11.png"
 									style="width: 20px; height: 20px;"> Character Design
 
 							</p>
 							<div class="slide7-2"></div>
-						</div>
-					</li>
+						</div></li>
 
 
 					<li><img src="img/services/slides/10.jpg">
@@ -389,17 +413,14 @@
 								our trusted providers of recognized companies in this sector.</p>
 							<p>
 								<img src="images/icon/12.png" style="width: 20px; height: 20px;">
-								Off-Set Printing </br>
-								</br> <img src="images/icon/20.png"
-									style="width: 20px; height: 20px;"> Digital Printing </br>
-								</br> <img src="images/icon/18.png"
-									style="width: 20px; height: 20px;"> Pre Press </br>
-								</br> <img src="images/icon/15.png"
+								Off-Set Printing </br> </br> <img src="images/icon/20.png"
+									style="width: 20px; height: 20px;"> Digital Printing </br> </br>
+								<img src="images/icon/18.png" style="width: 20px; height: 20px;">
+								Pre Press </br> </br> <img src="images/icon/15.png"
 									style="width: 20px; height: 20px;"> Finishes
 
 							</p>
-						</div>
-					</li>
+						</div></li>
 				</ul>
 				<div class="content">
 					<h2>Services</h2>
@@ -418,20 +439,17 @@
 						<li><a href="#"><span class="icon1"></span><span class="bar"></span>Web</a>
 						</li>
 						<li><a href="#"><span class="icon2"></span><span class="bar"></span>Applications
-						</a>
-						</li>
+						</a></li>
 
 						<li><a href="#"><span class="icon4"></span><span class="bar"></span>Branding
-						</a>
-						</li>
+						</a></li>
 						<li><a href="#"><span class="icon5"></span><span class="bar"></span>Multimedia</a>
 						</li>
 						<li><a href="#"><span class="icon6"></span><span class="bar"></span>3D</a>
 						</li>
 
 						<li><a href="#"><span class="icon10"></span><span class="bar"></span>Digital
-								Media </a>
-						</li>
+								Media </a></li>
 					</ul>
 					</br>
 				</div>
@@ -484,11 +502,10 @@
 				</div>
 				<div class="related3">
 					<p class="span3">
-						<span><b>WE LISTEN </b>
-						</span><br> For us it is essential to know exactly what is
-						important to you. We ask a lot of questions, because the more we
-						know the better we can tailor bespoke marketing and design
-						solutions to your needs.
+						<span><b>WE LISTEN </b> </span><br> For us it is essential to know
+						exactly what is important to you. We ask a lot of questions,
+						because the more we know the better we can tailor bespoke
+						marketing and design solutions to your needs.
 
 					</p>
 				</div>
@@ -522,23 +539,22 @@
 				<div class="related6">
 
 					<p class="span4">
-						<span><b>BEAUTY IS NOT ENOUGH </b>
-						</span><br>We love beautiful things, but when it comes to design
-						we keep it with one of Alfa Romeo&rsquo;s claims: La belezza non
-						basta&rsquo; &ndash; Beauty is not enough! And we get inspired by
-						Sir Norman Foster&rsquo;s motto &lsquo;Form follows
-						function&rsquo;. For us real beauty is not just a nice shell,
-						it&rsquo;s as much internal as it is external.
+						<span><b>BEAUTY IS NOT ENOUGH </b> </span><br>We love beautiful
+						things, but when it comes to design we keep it with one of Alfa
+						Romeo&rsquo;s claims: La belezza non basta&rsquo; &ndash; Beauty
+						is not enough! And we get inspired by Sir Norman Foster&rsquo;s
+						motto &lsquo;Form follows function&rsquo;. For us real beauty is
+						not just a nice shell, it&rsquo;s as much internal as it is
+						external.
 
 					</p>
 				</div>
 				<div class="related7">
 					<p class="span5">
-						<span><b>WE ARE FLEXIBLE </b>
-						</span><br> Whether your dream is to conquer the world with a
-						budget to match or your budget is more modest, we always listen to
-						your needs to come up with a solution that&rsquo;s right for you -
-						within your budget.
+						<span><b>WE ARE FLEXIBLE </b> </span><br> Whether your dream is to
+						conquer the world with a budget to match or your budget is more
+						modest, we always listen to your needs to come up with a solution
+						that&rsquo;s right for you - within your budget.
 					</p>
 				</div>
 
@@ -674,12 +690,9 @@
 					<li><img src="images/1.png">&nbsp;&nbsp;+91 9894500189</li>
 					<li><img src="images/2.png">&nbsp;&nbsp;mi@s-creative.me</li>
 
-					<li><p>13/2D, Brookebond layout,</p>
-					</li>
-					<li><p>krishnaswamy Mudhaliar Road,</p>
-					</li>
-					<li><p>Coimbatore-641002</p>
-					</li>
+					<li><p>13/2D, Brookebond layout,</p></li>
+					<li><p>krishnaswamy Mudhaliar Road,</p></li>
+					<li><p>Coimbatore-641002</p></li>
 				</ul>
 
 
@@ -759,37 +772,13 @@ return false;
 
 
 
-	<footer class="footer">
-		<span class="left">Copyright &#169; 2011. S-Creative. All Rights
-			Reserved</span>
-		<div class="set">
-		<img src="images/fb.png">
-		
-		<div class="fb-like" data-href="https://www.facebook.com/BoxedCreative" data-send="false" data-width="450" data-show-faces="false" layout="button_count"></div>
-		
-		</div>
-		<div class="set1">
-		<img src="images/tw.png">	
-		</div>
-		
-			
-		
-			
-		
-
-
-
-
-	</footer>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
+	
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-</div>
-
-
+	</div>
