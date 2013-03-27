@@ -637,7 +637,10 @@ footer  {
 }
 .set .fb-like{width: 112px;
 display: inline-table;
-margin: 3px 0px;}
+margin: 3px 0px;
+overflow: hidden;
+
+}
 .copy{
 	
 	float: left;
