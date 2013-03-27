@@ -776,6 +776,12 @@ return false;
 			<footer class="footer">
 		<span class="left">Copyright &#169; 2011. S-Creative. All Rights Reserved</span>
 
+	<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fboxedcreativity&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true">
+	</iframe>	
+	
+	
+	
+	
 			<a	href="https://www.facebook.com/"><img class="right" style="margin-right: 78px" src="images/fb.png"></a>
 
 
