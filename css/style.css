@@ -47,6 +47,12 @@ ul li {
 	text-align: center;
 	color: white;
 }
+.coming:HOVER
+{
+	background: #6699FF;
+color: black;
+cursor: pointer;
+}
 
 .rollover {
 	right: 10%;
