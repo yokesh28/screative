@@ -31,7 +31,9 @@
 <link rel="stylesheet" type="text/css" href="css/effects.css" />
 <script src="js/modernizr.custom.97074.js"></script>
 
-<link href='http://fonts.googleapis.com/css?family=Marvel:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link
+	href='http://fonts.googleapis.com/css?family=Marvel:400,400italic,700,700italic'
+	rel='stylesheet' type='text/css'>
 
 <noscript>
 	<link rel="stylesheet" type="text/css" href="css/noJS.css" />
@@ -44,8 +46,8 @@
 		<div class="header">
 			<div class="navbar">
 				<div class="menu navbar-inner">
-					<a class="brand" onclick="return changePage('home');"><img src="images/logo2.png"
-						height="200px" width="200px"></a>
+					<a class="brand" onclick="return changePage('home');"><img
+						src="images/logo2.png" height="200px" width="200px"></a>
 					<div class="right row">
 						<a class="btn btn-navbar" data-toggle="collapse"
 							data-target=".nav-collapse"> <span>Main Menu</span>
@@ -61,7 +63,8 @@
 								href="#">Services</a></li>
 							<li class="span2" onclick="return changePage('portfolio');"><a
 								href="#">Portfolio</a></li>
-							<li class="span2" onclick="return changePage('contact')"><a href="#">Contact Us</a></li>
+							<li class="span2" onclick="return changePage('contact')"><a
+								href="#">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -69,19 +72,42 @@
 		</div>
 
 
-		
+
 		<div class="background">
-		<div id="page">
-		
-		
+			<div id="page"></div>
+
 		</div>
-		
+
+	
+
+	<footer class="footer">
+		<span class="copy">Copyright &#169; 2011. S-Creative. All
+			Rights Reserved</span>
+		<div class="social">
+			<div class="set">
+				<img src="images/fb.png">
+
+				<div class="fb-like"
+					data-href="https://www.facebook.com/BoxedCreative"
+					data-send="false" data-width="450" data-show-faces="false"
+					layout="button_count"></div>
+
+			</div>
+			<div class="set1">
+				<img src="images/tw.png">
+			</div>
+
+
+
 		</div>
-		
-	</div>
 
 
 
+
+
+	</footer>
+
+</div>
 	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 	<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
 
@@ -92,9 +118,23 @@
 	<script src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/jquery.hoverdir.js"></script>
 	<script type="text/javascript">
+	
+	
+	$('.set').mouseenter(function() {
+		$(".set").animate({
+			"width" : "145px",
+			opacity : 1
+		}, 300);
+		});
+	$('.set').mouseleave(function() {
+		$(".set").animate({
+			"width" : "28px",
+			opacity : 1
+		}, 300);
+		});
 		changePage('home');
 		function changePage(page) {
-			
+
 			$(".rollover").animate({
 				"bottom" : "800px",
 				opacity : 1
@@ -113,17 +153,15 @@
 						setTimeout(function() {
 
 							jQuery('#page').replaceWith(html);
-							
 
 							$(".rollover").animate({
 								"bottom" : "0px",
 								opacity : 1
 							}, 300);
 
-							jQuery(' #da-thumbs > li.hover').each(
-									function() {
-										$(this).hoverdir();
-									});
+							jQuery(' #da-thumbs > li.hover').each(function() {
+								$(this).hoverdir();
+							});
 
 						}, 300);
 
@@ -161,7 +199,7 @@
 						setTimeout(function() {
 
 							jQuery('#page').replaceWith(html);
-							
+
 							$(".rollover").animate({
 								"bottom" : "0px",
 								opacity : 1
@@ -169,19 +207,19 @@
 
 							$(".related2 p").delay(300).animate({
 								"bottom" : "512px",
-								"margin-left":"364px",
+								"margin-left" : "364px",
 								opacity : 1
 							}, 500);
 
 							$(".related p").delay(600).animate({
 								"bottom" : "210px",
-								"margin-left":"18px",
+								"margin-left" : "18px",
 								opacity : 1
 							}, 300);
 							$(".related5 p").delay(480).animate({
 								"bottom" : "321px",
 								"margin-right" : "31px",
-								"z-index":"1",
+								"z-index" : "1",
 								opacity : 1
 							}, 300);
 
@@ -199,7 +237,7 @@
 
 							$(".related4 p").delay(600).animate({
 								"bottom" : "335px",
-								"margin-left":"267px",
+								"margin-left" : "267px",
 								opacity : 1
 							}, 300);
 
@@ -234,13 +272,12 @@
 							$(".rollover").delay(300).animate({
 								"bottom" : "0px",
 								opacity : 1
-							}, 300); 
+							}, 300);
 						}, 300);
 					}
 				});
-			}
-			else if (page == "contact") {
-				
+			} else if (page == "contact") {
+
 				$.ajax({
 					'type' : 'POST',
 					'url' : 'page.php?page=' + page,
@@ -254,39 +291,34 @@
 								"bottom" : "0px",
 								opacity : 1
 							}, 300);
-							
+
 							$(".coffee").delay(200).animate({
 								"bottom" : "25%",
 								opacity : 1
 							}, 200);
-							
+
 							$(".align").delay(200).animate({
 								"bottom" : "12%",
-								"left":"38%",
+								"left" : "38%",
 								opacity : 1
 							}, 200);
-							
-							
+
 							$(".contact5").delay(200).animate({
 								"bottom" : "16%",
 								opacity : 1
 							}, 200);
-							
+
 							$(".let_us").delay(300).animate({
 								"bottom" : "73%",
 								opacity : 1
 							}, 200);
-							
+
 							$(".contact1").delay(300).animate({
 								"bottom" : "69%",
-								"left":"35%",
+								"left" : "35%",
 								opacity : 1
 							}, 200);
-							
-							
-							
-							
-							
+
 						}, 300);
 					}
 				});
