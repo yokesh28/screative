@@ -647,7 +647,8 @@ overflow: hidden;
 }
 .social{
 	float: right;
-	
+	overflow: hidden;
+height: 35px;
 	
 }
 .social img{
@@ -662,6 +663,7 @@ overflow: hidden;
 .social .set1{
 
 	display: inline-block;
+	width:37px;
 }
 
 .coming h1 { font-family: 'Gabriela', serif; }
