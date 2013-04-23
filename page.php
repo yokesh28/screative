@@ -467,21 +467,21 @@
 
 				<div class="related" style="opactiy: 0">
 
-					<p class="span3">
+					<p>
 						<b> &ldquo;Design is not just a business,it&rsquo;s a
 							passion&rdquo;</b>
 					</p>
 				</div>
 
 				<div class="related1">
-					<div class="span3">
-						We create interactivity for web and the physical world.<br> From
+					<div class="span4">
+						<p>We create interactivity for web and the physical world.From
 						experiential storytelling projects to digital services to
 						physical-digital contraptions &#45;we do it all. our goal has been
 						to use digital technology to create experiences with a deeper
-						impact.
+						impact.<br>
 
-						<p style="display: none;">Our teams are made up of multi-talented
+						Our teams are made up of multi-talented
 							creatives, technologist and producers, passionately curious about
 							using technology in new ways. We love doing things that haven
 							&rsquo;t been done before and we can offer a unique way to bridge
@@ -568,7 +568,7 @@
 
 
 		</div>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			$('.related1 div').mouseover(function() {
 
 				$('.related1 div p').slideDown("slow");
@@ -592,7 +592,7 @@
 				$('.related5 p span').slideUp("slow");
 
 			});
-			</script>
+			</script> -->
 		<?php endif;?>
 		<?php if($_REQUEST['page']=="portfolio"):?>
 
