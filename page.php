@@ -461,7 +461,10 @@
 		<script type="text/javascript" src="js/jquery.eislideshow.js"></script>
 		<script type="text/javascript" src="js/if.slideyonki.js"></script>
 		<?php endif;?>
+		
+	
 		<?php if($_REQUEST['page']=="aboutus"):?>
+		
 		<div id="about_us" class="inner_page">
 			<div class="row-fluid">
 
@@ -473,7 +476,7 @@
 					</p>
 				</div>
 
-				<div class="related1">
+				<div class="related1 left">
 					<div class="span4">
 						<p>We create interactivity for web and the physical world.From
 						experiential storytelling projects to digital services to
@@ -493,7 +496,7 @@
 
 
 				<div class="related2">
-					<p class="span5"">
+					<p class="span5">
 						<b>WE ARE HERE TO SOLVE YOUR BRAND, COMMUNICATIONS AND MARKETING
 							ISSUES. WE DON&rsquo;T LIKE LAZY DESIGN, WE WORK PASSIONATELY TO
 							DELIVER DESIGN SOLUTIONS THAT NOT ONLY WORK BUT LOOK GREAT AS
