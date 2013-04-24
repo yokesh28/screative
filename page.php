@@ -474,8 +474,8 @@
 				</div>
 
 				<div class="related1">
-					<div class="span4">
-						<p>We create interactivity for web and the physical world.From
+					<div class="span4" style="background: #2F7EC1;color:white;">
+						<p >We create interactivity for web and the physical world.From
 						experiential storytelling projects to digital services to
 						physical-digital contraptions &#45;we do it all. our goal has been
 						to use digital technology to create experiences with a deeper
