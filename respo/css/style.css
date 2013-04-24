@@ -96,4 +96,29 @@ background:white !important;
 	position:relative;
 }
 
-.related1 h5 dd {position:absolute !important; top:6% !important;left:2px !important;}
+.large-4 {font-size:12px;text-align:justify;}
+
+.large-4  dd:hover { 
+color: #fff;
+background-color: #1F78BA;
+cursor: pointer;
+
+}
+
+
+
+
+.large-4 dd:hover:after {
+content: '';
+position: absolute;
+display: block;
+width: 16px;
+background: url('../images/boxbg.png') no-repeat;
+top: 0;
+right: 7px;
+height: 250px;
+z-index: 250;
+}
+
+
+.large-4 dd{padding:15px;}
