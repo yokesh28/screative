@@ -1,0 +1,99 @@
+
+.show-for-small       /* Visible up to 768px */
+.show-for-medium-down /* Visible from 1280px down */
+.show-for-medium      /* Visible between 768px and 1280px */
+.show-for-medium-up   /* Visible from 1280px up */
+.show-for-large-down  /* Visible from 1440px down */
+.show-for-large       /* Visible between 1280px and 1440px */
+.show-for-large-up    /* Visible from 1440px up */
+.show-for-xlarge      /* Visible above 1440px only */
+
+/* The hide classes */
+.hide-for-small       /* Hidden up to 768px */
+.hide-for-medium-down /* Hidden from 1280px down */
+.hide-for-medium      /* Hidden between 768px and 1280px */
+.hide-for-medium-up   /* Hidden from 1280px up */
+.hide-for-large-down  /* Hidden from 1440px down */
+.hide-for-large       /* Hidden between 1280px and 1440px */
+.hide-for-large-up    /* Hidden from 1440px up */
+.hide-for-xlarge      /* Hidden above 1440px only */
+
+/* The orientation classes */
+.show-for-landscape   /* Visible for landscape orientation */
+.show-for-portrait    /* Visible for portrait orientation */
+.hide-for-landscape   /* Hidden for landscape orientation */
+.hide-for-portrait    /* Hidden for portrait orientation */
+
+/* The touch detection classes */
+.show-for-touch       /* Visible for touch enabled devices */
+.hide-for-touch       /* Hidden for touch enabled devices */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.align li{
+	margin: 11px;
+}
+
+
+
+
+.top-bar .toggle-topbar.menu-icon a span {
+position: absolute;
+right: 0;
+display: block;
+width: 16px;
+height: 0;
+-webkit-box-shadow: 0 10px 0 1px rgb(26, 23, 23),0 16px 0 1px rgb(20, 19, 19),0 22px 0 1px rgb(17, 16, 16) !important;
+box-shadow: 0 10px 0 1px rgb(19, 18, 18),0 16px 0 1px rgb(19, 17, 17),0 22px 0 1px rgb(12, 11, 11) !important;
+}
+
+
+.top-bar .toggle-topbar.menu-icon a {
+text-indent: -59px;
+line-height: 33px;
+color:black;
+box-shadow: 1 10px 0 1px rgb(14, 13, 13),0 16px 0 1px rgb(15, 14, 14),0 22px 0 1px rgb(15, 13, 13) !important;
+}
+
+.top-bar-section ul {
+	margin:11px;
+}
+
+ .top-bar.expanded .title-area {
+background:white;
+}
+
+.logo  {
+background:white !important;
+
+}
+
+.align li a:not(.button) {
+	background:white !important;
+	color:black !important;
+	padding: 0 55px !important;
+	
+}
+
+.imagess img{
+	height:100%;
+	position:relative;
+}
+
+.related1 h5 dd {position:absolute !important; top:6% !important;left:2px !important;}
