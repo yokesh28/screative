@@ -264,3 +264,29 @@ transition: background-position .2s ease, margin .1s ease;
 	margin-left:48px;
 }
 
+.big img{
+	height:100%;
+}
+
+.align p{
+	font-size:12px;
+}
+
+
+.row{
+	max-width:80em !important}
+
+
+.ei-title{
+background-color: rgba(222, 225, 222, 0.9) !important;
+height: 600px !important;
+padding:18px;
+}
+
+.listing1 img{
+	list-style:none;width:28px;float:left;margin:0 13px;}
+	
+	
+.listing1 li{list-style:none;}
+	
+	

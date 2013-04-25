@@ -1,0 +1,22 @@
+#supersized-loader { position:absolute; top:45%; left:50%; z-index:10; width:155px; height:155px; margin:0; text-indent:-999em; background-color:#ffc200; background: url(../../img/ui/ifloader.gif) no-repeat center center;}
+#supersized { position:fixed; left:0; top:0; overflow:hidden; z-index:-999; height:100%; width:100%; }
+#supersized img{ width:auto; height:auto; position:relative; display:none; outline:none; border:none; }
+#supersized.speed img { -ms-interpolation-mode:nearest-neighbor; image-rendering: -moz-crisp-edges; }	/*Speed*/
+#supersized.quality img { -ms-interpolation-mode:bicubic; image-rendering: optimizeQuality; }			/*Quality*/
+		
+#supersized a { z-index:-30; position:absolute; overflow:hidden; top:0; left:199px; width:100%; height:100%; background:white;}
+#supersized a.prevslide { z-index:-20; }
+#supersized a.activeslide { z-index:-10; }
+#supersized a.prevslide img, #supersized a.activeslide img{ display:inline; }
+#content{ position:absolute; top:50px; left:50px; background:#111; background:rgba(0,0,0,0.65); width:360px; text-align:left; }
+.stamp{ float: right; margin: 15px 30px 0 0;}
+
+#controls { width: 45px; height:222px; top:39%; right:0; position: fixed;}
+#prevslide, #nextslide{ cursor: pointer; width: 45px; height: 45px; outline: medium none; /*overflow: hidden; position: absolute; text-indent: -9999px; top: 45%; */z-index: 9000; }
+/*#prevslide { margin-top: 0px; background-position: 0 -44px;}
+#nextslide:hover { right: 0; background-position: -53px 0px; }
+#prevslide:hover { background-position: -53px -44px;}*/
+#pauseplay { cursor:pointer; }
+#slidecounter { position: fixed; right:0; color:#555; font:11px "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight:bold; text-shadow:#fff 1px 1px 0; margin:10px; }
+#slidecaption { position: fixed; width: 550px; top:5%; left:250px; color:#ffc200; opacity: 0.9; font:75px "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight:bold; letter-spacing: -.09em; line-height: 53px; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);}
+
