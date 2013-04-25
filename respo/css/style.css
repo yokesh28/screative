@@ -264,10 +264,14 @@ transition: background-position .2s ease, margin .1s ease;
 	margin-left:48px;
 }
 
-.big img{
-	height:100%;
+.big li img{
+	height:514px;
 }
 
+.big li{
+	top: 15%;
+list-style:none;
+}
 .align p{
 	font-size:12px;
 }
