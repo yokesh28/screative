@@ -37,8 +37,14 @@
 	margin: 11px;
 }
 
+.align{
+	background-color: rgba(222, 225, 222, 0.9);
+	height:510px;
+}
 
-
+.color1 img{
+	height:510px;
+}
 
 .top-bar .toggle-topbar.menu-icon a span {
 position: absolute;
