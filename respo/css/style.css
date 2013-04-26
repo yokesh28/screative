@@ -83,7 +83,7 @@ box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.15);
 
 
 .top-bar {
-height:80px;
+padding-bottom: 66px;
 }
 
  .top-bar.expanded .title-area {
@@ -380,3 +380,4 @@ background: #6699FF;
 color: black;
 cursor: pointer;
 }
+
