@@ -1,29 +1,29 @@
-.show-for-small /* Visible up to 768px */  
-.show-for-medium-down /* Visible from 1280px down */  
-.show-for-medium /* Visible between 768px and 1280px */  
-.show-for-medium-up /* Visible from 1280px up */  
-.show-for-large-down /* Visible from 1440px down */  
-.show-for-large /* Visible between 1280px and 1440px */  
-.show-for-large-up /* Visible from 1440px up */  
+.show-for-small /* Visible up to 768px */    
+.show-for-medium-down /* Visible from 1280px down */    
+.show-for-medium /* Visible between 768px and 1280px */    
+.show-for-medium-up /* Visible from 1280px up */    
+.show-for-large-down /* Visible from 1440px down */    
+.show-for-large /* Visible between 1280px and 1440px */    
+.show-for-large-up /* Visible from 1440px up */    
 .show-for-xlarge /* Visible above 1440px only */
-	/* The hide classes */  
-.hide-for-small /* Hidden up to 768px */  
-.hide-for-medium-down /* Hidden from 1280px down */  
-.hide-for-medium /* Hidden between 768px and 1280px */  
-.hide-for-medium-up /* Hidden from 1280px up */  
-.hide-for-large-down /* Hidden from 1440px down */  
-.hide-for-large /* Hidden between 1280px and 1440px */  
-.hide-for-large-up /* Hidden from 1440px up */  
+	/* The hide classes */    
+.hide-for-small /* Hidden up to 768px */    
+.hide-for-medium-down /* Hidden from 1280px down */    
+.hide-for-medium /* Hidden between 768px and 1280px */    
+.hide-for-medium-up /* Hidden from 1280px up */    
+.hide-for-large-down /* Hidden from 1440px down */    
+.hide-for-large /* Hidden between 1280px and 1440px */    
+.hide-for-large-up /* Hidden from 1440px up */    
 .hide-for-xlarge /* Hidden above 1440px only */
-	/* The orientation classes */  
-.show-for-landscape /* Visible for landscape orientation */  
-.show-for-portrait /* Visible for portrait orientation */  
-.hide-for-landscape /* Hidden for landscape orientation */  
+	/* The orientation classes */    
+.show-for-landscape /* Visible for landscape orientation */    
+.show-for-portrait /* Visible for portrait orientation */    
+.hide-for-landscape /* Hidden for landscape orientation */    
 .hide-for-portrait /* Hidden for portrait orientation */
-	/* The touch detection classes */  
-.show-for-touch /* Visible for touch enabled devices */  
+	/* The touch detection classes */    
+.show-for-touch /* Visible for touch enabled devices */    
 .hide-for-touch /* Hidden for touch enabled devices */
-	/************************* Menu ************************/ 
+	/************************* Menu ************************/   
 .align li {
 	margin: 10px;
 }
@@ -57,22 +57,73 @@
 	background: white;
 }
 
-.top-bar-section li a:not (.button ) {
-	background: white;
-}
+.top-bar-section
 
+ 
+
+li
+
+ 
+
+a
+
+
+:not
+
+ 
+
+(
+.button
+
+ 
+
+)
+{
+background
+
+
+:
+
+ 
+
+white
+
+
+;
+}
 .top-bar-section li a:hover {
 	color: #1F7FC7;
 }
-.top-bar{
+
+.top-bar {
 	height: 55px;
 }
-.top-bar .name {
-		height: 55px;
 
+.top-bar .name {
+	height: 55px;
 }
 /************************* Menu ************************/
 
+/************** General **************/
+
+
+.container{
+	max-width: 80em;
+	margin: 0 auto;
+}
+/**************General-End ***********/
+
+
+
+/************ Home page Images *****************/
+.home_images li {
+	max-width: 160px;
+	max-height: 160px;
+	float: left;
+	list-style: none;
+}
+
+/************ Home page Images *****************/
 
 /*about us completed   */
 
@@ -246,44 +297,45 @@
 }
 
 .two {
-	top: 2%;
-<<<<<<< HEAD
-=======
-position: absolute;
-left: 1%;
-display: none;
+	top: 2%; <<<<<<< HEAD ======= position : absolute;
+	left: 1%;
+	display: none;
 }
-.three{
+
+.three {
 	top: 2%;
-position: absolute;
-left: 1%;
-display: none;
-}
-.four{
-	top: 2%;
-position: absolute;
-left: 1%;
-display: none;
-}
-.five{
-	top: 2%;
-position: absolute;
-left: 1%;
-display: none;
-}
-.six{
-	top: 2%;
-position: absolute;
-left: 1%;
-display: none;
-}
-.service h4{
-	
-color:#217Dc5;}
-/*portfolio*/
-.portfolio{
->>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
 	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.four {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.five {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.six {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.service h4 {
+	color: #217Dc5;
+}
+/*portfolio*/
+.portfolio { >>>>>>> branch 'master' of https:// github.com/ yokesh28/
+	screative.gitposition : absolute;
 	left: 1%;
 	display: none;
 }
@@ -338,28 +390,52 @@ color:#217Dc5;}
 	line-height: 47px;
 }
 
-.portfolio:HOVER {
-<<<<<<< HEAD
+.portfolio:HOVER { <<<<<<<
+	HEAD background: #6699FF;
+	color: black;
+	cursor: pointer; =======
 	background: #6699FF;
 	color: black;
 	cursor: pointer;
-=======
-background: #6699FF;
-color: black;
-cursor: pointer;
 }
 /*portfolio*/
 
-
 /*contact*/
-
-
-.conta{
-	margin-top:127px;
+.conta {
+	margin-top: 127px;
 }
 
-.coffee{
+.coffee {
 	background-color: #2F7EC1;
 }
->>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
+>>>>>>>
+branch
+
+ 
+
+'
+master
+
+
+'
+of
+
+ 
+
+https
+
+
+:
+//github
+
+
+.com
+/yokesh28/screative
+
+
+.git
+
+
+
+
 }
