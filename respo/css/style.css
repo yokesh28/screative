@@ -94,7 +94,7 @@ background:white;
 background:white !important;
 max-width: 80em;
 margin: 0 auto;
-padding: 12px 0px;
+
 }
 
 .align li a:not(.button) {
@@ -115,7 +115,7 @@ padding: 12px 0px;
 }
 
 
-.large-4 {font-size:12px;text-align:justify;}
+
 
  dd:hover { 
 color: #fff;
@@ -355,7 +355,7 @@ display: none;
 .service h4{
 	
 color:#217Dc5;}
-
+/*portfolio*/
 .portfolio{
 	position: absolute;
 top: 246px;
@@ -382,4 +382,17 @@ background: #6699FF;
 color: black;
 cursor: pointer;
 }
+/*portfolio*/
 
+
+/*contact*/
+
+
+.conta{
+	margin-top:127px;
+}
+
+.coffee{
+	background-color: #2F7EC1;
+}
+}
