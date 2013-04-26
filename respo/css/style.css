@@ -70,28 +70,9 @@
 .top-bar .name {
 		height: 55px;
 
-	}
+}
 /************************* Menu ************************/
-dd:hover {
-	color: #fff;
-	background-color: #1F78BA;
-	cursor: pointer;
-}
 
-dd:hover:after {
-	content: ''; positio <link rel="stylesheet" href="css/style.css" />n :
-	absolute;
-	display: block;
-	width: 16px;
-	background: url('../images/boxbg.png') no-repeat;
-	right: 7px;
-	height: 250px;
-	z-index: 250;
-}
-
-.large-4 dd {
-	padding: 15px;
-}
 
 /*about us completed   */
 
@@ -266,6 +247,42 @@ dd:hover:after {
 
 .two {
 	top: 2%;
+<<<<<<< HEAD
+=======
+position: absolute;
+left: 1%;
+display: none;
+}
+.three{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.four{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.five{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.six{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.service h4{
+	
+color:#217Dc5;}
+/*portfolio*/
+.portfolio{
+>>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
 	position: absolute;
 	left: 1%;
 	display: none;
@@ -322,7 +339,27 @@ dd:hover:after {
 }
 
 .portfolio:HOVER {
+<<<<<<< HEAD
 	background: #6699FF;
 	color: black;
 	cursor: pointer;
+=======
+background: #6699FF;
+color: black;
+cursor: pointer;
+}
+/*portfolio*/
+
+
+/*contact*/
+
+
+.conta{
+	margin-top:127px;
+}
+
+.coffee{
+	background-color: #2F7EC1;
+}
+>>>>>>> branch 'master' of https://github.com/yokesh28/screative.git
 }
