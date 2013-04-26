@@ -68,7 +68,22 @@ box-shadow: 1 10px 0 1px rgb(14, 13, 13),0 16px 0 1px rgb(15, 14, 14),0 22px 0 1
 }
 
 .top-bar-section ul {
-	margin-right:0px;
+	margin-right:-46px;
+}
+
+.top-bar {
+box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.15);
+-webkit-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
+-moz-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
+}
+
+.imagess{
+	margin-left:8px;
+}
+
+
+.top-bar {
+height:80px;
 }
 
  .top-bar.expanded .title-area {
@@ -77,7 +92,7 @@ background:white;
 
 .logo  {
 background:white !important;
-margin: 10px 0px 44px;
+margin: 10px 43px;
 }
 
 .align li a:not(.button) {
@@ -94,7 +109,7 @@ margin: 10px 0px 44px;
 
 
 .name img{
-	margin-left:51px;
+	margin-left:0px;
 }
 
 
