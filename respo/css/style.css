@@ -297,13 +297,47 @@ white
 }
 
 .two {
-	top: 2%; <<<<<<< HEAD ======= position : absolute;
-	left: 1%;
-	display: none;
+
+	top: 2%;
+
+position: absolute;
+left: 1%;
+display: none;
+
 }
 
 .three {
 	top: 2%;
+
+position: absolute;
+left: 1%;
+display: none;
+}
+.four{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.five{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.six{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.service h4{
+	
+color:#217Dc5;}
+/*portfolio*/
+.portfolio{
+
+
 	position: absolute;
 	left: 1%;
 	display: none;
@@ -334,7 +368,7 @@ white
 	color: #217Dc5;
 }
 /*portfolio*/
-.portfolio { >>>>>>> branch 'master' of https:// github.com/ yokesh28/
+.portfolio {
 	screative.gitposition : absolute;
 	left: 1%;
 	display: none;
@@ -390,13 +424,14 @@ white
 	line-height: 47px;
 }
 
-.portfolio:HOVER { <<<<<<<
-	HEAD background: #6699FF;
-	color: black;
-	cursor: pointer; =======
+
+
+.portfolio:HOVER {
 	background: #6699FF;
 	color: black;
 	cursor: pointer;
+
+
 }
 /*portfolio*/
 
@@ -407,35 +442,28 @@ white
 
 .coffee {
 	background-color: #2F7EC1;
+	
 }
->>>>>>>
-branch
-
- 
-
-'
-master
-
-
-'
-of
-
- 
-
-https
-
-
-:
-//github
-
-
-.com
-/yokesh28/screative
-
-
-.git
 
 
 
 
+
+.coffee h1,i{
+	color:white;
 }
+
+.coffee h1{
+	font-size: 68px;
+line-height: 62px;
+	
+}
+.address1{
+	background-color: #2F7EC1;
+}
+
+.address1 ul{
+	list-style:none;
+	color:white;
+}
+
