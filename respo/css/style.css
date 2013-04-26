@@ -92,7 +92,9 @@ background:white;
 
 .logo  {
 background:white !important;
-margin: 10px 43px;
+max-width: 80em;
+margin: 0 auto;
+padding: 12px 0px;
 }
 
 .align li a:not(.button) {
