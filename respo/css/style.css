@@ -1,329 +1,253 @@
-
-.show-for-small       /* Visible up to 768px */
-.show-for-medium-down /* Visible from 1280px down */
-.show-for-medium      /* Visible between 768px and 1280px */
-.show-for-medium-up   /* Visible from 1280px up */
-.show-for-large-down  /* Visible from 1440px down */
-.show-for-large       /* Visible between 1280px and 1440px */
-.show-for-large-up    /* Visible from 1440px up */
-.show-for-xlarge      /* Visible above 1440px only */
-
-/* The hide classes */
-.hide-for-small       /* Hidden up to 768px */
-.hide-for-medium-down /* Hidden from 1280px down */
-.hide-for-medium      /* Hidden between 768px and 1280px */
-.hide-for-medium-up   /* Hidden from 1280px up */
-.hide-for-large-down  /* Hidden from 1440px down */
-.hide-for-large       /* Hidden between 1280px and 1440px */
-.hide-for-large-up    /* Hidden from 1440px up */
-.hide-for-xlarge      /* Hidden above 1440px only */
-
-/* The orientation classes */
-.show-for-landscape   /* Visible for landscape orientation */
-.show-for-portrait    /* Visible for portrait orientation */
-.hide-for-landscape   /* Hidden for landscape orientation */
-.hide-for-portrait    /* Hidden for portrait orientation */
-
-/* The touch detection classes */
-.show-for-touch       /* Visible for touch enabled devices */
-.hide-for-touch       /* Hidden for touch enabled devices */
-
-
-
-
-
-
-.align li{
-	margin: 11px;
+.show-for-small /* Visible up to 768px */  
+.show-for-medium-down /* Visible from 1280px down */  
+.show-for-medium /* Visible between 768px and 1280px */  
+.show-for-medium-up /* Visible from 1280px up */  
+.show-for-large-down /* Visible from 1440px down */  
+.show-for-large /* Visible between 1280px and 1440px */  
+.show-for-large-up /* Visible from 1440px up */  
+.show-for-xlarge /* Visible above 1440px only */
+	/* The hide classes */  
+.hide-for-small /* Hidden up to 768px */  
+.hide-for-medium-down /* Hidden from 1280px down */  
+.hide-for-medium /* Hidden between 768px and 1280px */  
+.hide-for-medium-up /* Hidden from 1280px up */  
+.hide-for-large-down /* Hidden from 1440px down */  
+.hide-for-large /* Hidden between 1280px and 1440px */  
+.hide-for-large-up /* Hidden from 1440px up */  
+.hide-for-xlarge /* Hidden above 1440px only */
+	/* The orientation classes */  
+.show-for-landscape /* Visible for landscape orientation */  
+.show-for-portrait /* Visible for portrait orientation */  
+.hide-for-landscape /* Hidden for landscape orientation */  
+.hide-for-portrait /* Hidden for portrait orientation */
+	/* The touch detection classes */  
+.show-for-touch /* Visible for touch enabled devices */  
+.hide-for-touch /* Hidden for touch enabled devices */
+	/************************* Menu ************************/ 
+.align li {
+	margin: 10px;
 }
 
-.align{
-	background-color: rgba(222, 225, 222, 0.9);
-	height:auto;
+.logo {
+	background: white !important;
+	max-width: 80em;
+	margin: 30px auto;
 }
 
-.color1 img{
-	height:auto;
-	position: absolute;
-bottom:24px;
-left:2%;
+.top-bar .toggle-topbar.menu-icon a {
+	color: black;
 }
 
 .top-bar .toggle-topbar.menu-icon a span {
-position: absolute;
-right: 0;
-display: block;
-width: 16px;
-height: 0;
--webkit-box-shadow: 0 10px 0 1px rgb(26, 23, 23),0 16px 0 1px rgb(20, 19, 19),0 22px 0 1px rgb(17, 16, 16) !important;
-box-shadow: 0 10px 0 1px rgb(19, 18, 18),0 16px 0 1px rgb(19, 17, 17),0 22px 0 1px rgb(12, 11, 11) !important;
+	-webkit-box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px
+		black;
+	box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px black;
 }
 
-
-.top-bar .toggle-topbar.menu-icon a {
-text-indent: -59px;
-line-height: 33px;
-color:black;
-box-shadow: 1 10px 0 1px rgb(14, 13, 13),0 16px 0 1px rgb(15, 14, 14),0 22px 0 1px rgb(15, 13, 13) !important;
+.top-bar.expanded .title-area {
+	background: white;
 }
 
-.top-bar-section ul {
-	margin-right:-46px;
+.top-bar-section ul li>a {
+	background: white !important;
+	color: black;
 }
 
-.top-bar {
-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.15);
--webkit-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
--moz-box-shadow: 0px 10px 0px 0px rgba(0, 0, 0, 0.15);
+.top-bar-section ul li>a:hover {
+	background: white;
 }
 
-.imagess{
-	margin-left:8px;
+.top-bar-section li a:not (.button ) {
+	background: white;
 }
 
-
-.top-bar {
-padding-bottom: 66px;
+.top-bar-section li a:hover {
+	color: #1F7FC7;
 }
-
- .top-bar.expanded .title-area {
-background:white;
+.top-bar{
+	height: 55px;
 }
-
-.logo  {
-background:white !important;
-max-width: 80em;
-margin: 0 auto;
+.top-bar .name {
+		height: 55px;
 
 }
+/************************* Menu ************************/
 
-.align li a:not(.button) {
-	background:white !important;
-	color:black !important;
-	padding: 0 55px !important;
-	
-}
-
-.imagess img{
-	height:100%;
-	position:relative;
-}
-
-
-.name img{
-	margin-left:0px;
-}
-
-
-
-
- dd:hover { 
-color: #fff;
-background-color: #1F78BA;
-cursor: pointer;
-
-}
-
-
-
-
- dd:hover:after {
-content: '';
-position: absolute;
-display: block;
-width: 16px;
-background: url('../images/boxbg.png') no-repeat;
-
-right: 7px;
-height: 250px;
-z-index: 250;
-}
-
-
-.large-4 dd{padding:15px;}
 
 /*about us completed   */
 
 /*Service */
-
-.service p{
-	font-size:12px;
+.service p {
+	font-size: 12px;
 }
 
-.listing li{
-list-style:none;
+.listing li {
+	list-style: none;
 }
 
-
- .listing li  a span.icon1 {
-background: url(../box/icon1.png) no-repeat center;
-position:absolute;
-width:18px;
-height:50px;
-bottom: -11px;
-left: 7px;
+.listing li  a span.icon1 {
+	background: url(../box/icon1.png) no-repeat center;
+	position: absolute;
+	width: 18px;
+	height: 50px;
+	bottom: -11px;
+	left: 7px;
 }
 
- .listing li  a span.icon2 {
-background: url(../box/icon2.png) no-repeat center;
-position:absolute;
-width:15px;
-height:50px;
-bottom: -11px;
-left: 7px;
+.listing li  a span.icon2 {
+	background: url(../box/icon2.png) no-repeat center;
+	position: absolute;
+	width: 15px;
+	height: 50px;
+	bottom: -11px;
+	left: 7px;
 }
 
- .listing li  a span.icon3 {
-background: url(../box/icon3.png) no-repeat center;
-position:absolute;
-width:15px;
-height:50px;
-bottom: -11px;
-left: 7px;
+.listing li  a span.icon3 {
+	background: url(../box/icon3.png) no-repeat center;
+	position: absolute;
+	width: 15px;
+	height: 50px;
+	bottom: -11px;
+	left: 7px;
 }
 
-
-
- .listing li  a span.icon4 {
-background: url(../box/icon4.png) no-repeat center;
-position:absolute;
-width:22px;
-height:50px;
-bottom: -11px;
-left: 7px;
+.listing li  a span.icon4 {
+	background: url(../box/icon4.png) no-repeat center;
+	position: absolute;
+	width: 22px;
+	height: 50px;
+	bottom: -11px;
+	left: 7px;
 }
 
-
-
- .listing li  a span.icon5 {
-background: url(../box/icon5.png) no-repeat center;
-position:absolute;
-width:25px;
-height:50px;
-bottom: -11px;
-left: 7px;
+.listing li  a span.icon5 {
+	background: url(../box/icon5.png) no-repeat center;
+	position: absolute;
+	width: 25px;
+	height: 50px;
+	bottom: -11px;
+	left: 7px;
 }
 
-
- .listing li  a span.icon6 {
-
-background: url(../box/icon6.png) no-repeat center;
-position: absolute;
-width: 21px;
-height: 50px;
-bottom: -12px;
-left: 7px;
+.listing li  a span.icon6 {
+	background: url(../box/icon6.png) no-repeat center;
+	position: absolute;
+	width: 21px;
+	height: 50px;
+	bottom: -12px;
+	left: 7px;
 }
 
-
- .listing li  a span.icon7 {
-background: url(../box/icon7.png) no-repeat center;
-position:absolute;
-width:15px;
-height:50px;
-bottom: -61px;
-left: 7px;
+.listing li  a span.icon7 {
+	background: url(../box/icon7.png) no-repeat center;
+	position: absolute;
+	width: 15px;
+	height: 50px;
+	bottom: -61px;
+	left: 7px;
 }
 
-
- .listing li  a span.icon8 {
-background: url(../box/icon8.png) no-repeat center;
-position:absolute;
-width:15px;
-height:50px;
-bottom: -71px;
-left: 7px;
+.listing li  a span.icon8 {
+	background: url(../box/icon8.png) no-repeat center;
+	position: absolute;
+	width: 15px;
+	height: 50px;
+	bottom: -71px;
+	left: 7px;
 }
-
 
 .listing li  a span.icon10 {
-background: url(../box/icon10.png) no-repeat center;
-position: absolute;
-width: 23px;
-height: 50px;
-bottom: -13px;
-left: 7px;
+	background: url(../box/icon10.png) no-repeat center;
+	position: absolute;
+	width: 23px;
+	height: 50px;
+	bottom: -13px;
+	left: 7px;
 }
 
-
-
- .listing li a span.bar {
-width: 1px;
-height: 17px;
-position: absolute;
-background: #999 !important;
-top: 7px;
-left: 35px;
+.listing li a span.bar {
+	width: 1px;
+	height: 17px;
+	position: absolute;
+	background: #999 !important;
+	top: 7px;
+	left: 35px;
 }
-
-
-
 
 .listing li a {
-position: relative;
-display: inline-block !important;
-width: 144px;
-height: 29px;
-margin-left: 3px;
-padding: 5px 0px 22px 47px;
-background-color: #ddd;
-border-top: 1px solid #fff;
-cursor: pointer;
-font: 700 15px Helvetica, Arial, Clean, sans-serif;
-text-align: left;
-text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.7);
-font-weight: normal;
-font-size: 14px;
-color: #888;
-text-decoration: none;
--webkit-border-radius: 3px;
--moz-border-radius: 3px;
-border-radius: 3px;
--webkit-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
--moz-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
-transition: background-position .2s ease, margin .1s ease;
--webkit-transition: background-position .2s ease, margin .1s ease;
--moz-transition: background-position .2s ease, margin .1s ease;
+	position: relative;
+	display: inline-block !important;
+	width: 144px;
+	height: 29px;
+	margin-left: 3px;
+	padding: 5px 0px 22px 47px;
+	background-color: #ddd;
+	border-top: 1px solid #fff;
+	cursor: pointer;
+	font: 700 15px Helvetica, Arial, Clean, sans-serif;
+	text-align: left;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.7);
+	font-weight: normal;
+	font-size: 14px;
+	color: #888;
+	text-decoration: none;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
+	-moz-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
+	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
+	transition: background-position .2s ease, margin .1s ease;
+	-webkit-transition: background-position .2s ease, margin .1s ease;
+	-moz-transition: background-position .2s ease, margin .1s ease;
 }
 
-
-.align img{
-	margin-left:48px;
+.align img {
+	margin-left: 48px;
 }
 
-.big li img{
-	height:514px;
+.big li img {
+	height: 514px;
 }
 
-.big li{
+.big li {
 	top: 15%;
-list-style:none;
-}
-.align p{
-	font-size:12px;
+	list-style: none;
 }
 
-
-.row{
-	max-width:80em !important}
-
-.row p{text-align:justify;}
-
-.ei-title{
-background-color: rgba(222, 225, 222, 0.9) !important;
-height: 600px !important;
-padding:18px;
+.align p {
+	font-size: 12px;
 }
 
-.listing1 img{
-	list-style:none;width:28px;float:left;margin:0 13px;}
-	
-	
-.listing1 li{list-style:none;}
+.row {
+	max-width: 80em !important
+}
 
-.two{
+.row p {
+	text-align: justify;
+}
+
+.ei-title {
+	background-color: rgba(222, 225, 222, 0.9) !important;
+	height: 600px !important;
+	padding: 18px;
+}
+
+.listing1 img {
+	list-style: none;
+	width: 28px;
+	float: left;
+	margin: 0 13px;
+}
+
+.listing1 li {
+	list-style: none;
+}
+
+.two {
 	top: 2%;
+
 position: absolute;
 left: 1%;
 display: none;
@@ -357,27 +281,68 @@ display: none;
 color:#217Dc5;}
 /*portfolio*/
 .portfolio{
+
 	position: absolute;
-top: 246px;
-left: 40%;
-background: #2F7EC1;
-text-align: center;
-color: white;
-width: 462px;
-height: 235px;
+	left: 1%;
+	display: none;
 }
 
-.portfolio p{
-	
-font-family: 'Gabriela', serif;
-font-size:41px;
-padding: 0px 70px;
-line-height: 47px;
+.three {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
 }
 
+.four {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
 
+.five {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.six {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.service h4 {
+	color: #217Dc5;
+}
+
+.portfolio {
+	position: absolute;
+	top: 246px;
+	left: 40%;
+	background: #2F7EC1;
+	text-align: center;
+	color: white;
+	width: 462px;
+	height: 235px;
+}
+
+.portfolio p {
+	font-family: 'Gabriela', serif;
+	font-size: 41px;
+	padding: 0px 70px;
+	line-height: 47px;
+}
 
 .portfolio:HOVER {
+
+	background: #6699FF;
+	color: black;
+	cursor: pointer;
+
 background: #6699FF;
 color: black;
 cursor: pointer;
@@ -396,6 +361,7 @@ cursor: pointer;
 	background-color: #2F7EC1;
 	
 }
+
 
 .coffee h1,i{
 	color:white;
