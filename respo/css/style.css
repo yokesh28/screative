@@ -394,5 +394,23 @@ cursor: pointer;
 
 .coffee{
 	background-color: #2F7EC1;
+	
 }
+
+.coffee h1,i{
+	color:white;
+}
+
+.coffee h1{
+	font-size: 68px;
+line-height: 62px;
+	
+}
+.address1{
+	background-color: #2F7EC1;
+}
+
+.address1 ul{
+	list-style:none;
+	color:white;
 }
