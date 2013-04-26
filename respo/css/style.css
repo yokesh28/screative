@@ -39,11 +39,14 @@
 
 .align{
 	background-color: rgba(222, 225, 222, 0.9);
-	height:510px;
+	height:539px;
 }
 
 .color1 img{
-	height:510px;
+	height:539px;
+	position: absolute;
+bottom: 55%;
+left:2%;
 }
 
 .top-bar .toggle-topbar.menu-icon a span {
@@ -242,7 +245,7 @@ position: relative;
 display: inline-block !important;
 width: 144px;
 height: 29px;
-margin-left: 13px;
+margin-left: 3px;
 padding: 5px 0px 22px 47px;
 background-color: #ddd;
 border-top: 1px solid #fff;
@@ -286,6 +289,7 @@ list-style:none;
 .row{
 	max-width:80em !important}
 
+.row p{text-align:justify;}
 
 .ei-title{
 background-color: rgba(222, 225, 222, 0.9) !important;
@@ -298,5 +302,64 @@ padding:18px;
 	
 	
 .listing1 li{list-style:none;}
+
+.two{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.three{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.four{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.five{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.six{
+	top: 2%;
+position: absolute;
+left: 1%;
+display: none;
+}
+.service h4{
 	
+color:#217Dc5;}
+
+.portfolio{
+	position: absolute;
+top: 246px;
+left: 40%;
+background: #2F7EC1;
+text-align: center;
+color: white;
+width: 462px;
+height: 235px;
+}
+
+.portfolio p{
 	
+font-family: 'Gabriela', serif;
+font-size:41px;
+padding: 0px 70px;
+line-height: 47px;
+}
+
+
+
+.portfolio:HOVER {
+background: #6699FF;
+color: black;
+cursor: pointer;
+}
