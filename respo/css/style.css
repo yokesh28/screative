@@ -57,39 +57,10 @@
 	background: white;
 }
 
-.top-bar-section
-
- 
-
-li
-
- 
-
-a
-
-
-:not
-
- 
-
-(
-.button
-
- 
-
-)
+.top-bar-section li a:not
+(.button)
 {
-background
-
-
-:
-
- 
-
-white
-
-
-;
+background:white;
 }
 .top-bar-section li a:hover {
 	color: #1F7FC7;
@@ -101,6 +72,12 @@ white
 
 .top-bar .name {
 	height: 55px;
+}
+
+
+
+.left{
+	position:absolute;
 }
 /************************* Menu ************************/
 
@@ -125,7 +102,7 @@ white
 
 /************ Home page Images *****************/
 
-/*about us completed   */
+
 
 /*Service */
 .service p {
