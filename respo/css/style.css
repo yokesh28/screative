@@ -58,7 +58,9 @@
 	background: white;
 }
 
-.top-bar-section li a:not(.button)
+
+.top-bar-section li a:not
+(.button)
 {
 background:white;
 }
@@ -72,6 +74,12 @@ background:white;
 
 .top-bar .name {
 	height: 55px;
+}
+
+
+
+.left{
+	position:absolute;
 }
 /************************* Menu ************************/
 
@@ -96,7 +104,7 @@ background:white;
 
 /************ Home page Images *****************/
 
-/*about us completed   */
+
 
 /*Service */
 .service p {
