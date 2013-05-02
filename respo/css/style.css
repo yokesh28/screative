@@ -87,7 +87,7 @@ background:white;
 
 
 .container{
-	max-width: 80em;
+	max-width: 82em;
 	margin: 0 auto;
 }
 /**************General-End ***********/
@@ -251,7 +251,7 @@ background:white;
 }
 
 .row {
-	max-width: 80em !important
+	max-width: 82em !important
 }
 
 .row p {
@@ -445,4 +445,39 @@ line-height: 62px;
 	list-style:none;
 	color:white;
 }
+footer div.social1{
+	margin: 20px 0px;
+}
+
+
+.social{
+	height: 26px;
+overflow: hidden;
+	
+	
+}
+.social img{
+ cursor: pointer;
+ float: left;}
+.social .set{
+	float: left;
+	width:26px;
+	height: 30px;
+overflow: hidden;
+	
+}
+.social .set1{
+
+	display: inline-block;
+	width:37px;
+}
+
+.set1 iframe{
+	
+padding-top: 4px;
+padding-left: 6px;
+width: 160px !important;
+height: 28px !important;
+}
+.coming h1 { font-family: 'Gabriela', serif; }
 
