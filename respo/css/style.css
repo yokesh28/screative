@@ -23,6 +23,7 @@
 	/* The touch detection classes */    
 .show-for-touch /* Visible for touch enabled devices */    
 .hide-for-touch /* Hidden for touch enabled devices */
+
 	/************************* Menu ************************/   
 .align li {
 	margin: 10px;
@@ -57,39 +58,9 @@
 	background: white;
 }
 
-.top-bar-section
-
- 
-
-li
-
- 
-
-a
-
-
-:not
-
- 
-
-(
-.button
-
- 
-
-)
+.top-bar-section li a:not(.button)
 {
-background
-
-
-:
-
- 
-
-white
-
-
-;
+background:white;
 }
 .top-bar-section li a:hover {
 	color: #1F7FC7;
