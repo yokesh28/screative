@@ -1,3 +1,4 @@
+
 <div id="page">
 	<div class="rollover row-fluid " style="bottom: -500px">
 		<?php if($_REQUEST['page']=="home"):?>
@@ -461,27 +462,36 @@
 		<script type="text/javascript" src="js/jquery.eislideshow.js"></script>
 		<script type="text/javascript" src="js/if.slideyonki.js"></script>
 		<?php endif;?>
+		
+	
 		<?php if($_REQUEST['page']=="aboutus"):?>
+		
 		<div id="about_us" class="inner_page">
 			<div class="row-fluid">
 
 				<div class="related" style="opactiy: 0">
 
-					<p class="span3">
+					<p>
 						<b> &ldquo;Design is not just a business,it&rsquo;s a
 							passion&rdquo;</b>
 					</p>
 				</div>
 
+
+				<div class="related1 left">
+					<div class="span4">
+						<p>We create interactivity for web and the physical world.From
+
 				<div class="related1">
-					<div class="span3">
-						We create interactivity for web and the physical world.<br> From
+					<div class="span4" style="background: #2F7EC1;color:white;">
+						<p >We create interactivity for web and the physical world.From
+
 						experiential storytelling projects to digital services to
 						physical-digital contraptions &#45;we do it all. our goal has been
 						to use digital technology to create experiences with a deeper
-						impact.
+						impact.<br>
 
-						<p style="display: none;">Our teams are made up of multi-talented
+						Our teams are made up of multi-talented
 							creatives, technologist and producers, passionately curious about
 							using technology in new ways. We love doing things that haven
 							&rsquo;t been done before and we can offer a unique way to bridge
@@ -493,7 +503,7 @@
 
 
 				<div class="related2">
-					<p class="span5"">
+					<p class="span5">
 						<b>WE ARE HERE TO SOLVE YOUR BRAND, COMMUNICATIONS AND MARKETING
 							ISSUES. WE DON&rsquo;T LIKE LAZY DESIGN, WE WORK PASSIONATELY TO
 							DELIVER DESIGN SOLUTIONS THAT NOT ONLY WORK BUT LOOK GREAT AS
@@ -568,7 +578,7 @@
 
 
 		</div>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			$('.related1 div').mouseover(function() {
 
 				$('.related1 div p').slideDown("slow");
@@ -592,7 +602,7 @@
 				$('.related5 p span').slideUp("slow");
 
 			});
-			</script>
+			</script> -->
 		<?php endif;?>
 		<?php if($_REQUEST['page']=="portfolio"):?>
 
@@ -630,8 +640,8 @@
 
 					<div class="span5 text2">
 						<i>and discuss what<br> s-creative can do<br> to make your<br>
-							business better and more profitable.
-						 </i>
+							bussiness better and more profitable.
+						</i>
 					</div>
 
 				</div>
@@ -692,8 +702,7 @@
 
 					<li><p>13/2D, Brookebond layout,</p></li>
 					<li><p>krishnaswamy Mudhaliar Road,</p></li>
-					<li><p>Coimbatore-641002,</p></li>	
-                 <li><p>India.</p></li>
+					<li><p>Coimbatore-641002</p></li>
 				</ul>
 
 
@@ -772,14 +781,3 @@ return false;
 
 
 
-
-	
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-	</div>

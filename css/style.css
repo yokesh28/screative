@@ -620,44 +620,38 @@ footer  {
 }
 .scroll{}
 
-#about_us p:HOVER{
-	background:#6699FF;
-	color: black;
-	cursor: pointer;
-}
-#about_us p:HOVER span{
-	background: #6699FF;
-	color: black;
-	cursor: pointer;
-}
-#about_us .related1 div:hover{
-	background: #6699FF;
-	color: black;
-	cursor: pointer;
-}
+
+
+
 .set .fb-like{width: 112px;
 display: inline-table;
-margin: 3px 0px;}
+margin: 3px 0px;
+overflow: hidden;
+
+}
 .copy{
 	
 	float: left;
 }
 .social{
 	float: right;
-	
+	overflow: hidden;
+height: 35px;
 	
 }
 .social img{
  cursor: pointer;}
 .social .set{
 	float: left;
-	width:28px;
+	width:26px;
 	height: 30px;
-	overflow: hidden;
+overflow: hidden;
+	
 }
 .social .set1{
 
 	display: inline-block;
+	width:37px;
 }
 
 .coming h1 { font-family: 'Gabriela', serif; }
