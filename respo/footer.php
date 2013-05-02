@@ -50,14 +50,14 @@
 			$(".set").animate({
 				"width" : "145px",
 				opacity : 1
-			}, 300);
+			}, 380);
 		});
 		$('.set').mouseleave(function() {
 
 			$(".set").animate({
 				"width" : "28px",
 				opacity : 1
-			}, 300);
+			}, 800);
 		});
 
 		$('.set1').mouseenter(function() {
@@ -65,14 +65,14 @@
 			$(".set1").animate({
 				"width" : "190px",
 				opacity : 1
-			}, 300);
+			}, 800);
 		});
 		$('.set1').mouseleave(function() {
 
 			$(".set1").animate({
 				"width" : "37px",
 				opacity : 1
-			}, 300);
+			}, 800);
 		});
 
 	

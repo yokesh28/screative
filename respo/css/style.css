@@ -493,6 +493,9 @@ footer div.social1 {
 	background: #1D81C9;
 	color: white;
 	cursor: pointer;
+-moz-box-shadow:0px 0px 10px 6px rgba(119, 119, 119, 1);
+-webkit-box-shadow:0px 0px 10px 6px rgba(119, 119, 119, 1);
+box-shadow:0px 0px 10px 6px rgba(119, 119, 119, 1);
 }
 
 .about .large-4 {
@@ -504,3 +507,6 @@ border-width: 4px;
 margin-left: 28px;
 border-color: #1D81C9;
 }
+
+
+
