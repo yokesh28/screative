@@ -630,8 +630,8 @@
 
 					<div class="span5 text2">
 						<i>and discuss what<br> s-creative can do<br> to make your<br>
-							bussiness better and more profitable.
-						</i>
+							business better and more profitable.
+						 </i>
 					</div>
 
 				</div>
@@ -692,7 +692,8 @@
 
 					<li><p>13/2D, Brookebond layout,</p></li>
 					<li><p>krishnaswamy Mudhaliar Road,</p></li>
-					<li><p>Coimbatore-641002</p></li>
+					<li><p>Coimbatore-641002,</p></li>	
+                 <li><p>India.</p></li>
 				</ul>
 
 
