@@ -414,63 +414,14 @@ white
 /*portfolio*/
 
 /*contact*/
-.contact {
-	background:white;}
+.conta {
+	margin-top: 127px;
+}
 
-.heading {
-	background:white;
-	
-}
-.heading li{
-	float:left;
-	margin-right: 105px;
-}
-	
 .coffee {
 	background-color: #2F7EC1;
-
 }
 
-
-.heading li:first-child{
-	list-style:none;
-}
-
-.contact h3{
-	color:#207FC8;
-}
-
-
-.first p{
-    background-color:#207FC8;
-    padding: 15px;
-color: white;
-font-size: 12px;
-}
-
-.second p{
-	 background-color:#207FC8;
-padding: 15px;
-color: white;
-font-size: 12px;
-}
-
-.third p{
-	 background-color:#207FC8;
-padding: 15px;
-color: white;
-font-size: 12px;
-}
-
-.first1 p{
-	margin-left:106px;
-	color:#207FC8;
-}
-
-.second1 p{
-	color:#207FC8;
-	border-bottom: 1px solid;
-}
 .coffee h1,i {
 	color: white;
 }
@@ -487,22 +438,6 @@ font-size: 12px;
 .address1 ul {
 	list-style: none;
 	color: white;
-
-}
-
-
-.second1 p:last-child{
-	color:#207FC8;
-	border-bottom: none;
-}
-
-.third1 p{
-	color:#207FC8;
-	margin-left:147px;
-}
-
-.contact{
-	background:url("../images/background1.png");
 }
 
 footer div.social1 {
@@ -572,7 +507,6 @@ border-width: 4px;
 margin-left: 28px;
 border-color: #1D81C9;
 }
-
 
 
 
