@@ -1,29 +1,29 @@
-.show-for-small /* Visible up to 768px */    
-.show-for-medium-down /* Visible from 1280px down */    
-.show-for-medium /* Visible between 768px and 1280px */    
-.show-for-medium-up /* Visible from 1280px up */    
-.show-for-large-down /* Visible from 1440px down */    
-.show-for-large /* Visible between 1280px and 1440px */    
-.show-for-large-up /* Visible from 1440px up */    
+.show-for-small /* Visible up to 768px */      
+.show-for-medium-down /* Visible from 1280px down */      
+.show-for-medium /* Visible between 768px and 1280px */      
+.show-for-medium-up /* Visible from 1280px up */      
+.show-for-large-down /* Visible from 1440px down */      
+.show-for-large /* Visible between 1280px and 1440px */      
+.show-for-large-up /* Visible from 1440px up */      
 .show-for-xlarge /* Visible above 1440px only */
-	/* The hide classes */    
-.hide-for-small /* Hidden up to 768px */    
-.hide-for-medium-down /* Hidden from 1280px down */    
-.hide-for-medium /* Hidden between 768px and 1280px */    
-.hide-for-medium-up /* Hidden from 1280px up */    
-.hide-for-large-down /* Hidden from 1440px down */    
-.hide-for-large /* Hidden between 1280px and 1440px */    
-.hide-for-large-up /* Hidden from 1440px up */    
+	/* The hide classes */      
+.hide-for-small /* Hidden up to 768px */      
+.hide-for-medium-down /* Hidden from 1280px down */      
+.hide-for-medium /* Hidden between 768px and 1280px */      
+.hide-for-medium-up /* Hidden from 1280px up */      
+.hide-for-large-down /* Hidden from 1440px down */      
+.hide-for-large /* Hidden between 1280px and 1440px */      
+.hide-for-large-up /* Hidden from 1440px up */      
 .hide-for-xlarge /* Hidden above 1440px only */
-	/* The orientation classes */    
-.show-for-landscape /* Visible for landscape orientation */    
-.show-for-portrait /* Visible for portrait orientation */    
-.hide-for-landscape /* Hidden for landscape orientation */    
+	/* The orientation classes */      
+.show-for-landscape /* Visible for landscape orientation */      
+.show-for-portrait /* Visible for portrait orientation */      
+.hide-for-landscape /* Hidden for landscape orientation */      
 .hide-for-portrait /* Hidden for portrait orientation */
-	/* The touch detection classes */    
-.show-for-touch /* Visible for touch enabled devices */    
+	/* The touch detection classes */      
+.show-for-touch /* Visible for touch enabled devices */      
 .hide-for-touch /* Hidden for touch enabled devices */
-	/************************* Menu ************************/   
+	/************************* Menu ************************/     
 .align li {
 	margin: 10px;
 }
@@ -57,10 +57,26 @@
 	background: white;
 }
 
-.top-bar-section li a:not
-(.button)
+.top-bar-section
+ 
+li
+ 
+a
+:not
+
+ 
+(
+.button
+ 
+)
 {
-background:white;
+background
+:
+ 
+white
+;
+
+
 }
 .top-bar-section li a:hover {
 	color: #1F7FC7;
@@ -74,23 +90,17 @@ background:white;
 	height: 55px;
 }
 
-
-
-.left{
-	position:absolute;
+.left {
+	position: absolute;
 }
 /************************* Menu ************************/
 
 /************** General **************/
-
-
-.container{
-	max-width: 80em;
+.container {
+	max-width: 82em;
 	margin: 0 auto;
 }
 /**************General-End ***********/
-
-
 
 /************ Home page Images *****************/
 .home_images li {
@@ -101,8 +111,6 @@ background:white;
 }
 
 /************ Home page Images *****************/
-
-
 
 /*Service */
 .service p {
@@ -249,7 +257,7 @@ background:white;
 }
 
 .row {
-	max-width: 80em !important
+	max-width: 82em !important
 }
 
 .row p {
@@ -274,47 +282,14 @@ background:white;
 }
 
 .two {
-
 	top: 2%;
-
-position: absolute;
-left: 1%;
-display: none;
-
+	position: absolute;
+	left: 1%;
+	display: none;
 }
 
 .three {
 	top: 2%;
-
-position: absolute;
-left: 1%;
-display: none;
-}
-.four{
-	top: 2%;
-position: absolute;
-left: 1%;
-display: none;
-}
-.five{
-	top: 2%;
-position: absolute;
-left: 1%;
-display: none;
-}
-.six{
-	top: 2%;
-position: absolute;
-left: 1%;
-display: none;
-}
-.service h4{
-	
-color:#217Dc5;}
-/*portfolio*/
-.portfolio{
-
-
 	position: absolute;
 	left: 1%;
 	display: none;
@@ -346,7 +321,37 @@ color:#217Dc5;}
 }
 /*portfolio*/
 .portfolio {
-	screative.gitposition : absolute;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.four {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.five {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.six {
+	top: 2%;
+	position: absolute;
+	left: 1%;
+	display: none;
+}
+
+.service h4 {
+	color: #217Dc5;
+}
+/*portfolio*/
+.portfolio {screative .gitposition :absolute;
 	left: 1%;
 	display: none;
 }
@@ -401,14 +406,10 @@ color:#217Dc5;}
 	line-height: 47px;
 }
 
-
-
 .portfolio:HOVER {
 	background: #6699FF;
 	color: black;
 	cursor: pointer;
-
-
 }
 /*portfolio*/
 
@@ -423,8 +424,13 @@ color:#217Dc5;}
 .heading li{
 	float:left;
 	margin-right: 105px;
-	
 }
+	
+.coffee {
+	background-color: #2F7EC1;
+
+}
+
 
 .heading li:first-child{
 	list-style:none;
@@ -465,6 +471,25 @@ font-size: 12px;
 	color:#207FC8;
 	border-bottom: 1px solid;
 }
+.coffee h1,i {
+	color: white;
+}
+
+.coffee h1 {
+	font-size: 68px;
+	line-height: 62px;
+}
+
+.address1 {
+	background-color: #2F7EC1;
+}
+
+.address1 ul {
+	list-style: none;
+	color: white;
+
+}
+
 
 .second1 p:last-child{
 	color:#207FC8;
@@ -479,3 +504,75 @@ font-size: 12px;
 .contact{
 	background:url("../images/background1.png");
 }
+
+footer div.social1 {
+	margin: 20px 0px;
+}
+
+.social {
+	height: 26px;
+	overflow: hidden;
+}
+
+.social img {
+	cursor: pointer;
+	float: left;
+}
+
+.social .set {
+	float: left;
+	width: 26px;
+	height: 30px;
+	overflow: hidden;
+}
+
+.social .set1 {
+	display: inline-block;
+	width: 37px;
+}
+
+.set1 iframe {
+	padding-top: 4px;
+	padding-left: 6px;
+	width: 160px !important;
+	height: 28px !important;
+}
+
+.coming h1 {
+	font-family: 'Gabriela', serif;
+}
+
+.background_image {
+	background: url(../images/background1.png) no-repeat;
+	padding: 8px;
+}
+
+.about dd {
+	padding: 10px;
+	margin: 4px;
+	background: white;
+	font-size: 13px;
+	line-height: 30px;
+}
+.about dd:hover{
+	background: #1D81C9;
+	color: white;
+	cursor: pointer;
+-moz-box-shadow:0px 0px 10px 6px rgba(119, 119, 119, 1);
+-webkit-box-shadow:0px 0px 10px 6px rgba(119, 119, 119, 1);
+box-shadow:0px 0px 10px 6px rgba(119, 119, 119, 1);
+}
+
+.about .large-4 {
+	margin: 0px;
+	padding: 0px;
+}
+hr{
+border-width: 4px;
+margin-left: 28px;
+border-color: #1D81C9;
+}
+
+
+
+
