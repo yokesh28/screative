@@ -413,34 +413,69 @@ color:#217Dc5;}
 /*portfolio*/
 
 /*contact*/
-.conta {
-	margin-top: 127px;
-}
+.contact {
+	background:white;}
 
-.coffee {
-	background-color: #2F7EC1;
+.heading {
+	background:white;
+	
+}
+.heading li{
+	float:left;
+	margin-right: 105px;
 	
 }
 
-
-
-
-
-.coffee h1,i{
-	color:white;
-}
-
-.coffee h1{
-	font-size: 68px;
-line-height: 62px;
-	
-}
-.address1{
-	background-color: #2F7EC1;
-}
-
-.address1 ul{
+.heading li:first-child{
 	list-style:none;
-	color:white;
 }
 
+.contact h3{
+	color:#207FC8;
+}
+
+
+.first p{
+    background-color:#207FC8;
+    padding: 15px;
+color: white;
+font-size: 12px;
+}
+
+.second p{
+	 background-color:#207FC8;
+padding: 15px;
+color: white;
+font-size: 12px;
+}
+
+.third p{
+	 background-color:#207FC8;
+padding: 15px;
+color: white;
+font-size: 12px;
+}
+
+.first1 p{
+	margin-left:106px;
+	color:#207FC8;
+}
+
+.second1 p{
+	color:#207FC8;
+	border-bottom: 1px solid;
+}
+
+.second1 p:last-child{
+	color:#207FC8;
+	border-bottom: none;
+}
+
+.third1 p{
+	color:#207FC8;
+	margin-left:147px;
+}
+
+.contact{
+	background:url("../images/background1.png");
+}
