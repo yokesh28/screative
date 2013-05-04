@@ -20,9 +20,10 @@
 
 				<li><a href="index.php">HOME</a></li>
 				<li><a href="about.php">ABOUT US</a></li>
+
 				<li><a href="service.php">SERVICE</a></li>
-				<li><a href="portfolio.html">PORTFOLIO</a></li>
-				<li><a href="contact.html">CONTACT US</a></li>
+				<li><a href="portfolio.php">PORTFOLIO</a></li>
+				<li><a href="#">CONTACT US</a></li>
 
 
 			</ul>

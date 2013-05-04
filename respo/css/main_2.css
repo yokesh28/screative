@@ -1,0 +1,71 @@
+@CHARSET "ISO-8859-1";
+#wrapper {
+	position:absolute;
+	top:100%;
+	width:100%;}
+
+.inner {
+	width:100%;
+	max-width:1440px;
+	margin:0px auto;
+	text-align:center;
+	display:block;}
+
+
+
+
+
+
+
+
+#arbeid {
+	background-image: url(../images/bg_1.jpg);
+	padding:60px 0px 50px;
+	margin:0px auto;
+	text-align:center;
+	display:block;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	}
+	
+#arbeid h2 {
+	color:#FFF;
+	font:25pt 'OpenSansLight';
+	padding: 60px 0px 0px 0px;
+	}
+
+.arbeid_grid {
+	list-style: none;
+	margin: 60px auto;
+	text-align: center;
+	width: 100%;
+	padding-bottom: 120px;
+}
+
+.arbeid_grid li {
+	display: inline-block;
+	margin: 0px -5px 0px 0px;
+	vertical-align: top;
+	height: 300px;
+}
+
+.arbeid_grid li > a,
+.arbeid_grid li > a img {
+	border: none;
+	outline: none;
+	display: block;
+	position: relative;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.arbeid_grid li > a img:hover {
+	filter:alpha(opacity=20);
+    filter:progid:DXImageTransform.Microsoft.Alpha(opacity=20);
+    opacity: 0.2;
+}
