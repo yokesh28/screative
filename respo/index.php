@@ -38,59 +38,130 @@
 							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
 						</div>
 				</a></li>
-				<li class="large-2"><a href="#"> <img src="img/80-2.png"
+				<li class="large-2"><a href="#"> <img src="img/80-10.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
 				</a></li>
-				<li class="hover large-2"><a href="#"> <img src="img/4.png"
+				<li class="hover large-2"><a href="#"> <img src="img/80-11.png"
 						height="160px" width="160px">
 						<div>
 							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
 						</div>
 				</a></li>
 
-				<li class=" large-2"><a href="#"> <img src="img/5.png"
+				<li class=" large-2"><a href="#"> <img src="img/80-13.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
 				</a></li>
-				<li class="hover large-2"><a href="#"> <img src="img/6.png"
+				<li class="hover large-2"><a href="#"> <img src="img/80-14.png"
 						height="160px" width="160px">
 						<div>
 							<span>REALISING OUR CLIENTS AMBITIONS</span>
 						</div>
 				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/7.png"
+				<li class=" large-2"><a href="#"> <img src="img/80-15.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
 				</a></li>
 				<li class="hover large-2"><a href="#"> <img
-						src="img/34.png" height="160px" width="160px">
+						src="img/80-16.png" height="160px" width="160px">
 						<div>
 							<span>TURNING IDEAS INTO REALITY</span>
 						</div>
 				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/20.png"
+				<li class=" large-2"><a href="#"> <img src="img/80-17.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
 				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/10.png"
+				<li class=" large-2"><a href="#"> <img src="img/80-18.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
 						</div>
 				</a></li>
 				<li class="hover large-2"><a href="#"> <img
-						src="img/11.png" height="160px" width="160px">
+						src="img/80-19.png" height="160px" width="160px">
 						<div>
 							<span>WORKING WITH THE WORLD&rsquo;LEADING BRANDS</span>
+						</div>
+				</a></li>
+				<li class=" large-2"><a href="#"> <img src="img/80-2.png"
+						height="160px" width="160px">
+						<div>
+							<span></span>
+						</div>
+				</a></li>
+				<li class="hover large-2"><a href="#"> <img
+						src="img/80-20.png" height="160px" width="160px">
+						<div>
+							<span>TURNING IDEAS INTO REALITY</span>
+						</div>
+				</a></li>
+				<li class=" large-2"><a href="#"> <img src="img/80-3.png"
+						height="160px" width="160px">
+						<div>
+							<span> </span>
+						</div>
+				</a></li>
+				<li class="hover large-2"><a href="#"> <img
+						src="img/80-4.png" height="160px" width="160px">
+						<div>
+							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
+						</div>
+				</a></li>
+
+				<li class=" large-2"><a href="#"> <img src="img/80-5.png"
+						height="160px" width="160px">
+						<div>
+							<span></span>
+						</div>
+				</a></li>
+				<li class="hover large-2"><a href="#"> <img
+						src="img/80-6.png" height="160px" width="160px">
+						<div>
+							<span>&ldquo;DESIGN IS NOT JUST A BUSINESS&sbquo;
+								IT&rsquo;s A PASSION&rdquo;</span>
+						</div>
+				</a></li>
+				<li class="hover large-2"><a href="#"> <img
+						src="img/80-7.png" height="160px" width="160px">
+						<div>
+							<span>HARNESSING THE LATEST TECHNOLOGY </span>
+						</div>
+				</a></li>
+				<li class=" large-2"><a href="#"> <img src="img/80-8.png"
+						height="160px" width="160px">
+						<div>
+							<span></span>
+						</div>
+				</a></li>
+				<li class="hover large-2"><a href="#"> <img
+						src="img/80-9.png" height="160px" width="160px">
+						<div>
+							<span>WORKING WITH THE WORLD&rsquo;LEADING BRANDS</span>
+						</div>
+				</a></li>
+
+				<li class=" large-2"><a href="#"> <img src="img/10.png"
+						height="160px" width="160px">
+						<div>
+							<span> </span>
+						</div>
+				</a></li>
+
+				<li class="hover large-2"><a href="#"> <img
+						src="img/11.png" height="160px" width="160px">
+						<div>
+							<span>&ldquo;DESIGN IS NOT JUST A BUSINESS, IT&rsquo;s A
+								PASSION&rdquo;</span>
 						</div>
 				</a></li>
 				<li class=" large-2"><a href="#"> <img src="img/12.png"
@@ -102,22 +173,27 @@
 				<li class="hover large-2"><a href="#"> <img
 						src="img/13.png" height="160px" width="160px">
 						<div>
-							<span>TURNING IDEAS INTO REALITY</span>
+							<span>HARNESSING THE LATEST TECHNOLOGY</span>
 						</div>
 				</a></li>
 				<li class=" large-2"><a href="#"> <img src="img/14.png"
 						height="160px" width="160px">
 						<div>
-							<span> </span>
+							<span></span>
+						</div>
+				</a></li>
+				<li class=" large-2"><a href="#"> <img src="img/15.png"
+						height="160px" width="160px">
+						<div>
+							<span></span>
 						</div>
 				</a></li>
 				<li class="hover large-2"><a href="#"> <img
-						src="img/15.png" height="160px" width="160px">
+						src="img/16.png" height="160px" width="160px">
 						<div>
-							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
+							<span>TURNING IDEAS INTO REALITY</span>
 						</div>
 				</a></li>
-
 				<li class=" large-2"><a href="#"> <img src="img/17.png"
 						height="160px" width="160px">
 						<div>
@@ -125,88 +201,12 @@
 						</div>
 				</a></li>
 				<li class="hover large-2"><a href="#"> <img
-						src="img/35.png" height="160px" width="160px">
-						<div>
-							<span>&ldquo;DESIGN IS NOT JUST A BUSINESS&sbquo;
-								IT&rsquo;s A PASSION&rdquo;</span>
-						</div>
-				</a></li>
-				<li class="hover large-2"><a href="#"> <img
-						src="img/19.png" height="160px" width="160px">
-						<div>
-							<span>HARNESSING THE LATEST TECHNOLOGY </span>
-						</div>
-				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/9.png"
-						height="160px" width="160px">
-						<div>
-							<span></span>
-						</div>
-				</a></li>
-				<li class="hover large-2"><a href="#"> <img
-						src="img/21.png" height="160px" width="160px">
-						<div>
-							<span>WORKING WITH THE WORLD&rsquo;LEADING BRANDS</span>
-						</div>
-				</a></li>
-
-				<li class=" large-2"><a href="#"> <img src="img/22.png"
-						height="160px" width="160px">
-						<div>
-							<span> </span>
-						</div>
-				</a></li>
-
-				<li class="hover large-2"><a href="#"> <img
-						src="img/23.png" height="160px" width="160px">
-						<div>
-							<span>&ldquo;DESIGN IS NOT JUST A BUSINESS, IT&rsquo;s A
-								PASSION&rdquo;</span>
-						</div>
-				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/24.png"
-						height="160px" width="160px">
-						<div>
-							<span></span>
-						</div>
-				</a></li>
-				<li class="hover large-2"><a href="#"> <img
-						src="img/25.png" height="160px" width="160px">
-						<div>
-							<span>HARNESSING THE LATEST TECHNOLOGY</span>
-						</div>
-				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/26.png"
-						height="160px" width="160px">
-						<div>
-							<span></span>
-						</div>
-				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/27.png"
-						height="160px" width="160px">
-						<div>
-							<span></span>
-						</div>
-				</a></li>
-				<li class="hover large-2"><a href="#"> <img
-						src="img/36.png" height="160px" width="160px">
-						<div>
-							<span>TURNING IDEAS INTO REALITY</span>
-						</div>
-				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/16.png"
-						height="160px" width="160px">
-						<div>
-							<span></span>
-						</div>
-				</a></li>
-				<li class="hover large-2"><a href="#"> <img
-						src="img/29.png" height="160px" width="160px">
+						src="img/18.png" height="160px" width="160px">
 						<div>
 							<span>WORKING ACROSS A WIDE RANGE OF INDUSTRIES</span>
 						</div>
 				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/30.png"
+				<li class=" large-2"><a href="#"> <img src="img/19.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
@@ -214,12 +214,12 @@
 				</a></li>
 
 				<li class="hover large-2"><a href="#"> <img
-						src="img/31.png" height="160px" width="160px">
+						src="img/20.png" height="160px" width="160px">
 						<div>
 							<span>WE DELIVER GREAT WORK FOR GREAT CLIENTS</span>
 						</div>
 				</a></li>
-				<li class=" large-2"><a href="#"> <img src="img/32.png"
+				<li class=" large-2"><a href="#"> <img src="img/21.png"
 						height="160px" width="160px">
 						<div>
 							<span></span>
@@ -227,7 +227,7 @@
 				</a></li>
 
 				<li class="hover large-2"><a href="#"> <img
-						src="img/33.png" height="160px" width="160px">
+						src="img/22.png" height="160px" width="160px">
 						<div>
 							<span>REALISING OUR CLIENTS AMBITIONS</span>
 						</div>

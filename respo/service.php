@@ -67,7 +67,7 @@
 
 
 		</div>
-		<div class="row">
+		<div class="">
 			<div class="large-3 columns align">
 
 
