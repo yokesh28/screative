@@ -458,9 +458,9 @@ min-height: 112px !important;
 }
 
 .first img{
-	margin-top: -33px;
+margin-top: -23px;
 position: absolute;
-margin-left: -15PX;
+margin-left: -16PX;
 }
 
 
@@ -534,7 +534,7 @@ float: left;
 }
 
 .con .first,.first1{
-	margin: 0px 40px;
+	padding: 4px 15px;
 }
 .con .second,.second1{
 	margin: 0px 40px;
@@ -555,7 +555,7 @@ float: left;
 	margin:0px;
 	
 display: inline-block;
-padding: 12px 25px;
+padding: 16px 3px;
 color:#2C80C2;
 
 }
@@ -579,7 +579,7 @@ color:#2C80C2;
 
 .first1 {
 	background:white;
-	margin-left: 55px;
+
 
 }
 
