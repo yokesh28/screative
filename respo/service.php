@@ -7,7 +7,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
-<title>S-creative</title>
+<title>S-creative | Service</title>
 
 <link rel="stylesheet" href="css/normalize.css" />
 <!-- If you are using CSS version, add this -->
@@ -30,10 +30,8 @@
 
 
 
-	<div class="row">
+	<div class="row" id="service">
 		<div class="large-2 columns service">
-
-
 			<h4>Services</h4>
 			<p>
 				<b>iF</b> es un estudio creativo dedicado a la publicidad
@@ -44,71 +42,71 @@
 			<ul class="listing">
 
 
-				<li><a href="#"><span class="icon1"></span><span class="bar"></span>Web</a>
+				<li id="web"><a href="#"><span class="icon1"></span><span
+						class="bar"></span>Web</a>
 				</li>
-				<li><a href="#"><span class="icon2"></span><span class="bar"></span>Applications
-				</a></li>
+				<li id="application"><a href="#"><span class="icon2"></span><span
+						class="bar"></span>Applications </a></li>
 
-				<li><a href="#"><span class="icon4"></span><span class="bar"></span>Branding
-				</a></li>
-				<li><a href="#"><span class="icon5"></span><span class="bar"></span>Multimedia</a>
+				<li id="branding"><a href="#"><span class="icon4"></span><span
+						class="bar"></span>Branding </a></li>
+				<li id="multimedia"><a href="#"><span class="icon5"></span><span class="bar"></span>Multimedia</a>
 				</li>
-				<li><a href="#"><span class="icon6"></span><span class="bar"></span>3D</a>
+				<li id="3d"><a href="#"><span class="icon6"></span><span class="bar"></span>3D</a>
 				</li>
 
-				<li><a href="#"><span class="icon10"></span><span class="bar"></span>Digital
+				<li id="digital"><a href="#"><span class="icon10"></span><span class="bar"></span>Digital
 						Media </a></li>
 			</ul>
+		</div>
 
 
+		<!--  WEB START -->
+		<div class="large-3 columns align" id="web_1" style="display: none;">
+			<h5>Web</h5>
+			<img src="images/service/html.png">
 
-
-
-
+			<p>Specialized development that integrates and enhances
+				communication, efficiency and producibility of its brand, with tools
+				that allow users digital experience memorable.</p>
+			<ul class="listing1">
+				<li><img src="images/3.png">
+					<p>3d</p></li>
+				<li><img src="images/conect.png">
+					<p>Connectivity</p></li>
+				<li><img src="images/semantica.png">
+					<p>Semantics</p></li>
+				<li><img src="images/media.png">
+					<p>Media Content</p></li>
+				<li><img src="images/css3.png">
+					<p>Styles and Animation</p></li>
+			</ul>
+			<p>Additional Platforms</p>
+			<ul class="listing1">
+				<li><img src="images/icon1.png">
+					<p>Web Management</p></li>
+				<li><img src="images/icon2.png">
+					<p>Ecommerce</p></li>
+				<li><img src="images/icon3.png">
+					<p>Web Development</p></li>
+			</ul>
 
 		</div>
-		<div class="">
-			<div class="large-3 columns align">
+		<div class="large-7 columns big color1 " id="web_2"
+			style="display: none;">
+			<img src="sbig/2.jpg">
 
-
-				<h5>Web</h5>
-				<img src="images/service/html.png">
-
-				<p>Specialized development that integrates and enhances
-					communication, efficiency and producibility of its brand, with
-					tools that allow users digital experience memorable.</p>
-				<ul class="listing1">
-					<li><img src="images/3.png">
-						<p>3d</p></li>
-					<li><img src="images/conect.png">
-						<p>Connectivity</p></li>
-					<li><img src="images/semantica.png">
-						<p>Semantics</p></li>
-					<li><img src="images/media.png">
-						<p>Media Content</p></li>
-					<li><img src="images/css3.png">
-						<p>Styles and Animation</p></li>
-				</ul>
-				<p>Additional Platforms</p>
-				<ul class="listing1">
-					<li><img src="images/icon1.png">
-						<p>Web Management</p></li>
-					<li><img src="images/icon2.png">
-						<p>Ecommerce</p></li>
-					<li><img src="images/icon3.png">
-						<p>Web Development</p></li>
-				</ul>
-
-			</div>
-			<div class="large-7 columns big color1 ">
-				<img src="sbig/2.jpg">
-
-			</div>
 		</div>
-	</div>
-	<div class="row">
 
-		<div class="large-3 large-offset-3  columns two align">
+		<!--  WEB END -->
+
+
+
+		<!--  APPLICATION  START-->
+
+
+		<div class="large-3 columns align" id="application_1"
+			style="display: none;">
 			<h5>APPLICATIONS</h5>
 			<img src="images/service/appicon.png">
 
@@ -118,15 +116,18 @@
 
 			<img src="images/service/plataformas.png">
 		</div>
-		<div class="large-6 columns  two color1">
+		<div class="large-6 columns  color1" id="application_2"
+			style="display: none;">
 			<img src="sbig/3.jpg">
 		</div>
 
+		<!--  APPLICATION  END-->
 
-	</div>
-	<div class="row">
+		<!--  BRANDING  START-->
 
-		<div class="large-3 large-offset-3  columns three align">
+
+		<div class="large-3  columns  align" id="branding_1"
+			style="display: none;">
 			<h5>Branding</h5>
 
 
@@ -149,16 +150,19 @@
 					<p>Digital Art</p></li>
 			</ul>
 		</div>
-		<div class="large-6 columns three color1">
+		<div class="large-6 columns  color1" id="branding_2"
+			style="display: none;">
 			<img src="sbig/5.jpg">
 		</div>
 
 
-	</div>
+		<!--  BRANDING  START-->
 
-	<div class="row">
 
-		<div class="large-3 large-offset-3 columns  four align">
+
+		<!--  MULTIMEDIA  START-->
+
+		<div class="large-3  columns   align" id="multimedia_1" style="display: none;">
 			<h5>Multimedia</h5>
 
 
@@ -180,16 +184,16 @@
 					<p>Animation</p></li>
 			</ul>
 		</div>
-		<div class="large-6 columns four color1">
+		<div class="large-6 columns  color1" id="multimedia_2" style="display: none;">
 			<img src="sbig/6.jpg">
 		</div>
 
+		<!--  MULTIMEDIA  END-->
 
-	</div>
 
-	<div class="row">
-
-		<div class="large-3 large-offset-3 columns  five align">
+		<!--  3D  START-->
+		<div class="large-3  columns   align" id="3d_1"
+			style="display: none;">
 			<h5>3D</h5>
 
 
@@ -205,16 +209,17 @@
 			</p>
 
 		</div>
-		<div class="large-6 columns five color1">
+		<div class="large-6 columns  color1" style="display: none;" id="3d_2">
 			<img src="sbig/7.jpg">
 		</div>
 
+		<!--  3D  END-->
 
-	</div>
 
-	<div class="row">
 
-		<div class="large-3 large-offset-3 columns six align">
+		<!--  DIGITAL MEDIA  START-->
+		<div class="large-3  columns  align" id="digital_1"
+			style="display: none;">
 			<h5>DIGITAL MEDIA</h5>
 
 
@@ -227,15 +232,13 @@
 
 			</p>
 		</div>
-		<div class="large-6 columns six color1">
+		<div class="large-6 columns  color1" style="display: none;" id="digital_2">
 			<img src="sbig/10.jpg">
 		</div>
 
+		<!--  DIGITAL MEDIA  END-->
 
 	</div>
-
-
-
 
 
 
@@ -276,6 +279,33 @@
 	<script src="js/foundation/foundation.topbar.js"></script>
 	<script>
   $(document).foundation();
+
+
+  $('#service>div').not('.service').hide();
+  
+  $('#web_1').show("slide", { direction: "left" }, 500);
+  $('#web_2').show("slide", { direction: "left" }, 500);
+
+  $(".listing li").click(function(){ 
+  
+	  
+	  
+	var cur=$(this).attr("id");
+	
+	 $('#service>div').not('.service').hide();
+	
+	
+	 $('#'+cur+'_1').show("slide", { direction: "left" }, 400,function(){});
+	 $('#'+cur+'_2').show("slide", { direction: "left" }, 400,function(){
+
+
+
+		 });
+
+	 
+
+	
+  });
   </script>
 
 
