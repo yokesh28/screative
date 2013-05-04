@@ -31,6 +31,8 @@
 
 
 	<div class="row" id="service">
+	
+	
 		<div class="large-2 columns service">
 			<h4>Services</h4>
 			<p>
@@ -81,7 +83,7 @@
 				<li><img src="images/css3.png">
 					<p>Styles and Animation</p></li>
 			</ul>
-			<p>Additional Platforms</p>
+			<h5>Additional Platforms</h5>
 			<ul class="listing1">
 				<li><img src="images/icon1.png">
 					<p>Web Management</p></li>
@@ -237,8 +239,9 @@
 		</div>
 
 		<!--  DIGITAL MEDIA  END-->
+		</div>
 
-	</div>
+	
 
 
 

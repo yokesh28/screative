@@ -278,6 +278,7 @@ white
 
 .align p {
 	font-size: 12px;
+	text-align: justify;
 }
 
 .row {
@@ -441,6 +442,7 @@ white
 .row .large-3 {
 
 min-height: 112px !important;
+background-color: #DFE2DF;
 }
 .conta {
 	margin-top: 127px;
