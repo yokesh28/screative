@@ -118,7 +118,7 @@
 
 			<img src="images/service/plataformas.png">
 		</div>
-		<div class="large-6 columns  color1" id="application_2"
+		<div class="large-7 columns  color1" id="application_2"
 			style="display: none;">
 			<img src="sbig/3.jpg">
 		</div>
@@ -152,7 +152,7 @@
 					<p>Digital Art</p></li>
 			</ul>
 		</div>
-		<div class="large-6 columns  color1" id="branding_2"
+		<div class="large-7 columns  color1" id="branding_2"
 			style="display: none;">
 			<img src="sbig/5.jpg">
 		</div>
@@ -186,7 +186,7 @@
 					<p>Animation</p></li>
 			</ul>
 		</div>
-		<div class="large-6 columns  color1" id="multimedia_2" style="display: none;">
+		<div class="large-7 columns  color1" id="multimedia_2" style="display: none;">
 			<img src="sbig/6.jpg">
 		</div>
 
@@ -211,7 +211,7 @@
 			</p>
 
 		</div>
-		<div class="large-6 columns  color1" style="display: none;" id="3d_2">
+		<div class="large-7 columns  color1" style="display: none;" id="3d_2">
 			<img src="sbig/7.jpg">
 		</div>
 
@@ -234,7 +234,7 @@
 
 			</p>
 		</div>
-		<div class="large-6 columns  color1" style="display: none;" id="digital_2">
+		<div class="large-7 columns  color1" style="display: none;" id="digital_2">
 			<img src="sbig/10.jpg">
 		</div>
 

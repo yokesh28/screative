@@ -685,3 +685,10 @@ padding-top: 45px;
 	border-bottom:none;
 	
 }
+
+.service{
+	padding: 0px;
+}
+#service .large-7{
+	padding: 0px !important;
+}
