@@ -23,7 +23,7 @@
 
 				<li><a href="service.php">SERVICE</a></li>
 				<li><a href="portfolio.php">PORTFOLIO</a></li>
-				<li><a href="contact.html">CONTACT US</a></li>
+				<li><a href="contact.php">CONTACT US</a></li>
 
 
 			</ul>
