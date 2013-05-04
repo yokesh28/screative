@@ -675,11 +675,36 @@ padding-top: 45px;
 }
 
 
-.second1 p{
+.borderr li{
 	border-bottom: 1px solid #1C87D7;
 }
 
-.second1 p:last-child{
+.borderr li:last-child{
 	border-bottom:none;
 	
 }
+#contactform li{
+	padding: 1px 2px;
+}
+
+
+#contactform li span{
+width: 96px;
+float:left;
+}
+
+#contactform input{
+	 border: none;
+    outline: 0;
+    background-color: transparent;
+    margin: 9px 6px;
+    width: 100px;
+    }
+    
+    #usefulcontacts span{
+    padding:0px;
+    margin-left: 115px;}
+    
+    
+    #whoandwhere,#contactform,#usefulcontacts{
+    display:none;}
