@@ -20,7 +20,8 @@
 
 				<li><a href="index.php">HOME</a></li>
 				<li><a href="about.php">ABOUT US</a></li>
-				<li><a href="#">SERVICE</a></li>
+
+				<li><a href="service.php">SERVICE</a></li>
 				<li><a href="portfolio.php">PORTFOLIO</a></li>
 				<li><a href="#">CONTACT US</a></li>
 

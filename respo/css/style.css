@@ -284,9 +284,7 @@ white
 	max-width: 82em !important
 }
 
-.row p {
-	text-align: justify;
-}
+
 
 .ei-title {
 	background-color: rgba(222, 225, 222, 0.9) !important;
@@ -438,23 +436,97 @@ white
 /*portfolio*/
 
 /*contact*/
+
+
+.row .large-3 {
+
+min-height: 112px !important;
+}
 .conta {
 	margin-top: 127px;
 }
 
-.coffee {
-	background-color: #2F7EC1;
-}
-
-.coffee h1,i {
+.first{
+	background-color: deepskyblue;
 	color: white;
 }
 
-.coffee h1 {
-	font-size: 68px;
-	line-height: 62px;
+.second{
+	background-color: dodgerblue;
+	color: white;
 }
 
+.third{
+	background-color: royalblue;
+	color: white;
+}
+
+
+.first1 p{
+color:#1C87D7;
+margin-left: 90px;
+}
+
+.second1 p{
+	color:#1C87D7;
+}
+
+.third1 p{
+	color:#1C87D7;
+	margin-left: 90px;
+}
+
+.heading{
+background: white;
+margin-top: 40px;
+}
+
+.heading li:first-child{
+	list-style:none;
+}
+
+.heading li{
+	width: 374px;
+float: left;
+}
+
+.con .first,.first1{
+	margin: 0px 40px;
+}
+.con .second,.second1{
+	margin: 0px 40px;
+}
+.con .third,.third1{
+	margin: 0px 40px;
+	float:left !important;
+}
+.con h2{
+	font-size: 15px;
+}
+.con .columns {
+	padding: 14px;
+}
+.con p{
+	font-size: 12px;
+}
+.con p>span{
+	font-size: 12px;
+	font-weight: bolder;
+}
+.first1 {
+	background:white;
+	margin-left: 55px;
+
+}
+
+.second1{
+	background:white;
+}
+
+.third1{
+	background:white;
+	
+}
 .address1 {
 	background-color: #2F7EC1;
 }
@@ -532,5 +604,16 @@ margin-left: 28px;
 border-color: #1D81C9;
 }
 
+.alignn{
+	display: inline-block;
+padding-top: 45px;
+}
 
 
+.second1 p{
+	border-bottom: 1px solid #1C87D7;
+}
+
+.second1 p:last-child{
+	border-bottom:none;
+}
