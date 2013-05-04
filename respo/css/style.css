@@ -424,6 +424,7 @@ min-height: 112px !important;
 
 .first{
 	background-color: deepskyblue;
+	
 	color: white;
 }
 
@@ -431,6 +432,26 @@ min-height: 112px !important;
 	background-color: dodgerblue;
 	color: white;
 }
+
+.first img{
+	margin-top: -33px;
+position: absolute;
+margin-left: -15PX;
+}
+
+
+.second img{
+	margin-top: -33px;
+position: absolute;
+margin-left: -15PX;
+}
+
+.third img{
+	margin-top: -33px;
+position: absolute;
+margin-left: -15PX;
+}
+
 
 .third{
 	background-color: royalblue;
@@ -440,16 +461,20 @@ min-height: 112px !important;
 
 .first1 p{
 color:#1C87D7;
+margin-top: -38px;
 margin-left: 90px;
 }
 
 .second1 p{
 	color:#1C87D7;
+	
 }
 
 .third1 p{
 	color:#1C87D7;
-	margin-left: 90px;
+	min-height: 129px;
+margin-left: 128px;
+margin-top: 63px;
 }
 
 .heading{
@@ -457,12 +482,30 @@ background: white;
 margin-top: 40px;
 }
 
+
+.who h3{
+	color:deepskyblue;
+}
+
+.the h3{
+	color:dodgerblue;
+}
+
+.useful h3{
+	color:royalblue;
+}
+
+.heading li{
+	padding: 0px 25px;
+	
+}
+
 .heading li:first-child{
 	list-style:none;
 }
 
 .heading li{
-	width: 374px;
+	
 float: left;
 }
 
@@ -478,17 +521,38 @@ float: left;
 }
 .con h2{
 	font-size: 15px;
+	color: white;
 }
 .con .columns {
 	padding: 14px;
 }
-.con p{
+.con ul span{
 	font-size: 12px;
+	margin:0px;
+	
+display: inline-block;
+padding: 12px 25px;
+color:#2C80C2;
+
 }
+.con li img{
+	float:left;
+}
+
 .con p>span{
 	font-size: 12px;
 	font-weight: bolder;
 }
+
+.con ul li{
+	list-style: none;
+	display: inline-block;
+	
+}
+.down{
+	margin-top:11px;
+}
+
 .first1 {
 	background:white;
 	margin-left: 55px;
@@ -497,6 +561,7 @@ float: left;
 
 .second1{
 	background:white;
+	min-height: 187px;
 }
 
 .third1{
@@ -592,4 +657,5 @@ padding-top: 45px;
 
 .second1 p:last-child{
 	border-bottom:none;
+	
 }
