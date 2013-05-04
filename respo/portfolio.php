@@ -60,7 +60,7 @@
 <div class="mask">
 <h2>Bedre Skoler</h2>
 <p>A responsive webpage consept for bedreskoler.no. Here you could see progress on things that needed to be fixed at your local school.</p>
-<a href="bedreskoler.html" class="info">View</a>
+<a href="#" class="info">View</a>
 </div>
 </div>
 </li>
