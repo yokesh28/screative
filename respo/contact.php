@@ -53,13 +53,13 @@
 					<div class="first row">
 						<img class="lastimg " src="conimages/111.png">
 						<h2 class="large-12 small-12">First time here?</h2>
-						<p class="large-12 small-12">See how easy it is to contact us and
+						<p class="large-12 small-12 timee">See how easy it is to contact us and
 							how soon can you get here!</p>
 					</div>
 					<div class="first1 row">
 						<ul>
 							<li class="large-12 columns small-12"><img
-								class="conicon large-2 " src="conimages/1.png"> <span
+								class="conicon large-2 addr " src="conimages/1.png"> <span
 								class="large-10 ">13/2D,Brookebond layout, Krishnaswamy
 									Mudhaliar Road Coimbatore-641002</span></li>
 
@@ -87,9 +87,12 @@
 					class="large-3 columns large-offset-5 small-offset-1 row small-10 cf">
 					<div class="first row">
 						<img class="lastimg" src="conimages/111.png">
-						<h2 class="large-12 small-12">Send us a message using a contact
-							form-reply as soon as possible.</h2>
-
+						<h2 class="large-12 small-12">Send us a message
+						
+						<p class="large-12 small-12 timee">
+						 using a contact
+							form-reply as soon as possible.</p></h2>
+                          
 					</div>
 					<div class="first1 row borderr">
 
@@ -128,12 +131,12 @@
 					<div class="first row">
 						<img class="lastimg " src="conimages/111.png">
 						<h2 class="large-12 small-12">Do you have bussiness to attend to?</h2>
-						<p class="large-12 small-12">Contact with someone who will be able
+						<p class="large-12 small-12 timee">Contact with someone who will be able
 							to immediately talk about the facts!</p>
 					</div>
 					<div class="first1 row">
 						<ul>
-							<li class="large-12 columns small-12"><span class="large-6 small-offset-4">
+							<li class="large-12 columns small-12 heigh"><span class="large-6 small-offset-4">
 									Mohamed Ibrahim.A Director +919894500189 </span></li>
 
 						</ul>
