@@ -261,7 +261,7 @@ style="display: none;">
 
 
 
-
+<?php include('footer.php'); ?>
 	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 
 	<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
