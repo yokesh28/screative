@@ -388,8 +388,8 @@ height:480px;
 	height: 30px;
 }
 
-#3d_1{
-height:480px;		
+.threed{
+height:480px !important;		
 }
 
 #digital_1{
@@ -460,8 +460,8 @@ height:480px;
 /*portfolio*/
 
 /*contact*/
-.row .large-3 {
-	min-height: 112px !important;
+.row .align{
+	
 	background-color: #DFE2DF;
 }
 
@@ -536,9 +536,7 @@ height:480px;
 	color: royalblue;
 }
 
-.heading li {
-	padding: 0px 80px;
-}
+
 
 .heading li:first-child {
 	list-style: none;
@@ -546,6 +544,7 @@ height:480px;
 
 .heading li {
 	float: left;
+	cursor: pointer;
 }
 
 
@@ -831,10 +830,7 @@ hr {
 	width: 100px;
 }
 
-#usefulcontacts span {
-	padding: 0px;
-	margin-left: 115px;
-}
+
 
 #whoandwhere,#contactform,#usefulcontacts {
 	display: none;

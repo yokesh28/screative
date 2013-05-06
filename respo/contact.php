@@ -35,11 +35,11 @@
 
 
 				<ul>
-					<li class="who"><h3>Who and where</h3></li>
+					<li class="who  large-3 small-offset-1 "><h3>Who and where</h3></li>
 
-					<li class="the"><h3>The contact form</h3></li>
+					<li class="the large-3 small-offset-1"><h3>The contact form</h3></li>
 
-					<li class="useful"><h3>Useful contacts</h3></li>
+					<li class="useful large-3 small-offset-1"><h3>Useful contacts</h3></li>
 				</ul>
 
 			</div>
@@ -84,7 +84,7 @@
 			<div id="contactform" class="ccf">
 
 				<div
-					class="large-3 columns large-offset-4 small-offset-1 row small-10 cf">
+					class="large-3 columns large-offset-5 small-offset-1 row small-10 cf">
 					<div class="first row">
 						<img class="lastimg" src="conimages/111.png">
 						<h2 class="large-12 small-12">Send us a message using a contact
@@ -124,7 +124,7 @@
 			<div id="usefulcontacts" class="ucc">
 
 				<div
-					class="large-3 columns large-offset-7 small-offset-1 row small-10 uc">
+					class="large-3 columns large-offset-9 small-offset-1 row small-10 uc">
 					<div class="first row">
 						<img class="lastimg " src="conimages/111.png">
 						<h2 class="large-12 small-12">Do you have bussiness to attend to?</h2>
@@ -133,9 +133,8 @@
 					</div>
 					<div class="first1 row">
 						<ul>
-							<li class="large-12 columns small-12"><span class="large-10">
-									Mohamed Ibrahim.A</span> <span class="large-10"> Director </span>
-								<span class="large-10">+919894500189 </span></li>
+							<li class="large-12 columns small-12"><span class="large-6 small-offset-4">
+									Mohamed Ibrahim.A Director +919894500189 </span></li>
 
 						</ul>
 					</div>

@@ -193,7 +193,7 @@ style="display: none;">
 
 
 		<!--  3D  START-->
-		<div class="large-3  columns align" id="3d_1" style="display: none;">
+		<div class="large-3 columns align threed" id="3d_1" style="display: none;">
 			<h5>3D</h5>
 
 
