@@ -49,7 +49,7 @@
 			<div id="whoandwhere" class="con">
 
 				<div
-					class="large-4 columns large-offset-1 small-offset-1 row small-10 ww">
+					class="large-3 columns large-offset-1 small-offset-1 row small-10 ww">
 					<div class="first row">
 						<img class="lastimg " src="conimages/111.png">
 						<h2 class="large-12 small-12">First time here?</h2>
@@ -81,12 +81,12 @@
 
 
 
-			<div id="contactform" class="con">
+			<div id="contactform" class="ccf">
 
 				<div
-					class="large-4 columns large-offset-1 small-offset-1 row small-10 cf">
+					class="large-3 columns large-offset-4 small-offset-1 row small-10 cf">
 					<div class="first row">
-						<img class="lastimg " src="conimages/111.png">
+						<img class="lastimg" src="conimages/111.png">
 						<h2 class="large-12 small-12">Send us a message using a contact
 							form-reply as soon as possible.</h2>
 
@@ -121,10 +121,10 @@
 			</div>
 
 
-			<div id="usefulcontacts" class="con">
+			<div id="usefulcontacts" class="ucc">
 
 				<div
-					class="large-4 columns large-offset-1 small-offset-1 row small-10 uc">
+					class="large-3 columns large-offset-7 small-offset-1 row small-10 uc">
 					<div class="first row">
 						<img class="lastimg " src="conimages/111.png">
 						<h2 class="large-12 small-12">Do you have bussiness to attend to?</h2>
@@ -157,18 +157,32 @@
 $('#whoandwhere').slideDown();
 
 $('.the').click(function(){
-		$('.con').hide();
-		
-		$('#contactform').slideDown();
-
-		
-		
-});
-$('.useful').click(function(){
-	$('.con').hide();
 	
-	$('#usefulcontacts').slideDown();
+	$('.ccf').slideDown();
+	$('.con').hide();
+		$('.ucc').hide();
+		
+
 });
+
+$('.who').click(function(){
+	$('.con').slideDown();
+	$('.ucc').hide();
+	$('.ccf').hide();
+});
+
+
+$('.useful').click(function(){
+	$('.ucc').slideDown();
+	$('.con').hide();
+	$('.ccf').hide();
+	
+});
+
+
+
+
+
 
 
 </script>

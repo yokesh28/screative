@@ -33,8 +33,6 @@
 
 
 
-
-
 .align li {
 	margin: 10px;
 }
@@ -372,6 +370,32 @@ white
 .service h4 {
 	color: #217Dc5;
 }
+
+
+#application_1{
+	height:480px;
+}
+
+#branding_1{
+	height:480px;
+}
+
+#multimedia_1{
+height:480px;	
+}
+
+.scc{
+	height: 30px;
+}
+
+#3d_1{
+height:480px;		
+}
+
+#digital_1{
+height:480px;	
+}
+
 /*portfolio*/
 .portfolio {screative .gitposition :absolute;
 	left: 1%;
@@ -513,7 +537,7 @@ white
 }
 
 .heading li {
-	padding: 0px 25px;
+	padding: 0px 80px;
 }
 
 .heading li:first-child {
@@ -523,6 +547,8 @@ white
 .heading li {
 	float: left;
 }
+
+
 
 .con .first,.first1 {
 	padding: 4px 15px;
@@ -567,6 +593,109 @@ white
 	list-style: none;
 	display: inline-block;
 }
+
+
+
+
+
+
+
+.ccf .first,.first1 {
+	padding: 4px 15px;
+}
+
+.ccf .second,.second1 {
+	margin: 0px 40px;
+}
+
+.ccf .third,.third1 {
+margin: 0px 40px;
+	float: left !important;
+}
+
+.ccf h2 {
+	font-size: 15px;
+	color: white;
+}
+
+.ccf .columns {
+	padding: 14px;
+}
+
+.ccf ul span {
+	font-size: 12px;
+	margin: 0px;
+	display: inline-block;
+	padding: 16px 3px;
+	color: #2C80C2;
+}
+
+.ccf li img {
+	float: left;
+}
+
+.ccf p>span {
+	font-size: 12px;
+	font-weight: bolder;
+}
+
+.ccf ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+
+
+.uc .first,.first1 {
+	padding: 4px 15px;
+}
+
+
+
+.uc h2 {
+	font-size: 15px;
+	color: white;
+}
+
+.uc .columns {
+	padding: 14px;
+}
+
+.uc ul span {
+	font-size: 12px;
+	margin: 0px;
+	display: inline-block;
+	padding: 16px 3px;
+	color: #2C80C2;
+}
+
+.uc li img {
+	float: left;
+}
+
+.uc p>span {
+	font-size: 12px;
+	font-weight: bolder;
+}
+
+.uc ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .down {
 	margin-top: 11px;
