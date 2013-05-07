@@ -107,8 +107,7 @@
 		<!--  APPLICATION  START-->
 
 
-		<div class="large-3 columns align" id="application_1"
-			style="display: none;">
+		<div class="large-3 columns align" id="application_1" style="display:none;">
 			<h5>APPLICATIONS</h5>
 			<img src="images/service/appicon.png">
 
@@ -118,8 +117,8 @@
 
 			<img src="images/service/plataformas.png">
 		</div>
-		<div class="large-6 columns  color1" id="application_2"
-			style="display: none;">
+		<div class="large-7 columns  color1" id="application_2"
+style="display: none;">
 			<img src="sbig/3.jpg">
 		</div>
 
@@ -152,7 +151,7 @@
 					<p>Digital Art</p></li>
 			</ul>
 		</div>
-		<div class="large-6 columns  color1" id="branding_2"
+		<div class="large-7 columns  color1" id="branding_2"
 			style="display: none;">
 			<img src="sbig/5.jpg">
 		</div>
@@ -186,7 +185,7 @@
 					<p>Animation</p></li>
 			</ul>
 		</div>
-		<div class="large-6 columns  color1" id="multimedia_2" style="display: none;">
+		<div class="large-7 columns  color1" id="multimedia_2" style="display: none;">
 			<img src="sbig/6.jpg">
 		</div>
 
@@ -194,8 +193,7 @@
 
 
 		<!--  3D  START-->
-		<div class="large-3  columns   align" id="3d_1"
-			style="display: none;">
+		<div class="large-3 columns align threed" id="3d_1" style="display: none;">
 			<h5>3D</h5>
 
 
@@ -203,15 +201,26 @@
 				simulation of your project, adequate 3D images and animations in any
 				format required for projects of Engineering, Architecture and
 				Industrial Design.</p>
-			<img src="images/3d.png">
-			<p>
-				• 3D Video </br> • Virtual Tours </br> • Infographics </br> •
-				Corporate Stands </br> • Product Model </br> • Character Design
+				
+			<img src="images/3d.png" >
+			<ul class="listing1">
+				<li><img src="seimages/13.png" height="31px" width="28px">
+				<p> 3D Video</p></li>
+				 <li><img src="seimages/19.png" height="31px" width="28px">
+				 <p> Virtual Tours </p></li>
+				 <li><img src="seimages/14.png" height="31px" width="28px" >
+				  <p> Infographics </p> </li>
+				  <li ><img class="scc" src="seimages/16.png" height="30px" width="28px">
+				<p>Corporate Stands</p></li>
+				<li><img src="seimages/17.png" height="31px" width="28px">
+				<p> Product Model </p></li>
+				 <li><img src="seimages/11.png" height="31px" width="28px">
+				 <p> Character Design</p></li>
 
-			</p>
+			</ul>
 
 		</div>
-		<div class="large-6 columns  color1" style="display: none;" id="3d_2">
+		<div class="large-7 columns  color1" style="display: none;" id="3d_2">
 			<img src="sbig/7.jpg">
 		</div>
 
@@ -228,13 +237,19 @@
 			<p>Printing Platform for producing advertising and Packaging
 				material. Thanks to our quality, performance and experience of our
 				trusted providers of recognized companies in this sector.</p>
-			<p>
-				• Off-Set Printing </br> • Digital Printing </br> • Pre Press </br>
-				• Finishes
+			<ul class="listing1">
+				<li>
+			<img src="seimages/12.png">	<p>Off-Set Printing</p> </li>
+				<li><img src="seimages/15.png"><p> Digital Printing</p> </li>
+			
+			<li><img src="seimages/18.png"><p> Pre Press</p> </li>
+			<li>
+				<img src="seimages/20.png"><p> Finishes</p>
 
-			</p>
+			</li>
+			</ul>
 		</div>
-		<div class="large-6 columns  color1" style="display: none;" id="digital_2">
+		<div class="large-7 columns  color1" style="display: none;" id="digital_2">
 			<img src="sbig/10.jpg">
 		</div>
 
@@ -246,7 +261,7 @@
 
 
 
-
+<?php include('footer.php'); ?>
 	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 
 	<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
