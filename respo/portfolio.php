@@ -26,7 +26,10 @@
 <script src="js/vendor/custom.modernizr.js"></script>
 <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 
-
+<!-- Add fancyBox main JS and CSS files -->
+<script type="text/javascript" src="source/jquery.fancybox.js?v=2.1.4"></script>
+<link rel="stylesheet" type="text/css"
+	href="source/jquery.fancybox.css?v=2.1.4" media="screen" />
 
 
 
@@ -58,8 +61,8 @@
 <div class="view view-tenth">
 <img src="work/1.jpg">
 <div class="mask">
-<h2>MMRF</h2>
-<p>A responsive webpage consept for bedreskoler.no. Here you could see progress on things that needed to be fixed at your local school.</p>
+<h3>MMRF</h3>
+
 <a href="http://mmrf.in/" class="info" target="_blank">View</a>
 </div>
 </div>
@@ -69,9 +72,9 @@
 <div class="view view-tenth">
 <img src="work/2.jpg">
 <div class="mask">
-<h2>ARYA</h2>
-<p>A fully responsive page for Daracha. I also took the photos that where used on the page and at their Whiskey meet stand 2012.</p>
-<a href="www.aryaoffset.com" class="info">View</a>
+<h3>ARYA</h3>
+
+<a href="http://aryaoffset.com/" class="info" target="_blank">View</a>
 </div>
 </div>
 </li>
@@ -80,12 +83,38 @@
 <div class="view view-tenth">
 <img src="work/3.jpg">
 <div class="mask">
-<h2>SAI ENCLAVE</h2>
-<p>Vignette for the norwegian Top Model. This was made as a "storyboard" in photoshop.</p>
-<a href="www.mmrf.in/saienclave" class="info">View</a>
+<h3>SAI ENCLAVE</h3>
+
+<a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
 </div>
 </div>
 </li>
+
+<li>
+<div class="view view-tenth viewheader">
+<img src="work/4.jpg">
+<div class="mask">
+<h3>VISTA <br>OCEANA</h3>
+
+<a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
+</div>
+</div>
+</li>
+
+
+<li>
+<div class="view view-tenth viewheader">
+<img src="work/5.jpg">
+<div class="mask">
+<h3>ANAAMALAIS TOYOTA</h3>
+
+<a class="info fancybox"  href="work/5.jpg" target="_blank">View</a>
+</div>
+</div>
+</li>
+
+
+
 
 
 
@@ -128,7 +157,24 @@
 	<script>
 		$(document).foundation();
 	</script>
+	<style type="text/css">
+.fancybox-custom .fancybox-skin {
+	box-shadow: 0 0 50px #222;
+}
+</style>
+
+<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox();
+		});
+		</script>
 
 	
 </body>
+
+
 </html>
