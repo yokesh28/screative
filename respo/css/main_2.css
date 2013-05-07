@@ -31,14 +31,14 @@
 	}
 	
 #arbeid h2 {
-	color:#FFF;
-	font:25pt 'OpenSansLight';
-	padding: 60px 0px 0px 0px;
+	color: #FFF;
+font: 14pt 'OpenSansLight';
+padding: 7px 82px 0px 0px;
 	}
 
 .arbeid_grid {
 	list-style: none;
-	margin: 60px auto;
+	margin: 0px auto;
 	text-align: center;
 	width: 100%;
 	padding-bottom: 120px;
@@ -46,7 +46,7 @@
 
 .arbeid_grid li {
 	display: inline-block;
-	margin: 0px -5px 0px 0px;
+	margin: 0px -4px 0px 0px;
 	vertical-align: top;
 	height: 300px;
 }

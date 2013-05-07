@@ -7,7 +7,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
-<title>Foundation 4</title>
+<title>S_CREATIVE</title>
 
 <link rel="stylesheet" href="css/normalize.css" />
 <!-- If you are using CSS version, add this -->

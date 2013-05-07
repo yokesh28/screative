@@ -56,33 +56,33 @@
 	
 <li>
 <div class="view view-tenth">
-<img src="work/thumb_01.jpg">
+<img src="work/1.jpg">
 <div class="mask">
-<h2>Bedre Skoler</h2>
+<h2>MMRF</h2>
 <p>A responsive webpage consept for bedreskoler.no. Here you could see progress on things that needed to be fixed at your local school.</p>
-<a href="#" class="info">View</a>
+<a href="http://mmrf.in/" class="info" target="_blank">View</a>
 </div>
 </div>
 </li>
 
 <li>
 <div class="view view-tenth">
-<img src="work/thumb_02.jpg">
+<img src="work/2.jpg">
 <div class="mask">
-<h2>Daracha</h2>
+<h2>ARYA</h2>
 <p>A fully responsive page for Daracha. I also took the photos that where used on the page and at their Whiskey meet stand 2012.</p>
-<a href="#" class="info">View</a>
+<a href="www.aryaoffset.com" class="info">View</a>
 </div>
 </div>
 </li>
 
 <li>
 <div class="view view-tenth">
-<img src="work/thumb_03.jpg">
+<img src="work/3.jpg">
 <div class="mask">
-<h2>Top Model</h2>
+<h2>SAI ENCLAVE</h2>
 <p>Vignette for the norwegian Top Model. This was made as a "storyboard" in photoshop.</p>
-<a href="#" class="info">View</a>
+<a href="www.mmrf.in/saienclave" class="info">View</a>
 </div>
 </div>
 </li>
