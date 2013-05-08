@@ -20,7 +20,7 @@
 
 #arbeid {
 	background-image: url(../images/bg_1.jpg);
-	padding:60px 0px 50px;
+	padding: 64px 3px 1px 0px;
 	margin:0px auto;
 	text-align:center;
 	display:block;
@@ -37,13 +37,13 @@
 	margin: 0px auto;
 	text-align: center;
 	width: 100%;
-	padding-bottom: 120px;
-	padding-right: 465px;
+	padding-bottom: 350px;
+	padding-right: 306px;
 }
 
 .arbeid_grid li {
 	display: inline-block;
-	margin: 0px -4px 0px 0px;
+	margin: -49px -4px;
 	vertical-align: top;
 	height: 200px;
 }
