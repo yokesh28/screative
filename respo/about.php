@@ -47,10 +47,10 @@
 						PASSION&rdquo;</dd>
 
 					
-					<dd>WE ARE HERE TO SOLVE YOUR BRAND, COMMUNICATIONS AND
+					<dd class="change"><h6>WE ARE HERE TO SOLVE YOUR BRAND, COMMUNICATIONS AND
 						MARKETING ISSUES. WE DON&rsquo;T LIKE LAZY DESIGN, WE WORK
 						PASSIONATELY TO DELIVER DESIGN SOLUTIONS THAT NOT ONLY WORK BUT
-						LOOK GREAT AS WELL.</dd>
+						LOOK GREAT AS WELL.</h6></dd>
 
 
 
@@ -64,11 +64,11 @@
 				<dl>
 
 				
-					<dd>
-						<b>WE LISTEN</b><br><br>For us it is essential to know exactly
+					<dd class="change">
+						<h6>WE LISTEN</h6><p>For us it is essential to know exactly
 						what is important to you. We ask a lot of questions, because the
 						more we know the better we can tailor bespoke marketing and design
-						solutions to your needs.
+						solutions to your needs.</p>
 					</dd>
 					
 					<dd>It &rsquo;s important to be both good looking & clever.
@@ -76,13 +76,13 @@
 
 
 					
-					<dd>
-						<b>BEAUTY IS NOT ENOUGH</b><br><br>We love beautiful things, but
+					<dd class="change">
+						<h6>BEAUTY IS NOT ENOUGH</h6><p>We love beautiful things, but
 						when it comes to design we keep it with one of Alfa Romeo's
 						claims: La belezza non basta-  Beauty is not enough! And we get
 						inspired by Sir Norman Foster's motto 'Form follows function'. For
 						us real beauty is not just a nice shell, it's as much internal as
-						it is external.
+						it is external.</p>
 					</dd>
 
 
@@ -95,28 +95,28 @@
 			<div class="large-4 columns related7 right">
 				<dl>
 					
-					<dd>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;s A
-						PASSION&rdquo;</dd>
+					<dd class="change"><h6>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;s A
+						PASSION&rdquo;</h6></dd>
 
 
 					
-					<dd>
-						<b>WHY WORK WITH US</b><br><br>"We enjoy the finer details of a
+					<dd class="change">
+						<h6>WHY WORK WITH US</h6><p>"We enjoy the finer details of a
 						project, considering every stage of its journey from planning to
 						completion. Our projects not only look great, they use the right
 						tools that work for you and with your success comes ours. We make
 						sure to apply the same level of thought, care and attention to
-						every project as if it were our own."
+						every project as if it were our own."</p>
 					</dd>
 
 
 
 		
 					<dd>
-						<b>WE ARE FLEXIBLE</b><br><br>Whether your dream is to conquer
+						<h6>WE ARE FLEXIBLE</h6><p>Whether your dream is to conquer
 						the world with a budget to match or your budget is more modest, we
 						always listen to your needs to come up with a solution that's
-						right for you - within your budget.
+						right for you - within your budget.</p>
 					</dd>
 				</dl>
 			</div>

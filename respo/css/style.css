@@ -783,14 +783,29 @@ footer div.social1 {
 	padding: 8px;
 }
 
-.about dd {
+.about dd{
 	padding: 16px;
 	margin: 9px;
 	background: white;
-	font-size: 11px;
+	font-size: 13px;
 	line-height: 20px;
-    text-align:justify;
-   font-family: 'Roboto Slab', serif;
+   color:rgb(167, 152, 152);
+   font-family:'armata sans-serif';
+}
+ 
+ 
+ .change{
+ color: #2599bd;
+ }
+ 
+ 
+ 
+   .about dd h6{
+   margin-bottom:7px;
+letter-spacing: 0px;
+line-height: 19px;
+color: #2599bd;
+   
  }
 
 .about dd:hover {
@@ -800,6 +815,10 @@ footer div.social1 {
 	-moz-box-shadow: 0px 0px 10px 6px rgba(119, 119, 119, 1);
 	-webkit-box-shadow: 0px 0px 10px 6px rgba(119, 119, 119, 1);
 	box-shadow: 0px 0px 10px 6px rgba(119, 119, 119, 1);
+}
+
+.change h6:hover{
+	color:white;
 }
 
 .about .large-4 {
