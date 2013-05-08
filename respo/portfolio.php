@@ -89,7 +89,7 @@
 <div class="view view-tenth viewheader">
 <img src="work/4.jpg">
 <div class="mask">
-<h3>VISTA <br>OCEANA</h3>
+<h3>VISTA OCEANA</h3>
 
 <a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
 </div>
