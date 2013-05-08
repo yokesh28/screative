@@ -101,7 +101,7 @@
 <div class="view view-tenth viewheader">
 <img src="work/5.jpg">
 <div class="mask">
-<p>ANAAMALAIS TOYOTA</p>
+<p>ANAAMALAIS<br> TOYOTA</p>
 
 <a class="info fancybox"  href="work/5.jpg" target="_blank">View</a>
 </div>

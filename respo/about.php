@@ -71,8 +71,8 @@
 						solutions to your needs.</p>
 					</dd>
 					
-					<dd>It &rsquo;s important to be both good looking & clever.
-						Let us explain. Everything we make looks good.</dd>
+					<dd class="change"><h6>IT &rsquo;S IMPORTANT TO BE BOTH GOOD LOOKING & CLEVER.
+						LET US EXPLAIN. EVERYTHING WE MAKE LOOKS GOOD.</h6></dd>
 
 
 					
