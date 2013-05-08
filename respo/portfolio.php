@@ -16,7 +16,7 @@
 <!--port-->
 
 <link href="css/main_2.css" rel="stylesheet" type="text/css" media="screen">
-<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:200' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="css/work.css" />
 
 <link rel="stylesheet" href="css/foundation.css" />
