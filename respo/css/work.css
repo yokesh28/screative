@@ -47,6 +47,11 @@ margin-top: 64px;
    position: relative;
    text-align: center;
    cursor: default;
+   -moz-box-shadow: 1px 2px 40px #1d81c9;
+-webkit-box-shadow: 1px 2px 40px #1d81c9;
+box-shadow: 1px 2px 40px #1d81c9;
+   
+   
 }
 .view .mask,.view .content {
    width: 285px;
