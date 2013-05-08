@@ -861,3 +861,40 @@ hr {
 .foot{
 	font-size:11px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 979px) { 
+
+
+.inner {
+width: 100%;
+max-width: 1440px;
+margin: 0px auto !important;
+text-align: center;
+display: block;
+margin-top: -58px;
+}
+
+.arbeid_grid li {
+display: inline-block;
+margin:0 !important;
+vertical-align: top;
+height: 200px;
+}
+
+}
