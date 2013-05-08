@@ -524,14 +524,17 @@ height:480px;
 
 .who h3 {
 	color: deepskyblue;
+font-family: 'Didact Gothic', sans-serif;
 }
 
 .the h3 {
 	color: dodgerblue;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 .useful h3 {
 	color: royalblue;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 
@@ -547,6 +550,7 @@ height:480px;
 
 .timee{
 	font-size: 12px;
+font-family: 'Didact Gothic', sans-serif;
 }
 
 .con .first,.first1 {
@@ -565,6 +569,7 @@ height:480px;
 .con h2 {
 	font-size: 15px;
 	color: white;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 
@@ -574,6 +579,7 @@ height:480px;
 	display: inline-block;
 	padding: 16px 3px;
 	color: #2C80C2;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 .con li img {
@@ -583,11 +589,13 @@ height:480px;
 .con p>span {
 	font-size: 12px;
 	font-weight: bolder;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 .con ul li {
 	list-style: none;
 	display: inline-block;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 
@@ -624,6 +632,7 @@ margin: 0px 40px;
 .ccf h2 {
 	font-size: 15px;
 	color: white;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 .ccf .columns {
@@ -663,6 +672,7 @@ margin: 0px 40px;
 .uc h2 {
 	font-size: 15px;
 	color: white;
+	font-family: 'Didact Gothic', sans-serif;
 }
 
 .uc .columns {
@@ -774,12 +784,14 @@ footer div.social1 {
 }
 
 .about dd {
-	padding: 10px;
+	padding: 20px;
 	margin: 9px;
 	background: white;
-	font-size: 13px;
-	line-height: 22px;
-}
+	font-size: 11px;
+	line-height: 20px;
+    text-align:justify;
+   font-family: 'Roboto Slab', serif;
+ }
 
 .about dd:hover {
 	background: #1D81C9;
