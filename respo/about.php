@@ -8,7 +8,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
 <title>Foundation 4</title>
-<link href='http://fonts.googleapis.com/css?family=Arbutus+Slab' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/normalize.css" />
 <!-- If you are using CSS version, add this -->
 <link rel="stylesheet" href="css/foundation.css" />
@@ -65,7 +65,7 @@
 
 				
 					<dd>
-						<b>WE LISTEN</b><br>For us it is essential to know exactly
+						<b>WE LISTEN</b><br><br>For us it is essential to know exactly
 						what is important to you. We ask a lot of questions, because the
 						more we know the better we can tailor bespoke marketing and design
 						solutions to your needs.
@@ -77,7 +77,7 @@
 
 					
 					<dd>
-						<b>BEAUTY IS NOT ENOUGH</b><br>We love beautiful things, but
+						<b>BEAUTY IS NOT ENOUGH</b><br><br>We love beautiful things, but
 						when it comes to design we keep it with one of Alfa Romeo's
 						claims: La belezza non basta-  Beauty is not enough! And we get
 						inspired by Sir Norman Foster's motto 'Form follows function'. For
@@ -101,7 +101,7 @@
 
 					
 					<dd>
-						<b>WHY WORK WITH US</b><br>"We enjoy the finer details of a
+						<b>WHY WORK WITH US</b><br><br>"We enjoy the finer details of a
 						project, considering every stage of its journey from planning to
 						completion. Our projects not only look great, they use the right
 						tools that work for you and with your success comes ours. We make
@@ -113,7 +113,7 @@
 
 		
 					<dd>
-						<b>WE ARE FLEXIBLE</b><br>Whether your dream is to conquer
+						<b>WE ARE FLEXIBLE</b><br><br>Whether your dream is to conquer
 						the world with a budget to match or your budget is more modest, we
 						always listen to your needs to come up with a solution that's
 						right for you - within your budget.

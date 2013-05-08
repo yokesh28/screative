@@ -8,7 +8,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
 <title>S-Creative | Contact Us</title>
-
+<link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/normalize.css" />
 <!-- If you are using CSS version, add this -->
 <link rel="stylesheet" href="css/foundation.css" />
