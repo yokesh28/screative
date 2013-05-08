@@ -212,9 +212,9 @@ style="display: none;">
 				<p> 3D Video</p></li>
 				 <li><img src="seimages/19.png" height="31px" width="28px">
 				 <p> Virtual Tours </p></li>
-				 <li><img src="seimages/14.png" height="31px" width="28px" >
+				 <li><img src="seimages/14.png" height="27px" width="28px" >
 				  <p> Infographics </p> </li>
-				  <li ><img class="scc" src="seimages/16.png" height="30px" width="28px">
+				  <li ><img class="scc" src="seimages/16.png" height="31px" width="28px">
 				<p>Corporate Stands</p></li>
 				<li><img src="seimages/17.png" height="31px" width="28px">
 				<p> Product Model </p></li>

@@ -24,7 +24,7 @@
 }
  .view-tenth h3{
 	
-	font-size: 1.62em;
+	font-size: 1.0em;
 	color: white;
 	margin-right: 70px;
 margin-top: 70px;
@@ -32,10 +32,10 @@ margin-top: 70px;
 }
 .viewheader h3{
 	
-	font-size: 1.62em;
+	font-size: 1.0em;
 color: white;
 margin-right: 70px;
-margin-top: 40px;
+margin-top: 64px;
 }
 	
 
@@ -65,12 +65,13 @@ margin-top: 40px;
 .view a.info {
    display: inline-block;
    text-decoration: none;
-   padding: 2px 60px;
+   padding: 2px 16px;
 color: #000;
 text-transform: uppercase;
 background-color: #fff;
 margin-right: 85px;
 margin-top: 30px;
+font-size: 12px;
 }
 
 

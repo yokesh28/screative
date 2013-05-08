@@ -274,7 +274,7 @@ white
 }
 
 .align p {
-	font-size: 12px;
+	font-size: 11px;
 	text-align: justify;
 }
 
@@ -290,9 +290,9 @@ white
 
 .listing1 img {
 	list-style: none;
-	width: 28px;
+	width: 26px;
 	float: left;
-	margin: 0 13px;
+	margin: 0 15px;
 }
 
 .listing1 li {
