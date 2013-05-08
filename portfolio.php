@@ -1,77 +1,160 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
 
-<!doctype html>
-<!--[if lt IE 7 ]> <html lang="en" class="ie6 oldie no-js"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="en" class="ie7 oldie no-js"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en" class="ie8 oldie no-js"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en" class="ie9 no-js"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<html lang="en" class="no-js">
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
 <!--<![endif]-->
 
-<head>  
-	<title>Avacari | jQuery Scripts | jQuery Gallery | jQuery Portfolio Gallery | FancyFolio</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="description" content="">
-	<link rel="stylesheet" type="text/css" href="/stylesheets/styles.css">
-	<link rel="stylesheet" type="text/css" href="/stylesheets/tan-pink.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="/scripts/searchranking.css">
-    
-	<script type="text/javascript" src="/javascripts/jquery.js"></script>
-	<script type="text/javascript" src="/javascripts/site.js"></script>
-	<script type="text/javascript" src="/javascripts/demo.js"></script>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Portfolio</title>
 
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<link rel="stylesheet" href="css/normalize.css" />
+<!-- If you are using CSS version, add this -->
 
-    <link rel="stylesheet" type="text/css" href="fancyfolio.css">
-    <script type="text/javascript" src="fancyfolio.js"></script>
-    
-    <script type="text/javascript">
-    $(document).ready(function() {
-        $('#fancyfolio').fancyfolio({
-			titleSlidePaddingTop: 7,
-			titleSlideHeight: 23	
-		});
-    });
-    </script>
+<!--port-->
+
+<link href="css/main_2.css" rel="stylesheet" type="text/css" media="screen">
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="css/work.css" />
+
+<link rel="stylesheet" href="css/foundation.css" />
+<link rel="stylesheet" href="css/foundation.min.css" />
+<link rel="stylesheet" href="css/app.css" />
+<link rel="stylesheet" href="css/style.css" />
+<script src="js/vendor/custom.modernizr.js"></script>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+
+
+
 </head>
 <body>
-	
-<div id="page">
-				
-		<div class="top"></div>
-		<div class="content">
-					
-                    <div class="header page">
-						<h1>jQuery FancyFolio Gallery Portfolio</h1>
-					</div>
 
-			<div id="about" class="padding">
-                 
-            	<p>Below you will find an example of our <b>jQuery FancyFolio Gallery Portfolio</b>. Before you will be able to use the slideshow you must first purchase it from <a href="http://codecanyon.net/item/fancyfolio-jquery-portfolio-gallery/1595481" target="_blank">codecanyon</a>. You can see an example of the script below. It is currently on sale for just <strong>$5</strong> and CodeCanyon is the only place you can currently purchase this item.</p>
-    
-    <h3>Example</h3>
-    
-<div id="fancyfolio" style="height: 580px;">
-        <ul>
-            <li style="position: absolute; top: 0px; left: 0px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 1</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/1.jpg" title="Image 1"></a></li>
-            <li style="position: absolute; top: 0px; left: 304px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 2</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/2.jpg" title="Image 2"></a></li>
-            <li class="last" style="position: absolute; top: 0px; left: 609px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 3</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/3.jpg" title="Image 3"></a></li>
-            <li style="position: absolute; top: 194px; left: 0px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 4</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/4.jpg" title="Image 4"></a></li>
-            <li style="position: absolute; top: 194px; left: 304px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 5</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/5.jpg" title="Image 5"></a></li>
-            <li class="last" style="position: absolute; top: 194px; left: 609px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 6</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/6.jpg" title="Image 6"></a></li>
-            <li style="position: absolute; top: 387px; left: 0px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 7</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/7.jpg" title="Image 7"></a></li>
-            <li style="position: absolute; top: 387px; left: 304px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 8</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/8.jpg" title="Image 8"></a></li>
-            <li class="last" style="position: absolute; top: 387px; left: 609px;"><span style="padding: 7px 0px 0px 10px; height: 23px; bottom: -30px;" class="ff_left">Image 9</span><span class="ff_close"></span><span class="ff_right" style="padding: 5px 10px 0px 0px; height: 23px;"><a href="http://www.google.co.uk" target="_blank">Link Text</a></span><a href="http://www.google.co.uk" title="Link Text"><img src="images/ff/9.jpg" title="Image 9"></a></li>
-        </ul>
-        
-        <div style="clear: both;"></div>
-    </div>
-		    <div class="clear"></div>
-             
-			</div>
+	<!-- body content here -->
+	<!-- header -->
+
+	<?php  include('header.php')?>
+	<div class="row about">
+		
+		<div class="row background_image">
+		
 			
-		</div>
-		<div class="bottom"></div>
+			
+			
+			
+			<section id="arbeid">
+
+	<div class="inner">
+  
+    
+<br>
+	<ul id="arbeid_grid" class="arbeid_grid">
+	
+<li>
+<div class="view view-tenth">
+<img src="work/1.jpg">
+<div class="mask">
+<p>MMRF</p>
+
+<a href="http://mmrf.in/" class="info" target="_blank">View</a>
+</div>
+</div>
+</li>
+
+<li>
+<div class="view view-tenth">
+<img src="work/2.jpg">
+<div class="mask">
+<p>ARYA</p>
+
+<a href="http://aryaoffset.com/" class="info" target="_blank">View</a>
+</div>
+</div>
+</li>
+
+<li>
+<div class="view view-tenth">
+<img src="work/3.jpg">
+<div class="mask">
+<p>SAI ENCLAVE</p>
+
+<a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
+</div>
+</div>
+</li>
+
+<li>
+<div class="view view-tenth viewheader">
+<img src="work/4.jpg">
+<div class="mask">
+<p>VISTA OCEANA</p>
+
+<a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
+</div>
+</div>
+</li>
+
+
+<li>
+<div class="view view-tenth viewheader">
+<img src="work/5.jpg">
+<div class="mask">
+<p>ANAAMALAIS TOYOTA</p>
+
+<a class="info fancybox"  href="work/5.jpg" target="_blank">View</a>
+</div>
+</div>
+</li>
+
+
+
+
+
+
+
+
+</ul>
+
+</div>
+
+  </section>
+
+
+
+			
+			
+			
+
+</div>
 	</div>
+<?php include('footer.php'); ?>
+	<script>
+		document.write('<script src='
+				+ ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery')
+				+ '.js><\/script>')
+	</script>
+	<script src="js/foundation/foundation.js"></script>
+	<script src="js/foundation/foundation.alerts.js"></script>
+	<script src="js/foundation/foundation.clearing.js"></script>
+	<script src="js/foundation/foundation.cookie.js"></script>
+	<script src="js/foundation/foundation.dropdown.js"></script>
+	<script src="js/foundation/foundation.forms.js"></script>
+	<script src="js/foundation/foundation.joyride.js"></script>
+	<script src="js/foundation/foundation.magellan.js"></script>
+	<script src="js/foundation/foundation.orbit.js"></script>
+	<script src="js/foundation/foundation.placeholder.js"></script>
+	<script src="js/foundation/foundation.reveal.js"></script>
+	<script src="js/foundation/foundation.section.js"></script>
+	<script src="js/foundation/foundation.tooltips.js"></script>
+	<script src="js/foundation/foundation.topbar.js"></script>
+	<script>
+		$(document).foundation();
+	</script>
+	
+	
 </body>
+
+
 </html>
