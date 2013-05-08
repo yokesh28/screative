@@ -43,7 +43,7 @@
 
 .arbeid_grid li {
 	display: inline-block;
-	margin: -49px -4px;
+	margin: -49px 1px;
 	vertical-align: top;
 	height: 200px;
 }
