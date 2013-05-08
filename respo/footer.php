@@ -1,6 +1,6 @@
 	<footer class="row">
 
-		<div class="large-4 columns social1">Copyright © 2011.
+		<div class="large-4 columns social1 foot">Copyright © 2011.
 			S-Creative. All Rights Reserved</div>
 		<div class="right social1">
 

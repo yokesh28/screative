@@ -78,10 +78,10 @@
 					
 					<dd>
 						<b>BEAUTY IS NOT ENOUGH</b><br>We love beautiful things, but
-						when it comes to design we keep it with one of Alfa Romeoâ€™s
-						claims: La belezza non bastaâ€™ â€“ Beauty is not enough! And we get
-						inspired by Sir Norman Fosterâ€™s motto â€˜Form follows functionâ€™. For
-						us real beauty is not just a nice shell, itâ€™s as much internal as
+						when it comes to design we keep it with one of Alfa Romeo's
+						claims: La belezza non basta-  Beauty is not enough! And we get
+						inspired by Sir Norman Foster's motto 'Form follows function'. For
+						us real beauty is not just a nice shell, it's as much internal as
 						it is external.
 					</dd>
 
@@ -101,12 +101,12 @@
 
 					
 					<dd>
-						<b>WHY WORK WITH US</b><br>â€œWe enjoy the finer details of a
+						<b>WHY WORK WITH US</b><br>"We enjoy the finer details of a
 						project, considering every stage of its journey from planning to
 						completion. Our projects not only look great, they use the right
 						tools that work for you and with your success comes ours. We make
 						sure to apply the same level of thought, care and attention to
-						every project as if it were our own.â€�
+						every project as if it were our own."
 					</dd>
 
 
@@ -115,7 +115,7 @@
 					<dd>
 						<b>WE ARE FLEXIBLE</b><br>Whether your dream is to conquer
 						the world with a budget to match or your budget is more modest, we
-						always listen to your needs to come up with a solution thatâ€™s
+						always listen to your needs to come up with a solution that's
 						right for you - within your budget.
 					</dd>
 				</dl>

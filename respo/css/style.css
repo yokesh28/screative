@@ -31,8 +31,6 @@
 
 
 
-
-
 .align li {
 	margin: 10px;
 }
@@ -845,4 +843,9 @@ hr {
 
 #whoandwhere,#contactform,#usefulcontacts {
 	display: none;
+}
+
+
+.foot{
+	font-size:11px;
 }

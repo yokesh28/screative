@@ -36,11 +36,15 @@
 		<div class="large-2 columns service">
 			<h4>Services</h4>
 			<p>
-				<b>iF</b> es un estudio creativo dedicado a la publicidad
-				corporativa estrategica y la conceptualizacion interactiva,
-				integrada al desarrollo digital. </br> </br> Nuestros servicios
-				proveen una solucion eficaz para el posicionamiento de marca.
-			</p>
+			
+
+						<b> S- Creative</b> is a creative studio dedicated to strategic
+						corporate advertising and interactive conceptualization,
+						integrated digital development.<br> <br> Our services provide an
+						effective solution for brand positioning.
+
+
+					</p>
 			<ul class="listing">
 
 
