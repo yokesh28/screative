@@ -22,20 +22,22 @@
    filter: alpha(opacity=0);
    opacity: 0;
 }
- .view-tenth h3{
+ .view-tenth p{
 	
 	font-size: 1.0em;
 	color: white;
 	margin-right: 70px;
 margin-top: 70px;
+font-family: 'Source Code Pro', sans-serif;
 	
 }
-.viewheader h3{
+.viewheader p{
 	
 	font-size: 1.0em;
 color: white;
 margin-right: 70px;
 margin-top: 64px;
+font-family: 'Source Code Pro', sans-serif;
 }
 	
 

@@ -16,7 +16,7 @@
 <!--port-->
 
 <link href="css/main_2.css" rel="stylesheet" type="text/css" media="screen">
-
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="css/work.css" />
 
 <link rel="stylesheet" href="css/foundation.css" />
@@ -56,7 +56,7 @@
 <div class="view view-tenth">
 <img src="work/1.jpg">
 <div class="mask">
-<h3>MMRF</h3>
+<p>MMRF</p>
 
 <a href="http://mmrf.in/" class="info" target="_blank">View</a>
 </div>
@@ -67,7 +67,7 @@
 <div class="view view-tenth">
 <img src="work/2.jpg">
 <div class="mask">
-<h3>ARYA</h3>
+<p>ARYA</p>
 
 <a href="http://aryaoffset.com/" class="info" target="_blank">View</a>
 </div>
@@ -78,7 +78,7 @@
 <div class="view view-tenth">
 <img src="work/3.jpg">
 <div class="mask">
-<h3>SAI ENCLAVE</h3>
+<p>SAI ENCLAVE</p>
 
 <a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
 </div>
@@ -89,7 +89,7 @@
 <div class="view view-tenth viewheader">
 <img src="work/4.jpg">
 <div class="mask">
-<h3>VISTA OCEANA</h3>
+<p>VISTA OCEANA</p>
 
 <a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
 </div>
@@ -101,7 +101,7 @@
 <div class="view view-tenth viewheader">
 <img src="work/5.jpg">
 <div class="mask">
-<h3>ANAAMALAIS TOYOTA</h3>
+<p>ANAAMALAIS TOYOTA</p>
 
 <a class="info fancybox"  href="work/5.jpg" target="_blank">View</a>
 </div>
