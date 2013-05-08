@@ -100,7 +100,7 @@
 			
 			// preload images
 			// add loading status
-			this.$loading		= $('<div class="ei-slider-loading"><b>Cargando datos de iF</b></br>Por favor espere...</div>').prependTo( _self.$el );
+			this.$loading		= $('<div class="ei-slider-loading"></div>').prependTo( _self.$el );
 			
 			$.when( this._preloadImages() ).done( function() {
 				
