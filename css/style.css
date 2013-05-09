@@ -823,7 +823,7 @@ hr {
 }
 
 .borderr li:last-child {
-	border-bottom: none;
+	border-bottom: none !important;
 }
 
 .service {
@@ -864,17 +864,25 @@ hr {
 
 
 
+.btn{
+	background-color: deepskyblue !important;
+	float:right;
+	margin: 7px 0px;
+	
+}
 
 
 
 
+.about h6{
+	margin-bottom:7px;
+	color:#2599bd;
+}
 
 
-
-
-
-
-
+.about h6:hover{
+	color:white;
+}
 
 
 

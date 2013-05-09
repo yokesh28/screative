@@ -113,12 +113,15 @@
 								<li class="large-12 columns small-12"><span class="large-10 ">Email</span>
 									<input type="text" name="email"></li>
 
-								<li class="large-12 columns small-12"><span class="large-10 ">Post
+								<li class="large-12 columns small-12 space"><span class="large-10 ">Post
 										Enquiry</span> <input type="post" cols="25" rows="10" name="enquiry"> </input>
 										<span id="response" style="color: black"></span>
 								</li>
-
-							</ul>
+ </ul>
+ 
+                                       <input class="btn" type="submit" value="Submit">
+ 
+							
 						</form>
 					</div>
 
