@@ -468,7 +468,7 @@ height:480px;
 }
 
 .first {
-	background-color: deepskyblue;
+	background-color:#1D81C9;
 	color: white;
 }
 
@@ -523,17 +523,17 @@ height:480px;
 }
 
 .who h3 {
-	color: deepskyblue;
+	color: #1D81C9;
 font-family: 'Didact Gothic', sans-serif;
 }
 
 .the h3 {
-	color: deepskyblue;
+	color: #1D81C9;
 	font-family: 'Didact Gothic', sans-serif;
 }
 
 .useful h3 {
-	color: deepskyblue;
+	color:#1D81C9;
 	font-family: 'Didact Gothic', sans-serif;
 }
 
@@ -644,7 +644,7 @@ margin: 0px 40px;
 	margin: 0px;
 	display: inline-block;
 	padding: 16px 3px;
-	color: deepskyblue;
+	color: #1D81C9;
 }
 
 .ccf li img {
@@ -823,7 +823,7 @@ hr {
 }
 
 .borderr li {
-	border-bottom: 1px solid deepskyblue;
+	border-bottom: 1px solid #1D81C9;
 }
 
 .borderr li:last-child {
@@ -869,7 +869,7 @@ hr {
 
 
 .btn{
-	background-color: deepskyblue !important;
+	background-color: #1D81C9 !important;
 	float:right;
 	margin: 7px 0px;
 	
