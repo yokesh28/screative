@@ -808,7 +808,12 @@ footer div.social1 {
 }
 .about p{
 	margin-bottom: 7px;
-	color: 2e68a0;
+	color: #1D81C9;
+	font-weight: bold;
+}
+.about p:HOVER{
+	
+	color:white;
 }
 
 hr {
