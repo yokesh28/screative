@@ -7,7 +7,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
-<title>s-creative|about us</title>
+<title>About Us</title>
 <link rel="shortcut icon" type="images/x-icon" href="images/favicon.ico">
 
 <link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>

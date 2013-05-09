@@ -8,9 +8,10 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
 <title>S_CREATIVE</title>
-<link rel="shortcut icon" type="images/x-icon" href="images/favicon.ico">
 
 <link rel="stylesheet" href="css/normalize.css" />
+<link rel="shortcut icon" type="images/x-icon" href="images/favicon.ico">
+
 <!-- If you are using CSS version, add this -->
 <link rel="stylesheet" href="css/foundation.css" />
 <link rel="stylesheet" href="css/foundation.min.css" />

@@ -43,95 +43,8 @@ img {
 }
 
 
-nav {
-	position: absolute;
-	top: 35%;
-}
 
-nav a {
-	position: relative;
-	display: inline-block !important;
-	width: 88px;
-	height: 35px;
-	margin: 0px 0px 7px 27px;
-	padding: 1px 0px 1px 59px;
-	background-color: #ffba00;
-	border-top: 1px solid #ffc200;
-	cursor: pointer;
-	font: 700 15px Helvetica, Arial, Clean, sans-serif;
-	text-align: left;
-	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.7);
-	font-weight: bold;
-	font-size: 14px;
-	color: #222;
-	text-decoration: none;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
-	-webkit-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
-	-moz-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
-	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .3);
-	transition: background-position .2s ease, margin .1s ease;
-	-webkit-transition: background-position .2s ease, margin .1s ease;
-	-moz-transition: background-position .2s ease, margin .1s ease;
-}
 
-nav a small {
-	color: #555;
-	font-size: 11px;
-	font-weight: normal;
-}
-
-nav a span {
-	position: absolute;
-	width: 29px;
-	height: 29px;
-	top: 5px;
-	left: 11px;
-}
-
-nav a span.icon1 {
-	background: url(../../img/ui/iconHome.png) no-repeat center;
-}
-
-nav a span.icon2 {
-	background: url(../../img/ui/iconWeare.png) no-repeat center;
-}
-
-nav a span.icon3 {
-	background: url(../../img/ui/iconPortfolio.png) no-repeat center;
-}
-
-nav a span.icon4 {
-	background: url(../../img/ui/iconClients.png) no-repeat center;
-}
-
-nav a span.icon5 {
-	background: url(../../img/ui/iconHello.png) no-repeat center;
-}
-
-nav a:active {
-	border: 1px solid #ffc200;
-}
-/*nav a:active { -webkit-bo3-shadow: -1px -1px 1px 0 rgba(0,0,0,.3); -moz-box-shadow: -1px -1px 1px 0 rgba(0,0,0,.3); box-shadow: -1px -1px 1px 0 rgba(0,0,0,.3); margin: 2px 0 5px 25px;}*/
-nav a:hover {
-	border: 1px solid #fff;
-}
-
-nav a.selected {
-	border: 2px solid #fff;
-	color: #fff;
-	text-shadow: #888 1px 1px 1px;
-}
-
-nav a span.bar {
-	width: 1px;
-	height: 29px;
-	position: absolute;
-	background: #222;
-	top: 3px;
-	left: 50px;
-}
 
 h1 {
 	color: white;
@@ -289,12 +202,6 @@ input:focus,textarea:focus {
 	font-size: 14px;
 }
 
-.ei-slider-large {
-	height: 100%;
-	width: 100%;
-	overflow:hidden;
-	
-}
 
 .ei-slider-large li {
 	position: absolute;
@@ -303,13 +210,6 @@ input:focus,textarea:focus {
       
 	overflow:hidden;
 }
-
-.ei-slider-large li img {
-	width: 100%;
-}
-
-
-
 
 
 .ei-slider-thumbs {
