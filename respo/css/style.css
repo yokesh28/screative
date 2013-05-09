@@ -789,13 +789,16 @@ footer div.social1 {
 	background: white;
 	font-size: 13px;
 	line-height: 20px;
-   color:rgb(167, 152, 152);
+   color:rgb(87, 77, 77);
    font-family:'armata sans-serif';
 }
  
  
- .change{
- color: #2599bd;
+ .about dd h6{
+ color: white;
+
+
+cursor: pointer;
  }
  
  
@@ -841,6 +844,11 @@ hr {
 	border-bottom: 1px solid #1C87D7;
 }
 
+.childd {
+	border-bottom:none !important;
+}
+
+
 .borderr li:last-child {
 	border-bottom: none;
 }
@@ -883,7 +891,12 @@ hr {
 
 
 
-
+.btn{
+	background-color:deepskyblue !important;
+margin: 16px 10px ;
+float: right;
+}
+}
 
 
 

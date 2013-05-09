@@ -112,7 +112,7 @@
 
 
 		
-					<dd>
+					<dd class="change">
 						<h6>WE ARE FLEXIBLE</h6><p>Whether your dream is to conquer
 						the world with a budget to match or your budget is more modest, we
 						always listen to your needs to come up with a solution that's

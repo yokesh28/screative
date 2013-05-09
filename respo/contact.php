@@ -110,10 +110,11 @@
 								<li class="large-12 columns small-12"><span class="large-10 ">Email</span>
 									<input type="text" name="email"></li>
 
-								<li class="large-12 columns small-12"><span class="large-10 ">Post
+								<li class="large-12 columns small-12 childd"><span class="large-10 ">Post
 										Enquiry</span> <input type="post" cols="25" rows="10"> </input>
 								</li>
 
+								 <input type="submit" name="submit" class="btn" value="Submit">
 							</ul>
 						</form>
 					</div>
