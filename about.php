@@ -34,18 +34,18 @@
 					
 					<dd>We create interactivity for web and the physical world.
 						From experiential storytelling projects to digital services to
-						physical-digital contraptions &#45;we do it all. our goal has been
+						physical-digital contraptions.we do it all. our goal has been
 						to use digital technology to create experiences with a deeper
 						impact.Our teams are made up of multi-talented creatives,
 						technologist and producers, passionately curious about using
-						technology in new ways. We love doing things that haven &rsquo;t
+						technology in new ways. We love doing things that haven&rsquo;t
 						been done before and we can offer a unique way to bridge the gap
 						between content and technology, between narrative and interactive
 						experience.</dd>
 
 
 					
-					<dd>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;s A
+					<dd>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;S A
 						PASSION&rdquo;</dd>
 
 					
@@ -73,7 +73,7 @@
 						solutions to your needs.
 					</dd>
 					
-					<dd><h6>IT &rsquo;s IMPORTANT TO BE BOTH GOOD LOOKING & CLEVER.
+					<dd><h6>IT &rsquo;S IMPORTANT TO BE BOTH GOOD LOOKING & CLEVER.
 						LET US EXPLAIN.EVERYTHING WE MAKE LOOKS GOOD.</h6></dd>
 
 
@@ -97,7 +97,7 @@
 			<div class="large-4 columns related7 right">
 				<dl>
 					
-					<dd><h6>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;s A
+					<dd><h6>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;S A
 						PASSION&rdquo;</h6></dd>
 
 
