@@ -810,7 +810,7 @@ footer div.social1 {
 hr {
 	border-width: 4px;
 	margin-left: 28px;
-	border-color: #1D81C9;
+	border-color: #2E68A0;
 }
 
 .alignn {
@@ -876,15 +876,18 @@ hr {
 
 .about h6{
 	margin-bottom:7px;
-	color:#2599bd;
+	color:#2e68a0;
 }
+
+
 
 
 .about h6:hover{
-	color:white;
+	
+	background: #1D81C9;
+	color:black;
+	cursor: pointer;
 }
-
-
 
 @media (min-width: 768px) and (max-width: 979px) { 
 

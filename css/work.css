@@ -12,7 +12,7 @@
    transition: all 0.7s ease-in-out;
 }
 .view-tenth .mask {
-   background-color: #207EC9;
+   background-color: #2E68A0;
    -webkit-transition: all 0.5s linear;
    -moz-transition: all 0.5s linear;
    -o-transition: all 0.5s linear;
@@ -61,9 +61,9 @@ font-family: 'Source Code Pro', sans-serif;
    position: relative;
    text-align: center;
    cursor: default;
-  -moz-box-shadow: 1px 2px 11px #1d81c9;
--webkit-box-shadow: 1px 2px 11px #1d81c9;
-box-shadow: 1px 2px 11px #1d81c9;
+  -moz-box-shadow: 1px 2px 11px #2E68A0;
+-webkit-box-shadow: 1px 2px 11px #2E68A0;
+box-shadow: 1px 2px 11px #2E68A0;
    
    
 }
