@@ -8,7 +8,8 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width" />
-<title>Portfolio</title>
+<title>s-creative|Portfolio</title>
+<link rel="shortcut icon" type="images/x-icon" href="images/favicon.ico">
 
 <link rel="stylesheet" href="css/normalize.css" />
 <!-- If you are using CSS version, add this -->
