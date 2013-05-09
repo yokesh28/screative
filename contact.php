@@ -115,11 +115,11 @@
 
 								<li class="large-12 columns small-12 space"><span class="large-10 ">Post
 										Enquiry</span> <input type="post" cols="25" rows="10" name="enquiry"> </input>
-										<span id="response" style="color: black"></span>
+										
 								</li>
  </ul>
  
-                                       <input class="btn" type="submit" value="Submit">
+                                       <input class="btn" type="submit" value="Submit"><span id="response" style="color: black"></span>
  
 							
 						</form>
@@ -213,7 +213,23 @@ if (contactname==null || contactname=="")
   alert(" Name must be filled out");
   return false;
   }
+else if (contactmobile==null || contactmobile=="")
+{
+	 alert("MobileNo must be filled out");
+	 return false;
+}       
 
+else if(isNaN(contactmobile)|| contactmobile.indexOf(" ")!=-1)
+{
+        			alert("Enter numeric value");
+		return false;
+          }
+else if (contactmobile.length > 10 || contactmobile.length < 10 )
+		{
+          			alert("enter 10 characters"); 
+			return false;
+    			 }
+  
 
 
 else if (atpos<1 || dotpos<atpos+2 || dotpos+2>=contactemail.length)
@@ -223,22 +239,6 @@ else if (atpos<1 || dotpos<atpos+2 || dotpos+2>=contactemail.length)
 	  }
 
   
-else if (contactmobile==null || contactmobile=="")
- {
-	 alert("MobileNo must be filled out");
-	 return false;
- }       
-
-else if(isNaN(contactmobile)|| contactmobile.indexOf(" ")!=-1)
-{
-         			alert("Enter numeric value");
-		return false;
-           }
-else if (contactmobile.length > 10 || contactmobile.length < 10 )
-		{
-           			alert("enter 10 characters"); 
-			return false;
-     			 }
 
 
 	  

@@ -13,7 +13,7 @@ $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 $message = '<html><body>';
 	
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
-$message .= "<tr style='background: #eee;'><td><strong>Name:</strong> </td><td>" . strip_tags($_REQUEST['name']) . "</td></tr>";
+$message .= "<tr style='background: #eee;'><td><strong>Name:</strong> </td><td>" . strip_tags($_REQUEST['fname']) . "</td></tr>";
 $message .= "<tr><td><strong>Email:</strong> </td><td>" . strip_tags($_REQUEST['email']) . "</td></tr>";
 $message .= "<tr><td><strong>Mobile:</strong> </td><td>" . strip_tags($_REQUEST['mobile']) . "</td></tr>";
 $message .= "<tr><td><strong>Enquiry:</strong> </td><td>" . strip_tags($_REQUEST['enquiry']) . "</td></tr>";
