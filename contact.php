@@ -53,7 +53,7 @@
 				<div
 					class="large-3 columns large-offset-1 small-offset-1 row small-10 ww">
 					<div class="first row">
-						<img class="lastimg " src="conimages/111.png">
+						<img class="lastimg " src="conimages/conimages.png">
 						<h2 class="large-12 small-12">First time here?</h2>
 						<p class="large-12 small-12 timee">See how easy it is to contact us and
 							how soon can you get here!</p>
@@ -88,7 +88,7 @@
 				<div
 					class="large-3 columns large-offset-5 small-offset-1 row small-10 cf">
 					<div class="first row">
-						<img class="lastimg" src="conimages/111.png">
+						<img class="lastimg" src="conimages/conimages.png">
 						<h2 class="large-12 small-12">Send us a message
 						
 						<p class="large-12 small-12 timee">
@@ -136,7 +136,7 @@
 				<div
 					class="large-3 columns large-offset-9 small-offset-1 row small-10 uc">
 					<div class="first row">
-						<img class="lastimg " src="conimages/111.png">
+						<img class="lastimg " src="conimages/conimages.png">
 						<h2 class="large-12 small-12">Do you have bussiness to attend to?</h2>
 						<p class="large-12 small-12 timee">Contact with someone who will be able
 							to immediately talk about the facts!</p>
