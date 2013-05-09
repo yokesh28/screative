@@ -97,7 +97,8 @@
 					<div class="first1 row borderr">
 
 
-						<form method="post" action="">
+						<form name="contactus" id="contactus_form"
+						onSubmit="return validateForm();">
 							<ul>
 								<li class="large-12 columns small-12 "><span class="large-10 ">Name
 								</span> <input type="text" name="fname">
@@ -111,7 +112,8 @@
 									<input type="text" name="email"></li>
 
 								<li class="large-12 columns small-12"><span class="large-10 ">Post
-										Enquiry</span> <input type="post" cols="25" rows="10"> </input>
+										Enquiry</span> <input type="post" cols="25" rows="10" name="enquiry"> </input>
+										<span id="response" style="color: black"></span>
 								</li>
 
 							</ul>
@@ -188,6 +190,78 @@ $('.useful').click(function(){
 
 
 </script>
+	
+<script type="text/javascript">
+function validateForm()
+{
+
+var contactname=document.forms["contactus"]["fname"].value;
+
+var contactmobile=document.forms["contactus"]["mobile"].value;
+
+var contactemail=document.forms["contactus"]["email"].value;
+var atpos=contactemail.indexOf("@");
+var dotpos=contactemail.lastIndexOf(".");
+
+if (contactname==null || contactname=="")
+  {
+  alert(" Name must be filled out");
+  return false;
+  }
+
+
+
+else if (atpos<1 || dotpos<atpos+2 || dotpos+2>=contactemail.length)
+{
+	  alert("Not a valid e-mail address");
+	  return false;
+	  }
+
+  
+else if (contactmobile==null || contactmobile=="")
+ {
+	 alert("MobileNo must be filled out");
+	 return false;
+ }       
+
+else if(isNaN(contactmobile)|| contactmobile.indexOf(" ")!=-1)
+{
+         			alert("Enter numeric value");
+		return false;
+           }
+else if (contactmobile.length > 10 || contactmobile.length < 10 )
+		{
+           			alert("enter 10 characters"); 
+			return false;
+     			 }
+
+
+	  
+  
+$.ajax({
+	type : "post",
+	url : "mail.php",
+	cache : false,
+	data : $('#contactus_form').serialize(),
+	success : function(json) {
+			$('#response').html(json);
+		
+
+	
+	},
+	
+});
+
+return false;
+}
+</script>
+
+	
+	
+	
+	
+	
+	
 	<script>
 		document.write('<script src='
 				+ ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery')
