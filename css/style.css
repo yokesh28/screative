@@ -806,6 +806,10 @@ footer div.social1 {
 	margin: 0px;
 	padding: 0px;
 }
+.about p{
+	margin-bottom: 7px;
+	color: 2e68a0;
+}
 
 hr {
 	border-width: 4px;
