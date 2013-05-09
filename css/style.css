@@ -100,7 +100,7 @@ white
 ;
 }
 .top-bar-section li a:hover {
-	color: #1F7FC7;
+	color:#2E68A0;
 }
 
 .top-bar {
@@ -528,12 +528,12 @@ font-family: 'Didact Gothic', sans-serif;
 }
 
 .the h3 {
-	color: dodgerblue;
+	color: deepskyblue;
 	font-family: 'Didact Gothic', sans-serif;
 }
 
 .useful h3 {
-	color: royalblue;
+	color: deepskyblue;
 	font-family: 'Didact Gothic', sans-serif;
 }
 
@@ -876,7 +876,7 @@ hr {
 
 .about h6{
 	margin-bottom:7px;
-	color:#2599bd;
+	color:#2E68A0;
 }
 
 
