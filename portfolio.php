@@ -93,7 +93,7 @@
 <div class="mask">
 <p>VISTA OCEANA</p>
 
-<a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
+<a href="http://mmrf.in/vistaoceana/" class="info" target="_blank">View</a>
 </div>
 </div>
 </li>
