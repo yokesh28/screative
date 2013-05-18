@@ -64,7 +64,7 @@ font-family: 'Source Code Pro', sans-serif;
   -moz-box-shadow: 1px 2px 11px #2E68A0;
 -webkit-box-shadow: 1px 2px 11px #2E68A0;
 box-shadow: 1px 2px 11px #2E68A0;
-   
+   background: white;
    
 }
 .view .mask,.view .content {

@@ -20,16 +20,16 @@
 <link href="css/main_2.css" rel="stylesheet" type="text/css" media="screen">
 <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="css/work.css" />
-
+<link rel="stylesheet" href="css/lightbox.css" />
 <link rel="stylesheet" href="css/foundation.css" />
 <link rel="stylesheet" href="css/foundation.min.css" />
 <link rel="stylesheet" href="css/app.css" />
 <link rel="stylesheet" href="css/style.css" />
 <script src="js/vendor/custom.modernizr.js"></script>
-<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-
-
-
+<script src="js/jquery-1.7.2.min.js"></script>
+<script src="js/jquery.smooth-scroll.min.js"></script>
+<script src="js/lightbox.js"></script>
+<script src="js/jquery-ui-1.8.18.custom.min.js"></script>
 
 </head>
 <body>
@@ -56,44 +56,62 @@
 	
 <li>
 <div class="view view-tenth">
-<img src="work/1.jpg">
+<img src="work/mmrf.png">
 <div class="mask">
 <p>MMRF</p>
 
-<a href="http://mmrf.in/" class="info" target="_blank">View</a>
+
+
+<a  href="work/mmrf.png" rel="lightbox" > <img
+								src="work/mmrf.png" 
+								class="img-polaroid">View
+						</a>
+
+
 </div>
 </div>
 </li>
 
 <li>
 <div class="view view-tenth">
-<img src="work/2.jpg">
+<img src="work/arya.png">
 <div class="mask">
 <p>ARYA</p>
 
-<a href="http://aryaoffset.com/" class="info" target="_blank">View</a>
+<a  href="work/arya.png" rel="lightbox" > <img
+								src="work/arya.png" 
+								class="img-polaroid">View
+						</a>
+
 </div>
 </div>
 </li>
 
 <li>
 <div class="view view-tenth">
-<img src="work/3.jpg">
+<img src="work/sai.png">
 <div class="mask">
 <p>SAI ENCLAVE</p>
 
-<a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
+<a  href="work/sai.png" rel="lightbox" > <img
+								src="work/sai.png" 
+								class="img-polaroid">View
+						</a>
 </div>
 </div>
 </li>
 
 <li>
 <div class="view view-tenth viewheader">
-<img src="work/4.jpg">
+<img src="work/vista.png">
 <div class="mask">
 <p>VISTA OCEANA</p>
 
-<a href="http://mmrf.in/saienclave/" class="info" target="_blank">View</a>
+<a  href="work/vista.png" rel="lightbox" > <img
+								src="work/vista.png" 
+								class="img-polaroid">View
+						</a>
+
 </div>
 </div>
 </li>
