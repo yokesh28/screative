@@ -107,10 +107,12 @@
 <div class="mask">
 <p>VISTA OCEANA</p>
 
+
 <a  href="work/vista.png" rel="lightbox" > <img
 								src="work/vista.png" 
 								class="img-polaroid">View
 						</a>
+
 
 </div>
 </div>

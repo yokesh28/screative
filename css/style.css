@@ -806,6 +806,15 @@ footer div.social1 {
 	margin: 0px;
 	padding: 0px;
 }
+.about p{
+	margin-bottom: 7px;
+	color: #1D81C9;
+	font-weight: bold;
+}
+.about p:HOVER{
+	
+	color:white;
+}
 
 hr {
 	border-width: 4px;
