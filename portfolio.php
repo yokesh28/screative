@@ -122,8 +122,9 @@
 <div class="mask">
 
 
-<a  href="work/toy1.png" rel="lightbox">
-<img src="work/toy.png" class="img-polaroid"></a>
+
+<a class="info fancybox"  href="work/5.jpg" target="_blank">view</a>
+
 </div>
 </div>
 </li>
