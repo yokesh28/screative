@@ -62,9 +62,9 @@
 
 
 
-<a  href="work/mmrf.png" rel="lightbox" > <img
+<a  href="work/mmrf1.png" rel="lightbox" > <img
 								src="work/mmrf.png" 
-								class="img-polaroid">View
+								class="img-polaroid">
 						</a>
 
 
@@ -78,9 +78,9 @@
 <div class="mask">
 <p>ARYA</p>
 
-<a  href="work/arya.png" rel="lightbox" > <img
-								src="work/arya.png" 
-								class="img-polaroid">View
+<a  href="work/arya1.png" rel="lightbox" > <img
+								src="work/arya1.png" 
+								class="img-polaroid">
 						</a>
 
 </div>
@@ -93,9 +93,9 @@
 <div class="mask">
 <p>SAI ENCLAVE</p>
 
-<a  href="work/sai.png" rel="lightbox" > <img
-								src="work/sai.png" 
-								class="img-polaroid">View
+<a  href="work/sai2.png" rel="lightbox" > <img
+								src="work/sai2.png" 
+								class="img-polaroid">
 						</a>
 </div>
 </div>
@@ -108,9 +108,9 @@
 <p>VISTA OCEANA</p>
 
 
-<a  href="work/vista.png" rel="lightbox" > <img
-								src="work/vista.png" 
-								class="img-polaroid">View
+<a  href="work/vista1.png" rel="lightbox" > <img
+								src="work/vista1.png" 
+								class="img-polaroid">
 						</a>
 
 
@@ -121,11 +121,12 @@
 
 <li>
 <div class="view view-tenth viewheader">
-<img src="work/5.jpg">
+<img src="work/toy.png">
 <div class="mask">
 <p>ANAAMALAIS TOYOTA</p>
 
-<a class="info fancybox"  href="work/5.jpg" target="_blank">View</a>
+<a  href="work/toy1.png" rel="lightbox">
+<img src="work/toy.png" class="img-polaroid"></a>
 </div>
 </div>
 </li>
