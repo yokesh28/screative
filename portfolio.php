@@ -105,7 +105,7 @@
 <div class="mask">
 <p>ANAAMALAIS TOYOTA</p>
 
-<a class="info fancybox"  href="work/5.jpg" target="_blank">View</a>
+<a class="info fancybox"  href="work/5.jpg" target="_blank">view</a>
 </div>
 </div>
 </li>
