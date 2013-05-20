@@ -67,7 +67,9 @@
 
 				
 					<dd>
-						<p>WE LISTEN</p>For us it is essential to know exactly
+
+						<b>WE LISTEN</b><br>For us it is essential to know exactly
+
 						what is important to you. We ask a lot of questions, because the
 						more we know the better we can tailor bespoke marketing and design
 						solutions to your needs.

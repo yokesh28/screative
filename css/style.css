@@ -885,6 +885,13 @@ hr {
 }
 
 
+.center b{
+	color:blue;
+}
+
+.center b:hover{
+	color:white;
+}
 
 
 .about h6{
