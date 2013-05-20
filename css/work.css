@@ -12,7 +12,7 @@
    transition: all 0.7s ease-in-out;
 }
 .view-tenth .mask {
-   background-color: #2E68A0;
+   
    -webkit-transition: all 0.5s linear;
    -moz-transition: all 0.5s linear;
    -o-transition: all 0.5s linear;
@@ -110,20 +110,11 @@ font-size: 12px;
    -ms-transition: all 0.5s linear;
    transition: all 0.5s linear;
 }
-.view-tenth:hover img, .onhover img {
-   -webkit-transform: scale(10);
-   -moz-transform: scale(10);
-   -o-transform: scale(10);
-   -ms-transform: scale(10);
-   transform: scale(10);
-   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
-   filter: alpha(opacity=0);
-   opacity: 0;
-}
+
 .view-tenth:hover .mask , .onhover .mask{
    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
    filter: alpha(opacity=100);
-   opacity: 1;
+   
 }
 .view-tenth:hover h2,
 .view-tenth:hover p,

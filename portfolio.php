@@ -58,11 +58,8 @@
 <div class="view view-tenth">
 <img src="work/mmrf.png">
 <div class="mask">
-<p>MMRF</p>
 
-
-
-<a  href="work/mmrf1.png" rel="lightbox" > <img
+<a  href="work/mmrf9.jpg" rel="lightbox" > <img
 								src="work/mmrf.png" 
 								class="img-polaroid">
 						</a>
@@ -76,9 +73,9 @@
 <div class="view view-tenth">
 <img src="work/arya.png">
 <div class="mask">
-<p>ARYA</p>
 
-<a  href="work/arya1.png" rel="lightbox" > <img
+
+<a  href="work/arya9.jpg" rel="lightbox" > <img
 								src="work/arya1.png" 
 								class="img-polaroid">
 						</a>
@@ -91,9 +88,9 @@
 <div class="view view-tenth">
 <img src="work/sai.png">
 <div class="mask">
-<p>SAI ENCLAVE</p>
 
-<a  href="work/sai2.png" rel="lightbox" > <img
+
+<a  href="work/sai9.jpg" rel="lightbox" > <img
 								src="work/sai2.png" 
 								class="img-polaroid">
 						</a>
@@ -105,10 +102,10 @@
 <div class="view view-tenth viewheader">
 <img src="work/vista.png">
 <div class="mask">
-<p>VISTA OCEANA</p>
 
 
-<a  href="work/vista1.png" rel="lightbox" > <img
+
+<a  href="work/vista9.jpg" rel="lightbox" > <img
 								src="work/vista1.png" 
 								class="img-polaroid">
 						</a>
@@ -123,7 +120,7 @@
 <div class="view view-tenth viewheader">
 <img src="work/toy.png">
 <div class="mask">
-<p>ANAAMALAIS TOYOTA</p>
+
 
 <a  href="work/toy1.png" rel="lightbox">
 <img src="work/toy.png" class="img-polaroid"></a>
