@@ -783,7 +783,7 @@ footer div.social1 {
 	padding: 8px;
 }
 
-.about dd {
+.about li {
 	padding: 16px;
 	margin: 9px;
 	background: white;
@@ -793,14 +793,20 @@ footer div.social1 {
    font-family: 'Roboto Slab', serif;
  }
 
-.about dd:hover {
+.about li:hover {
 	background: #1D81C9;
 	color: white;
 	cursor: pointer;
-	-moz-box-shadow: 0px 0px 10px 6px rgba(119, 119, 119, 1);
-	-webkit-box-shadow: 0px 0px 10px 6px rgba(119, 119, 119, 1);
-	box-shadow: 0px 0px 10px 6px rgba(119, 119, 119, 1);
+	
 }
+.about h5 {
+	
+	color:#1D81C9;
+}
+.about li:hover h5 {
+	
+	color:white;
+	}
 
 .about .large-4 {
 	margin: 0px;

@@ -30,9 +30,9 @@
 		
 		<div class="row background_image">
 			<div class="large-4 columns related1 left">
-				<dl>
+				<ul style="list-style-type: none;">
 					
-					<dd>We create interactivity for web and the physical world.
+					<li>We create interactivity for web and the physical world.
 						From experiential storytelling projects to digital services to
 						physical-digital contraptions.we do it all. our goal has been
 						to use digital technology to create experiences with a deeper
@@ -41,88 +41,88 @@
 						technology in new ways. We love doing things that haven&rsquo;t
 						been done before and we can offer a unique way to bridge the gap
 						between content and technology, between narrative and interactive
-						experience.</dd>
+						experience.</li>
 
 
 					
-					<dd>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;S A
-						PASSION&rdquo;</dd>
+					<li>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;S A
+						PASSION&rdquo;</li>
 
 					
-					<dd><p>WE ARE HERE TO SOLVE YOUR BRAND, COMMUNICATIONS AND
+					<li>WE ARE HERE TO SOLVE YOUR BRAND, COMMUNICATIONS AND
 						MARKETING ISSUES. WE DON&rsquo;T LIKE LAZY DESIGN, WE WORK
 						PASSIONATELY TO DELIVER DESIGN SOLUTIONS THAT NOT ONLY WORK BUT
-						LOOK GREAT AS WELL.</p></dd>
+						LOOK GREAT AS WELL.</li>
 
 
 
-				</dl>
+				</ul>
 			</div>
 
 
 
 			<div class="large-4 columns related4 center">
 
-				<dl>
+				<ul style="list-style-type: none;">
 
 				
-					<dd>
+					<li>
 
-						<b>WE LISTEN</b><br>For us it is essential to know exactly
+						<h5>WE LISTEN</h5>For us it is essential to know exactly
 
 						what is important to you. We ask a lot of questions, because the
 						more we know the better we can tailor bespoke marketing and design
 						solutions to your needs.
-					</dd>
+					</li>
 					
-					<dd><p>IT &rsquo;S IMPORTANT TO BE BOTH GOOD LOOKING & CLEVER.
-						LET US EXPLAIN.EVERYTHING WE MAKE LOOKS GOOD.</p></dd>
+					<li>IT &rsquo;S IMPORTANT TO BE BOTH GOOD LOOKING & CLEVER.
+						LET US EXPLAIN.EVERYTHING WE MAKE LOOKS GOOD.</li>
 
 
 					
-					<dd>
-						<p>BEAUTY IS NOT ENOUGH</p>We love beautiful things, but
+					<li>
+						<h5>BEAUTY IS NOT ENOUGH</h5>We love beautiful things, but
 						when it comes to design we keep it with one of Alfa Romeo's
 						claims: La belezza non basta-  Beauty is not enough! And we get
 						inspired by Sir Norman Foster's motto 'Form follows function'. For
 						us real beauty is not just a nice shell, it's as much internal as
 						it is external.
-					</dd>
+					</li>
 
 
-				</dl>
+				</ul>
 
 			</div>
 
 
 
 			<div class="large-4 columns related7 right">
-				<dl>
+				<ul style="list-style-type: none;">
 					
-					<dd><p>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;S A
-						PASSION&rdquo;</p></dd>
+					<li>&ldquo;DESIGN IS NOT JUST A BUSINESS,IT&rsquo;S A
+						PASSION&rdquo;</li>
 
 
 					
-					<dd>
-						<p>WHY WORK WITH US</p>"We enjoy the finer details of a
+					<li>
+						<h5>WHY WORK WITH US</h5>"We enjoy the finer details of a
 						project, considering every stage of its journey from planning to
 						completion. Our projects not only look great, they use the right
 						tools that work for you and with your success comes ours. We make
 						sure to apply the same level of thought, care and attention to
 						every project as if it were our own."
-					</dd>
+					</li>
 
 
 
 		
-					<dd>
-						<p>WE ARE FLEXIBLE</p>Whether your dream is to conquer
+					<li>
+						<h5>WE ARE FLEXIBLE</h5>Whether your dream is to conquer
 						the world with a budget to match or your budget is more modest, we
 						always listen to your needs to come up with a solution that's
 						right for you - within your budget.
-					</dd>
-				</dl>
+					</li>
+				</ul>
 			</div>
 
 		</div>
